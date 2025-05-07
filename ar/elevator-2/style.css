@@ -1,5 +1,5 @@
 
-  .j195x {
+  .ez9rm {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .j195xtitle {
+  .ez9rmtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .j195xtitlebody {
+  .ez9rmtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .j195xtitlebodytitle {
+  .ez9rmtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .j195xtitlebodylang {
+  .ez9rmtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .j195xtitlebodylang ul {
+  .ez9rmtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .j195xbody {
+  .ez9rmbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .j195xmenu {
+  .ez9rmmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .j195xmenulist {
+  .ez9rmmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .j195xmenubody {
+  .ez9rmmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .j195xmenulist ul {
+  .ez9rmmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .j195xmenulist ul a {
+  .ez9rmmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .j195xmenulist ul a:hover {
+  .ez9rmmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .j195xmenulistactive {
+  .ez9rmmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .j195xmenulistbody {
+  .ez9rmmenulistbody {
     width: 100%;
   }
 
-  .j195xbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .ez9rmbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .j195xmenu {
+    .ez9rmmenu {
       overflow-x: auto;
     }
 
-    .j195xmenulist ul {
+    .ez9rmmenulist ul {
       flex-direction: row;
     }
 
-    .j195xbodylogo {
-      height: 50vw;
+    .ez9rmbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .j195xmenulist ul a {
+    .ez9rmmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .c2no4 {
+  .ega29 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .c2no4-menu {
+  .ega29-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .ega29-menu-btn i {
+    font-size: 20px;
+  }
+
+  .ega29-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .c2no4-desc {
+  .ega29-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .c2no4-menu > a {
+  .ega29-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .c2no4-menu > .active,
-  .c2no4-menu > a:hover {
+  .ega29-menu>.active,
+  .ega29-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .c2no4-desc-menu {
+  .ega29-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .c2no4-desc-menu > div {
+  .ega29-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .c2no4-desc-body {
+  .ega29-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .c2no4-title {
+  .ega29-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .c2no4-title::before {
+  .ega29-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .c2no4-title span {
+  .ega29-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .c2no4-body {
+  .ega29-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .c2no4-img {
+  .ega29-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .c2no4-img img {
+  .ega29-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .c2no4-desc {
+    .ega29-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .c2no4 {
+    .ega29-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .ega29 {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .c2no4-img {
+    .ega29-img {
       width: 100%;
     }
 
-    .c2no4-body {
+    .ega29-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .c2no4-menu {
+    .ega29-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .c2no4-desc {
+    .ega29-menu.active {
+      display: flex;
+    }
+
+    .ega29-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

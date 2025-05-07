@@ -1,5 +1,5 @@
 
-  .ooeer {
+  .mw8ad {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ooeertitle {
+  .mw8adtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ooeertitlebody {
+  .mw8adtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ooeertitlebodytitle {
+  .mw8adtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ooeertitlebodylang {
+  .mw8adtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ooeertitlebodylang ul {
+  .mw8adtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ooeerbody {
+  .mw8adbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ooeermenu {
+  .mw8admenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ooeermenulist {
+  .mw8admenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ooeermenubody {
+  .mw8admenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ooeermenulist ul {
+  .mw8admenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ooeermenulist ul a {
+  .mw8admenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .ooeermenulist ul a:hover {
+  .mw8admenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ooeermenulistactive {
+  .mw8admenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .ooeermenulistbody {
+  .mw8admenulistbody {
     width: 100%;
   }
 
-  .ooeerbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .mw8adbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .ooeermenu {
+    .mw8admenu {
       overflow-x: auto;
     }
 
-    .ooeermenulist ul {
+    .mw8admenulist ul {
       flex-direction: row;
     }
 
-    .ooeerbodylogo {
-      height: 50vw;
+    .mw8adbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .ooeermenulist ul a {
+    .mw8admenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .jtbaw {
+  .c0gjo {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .jtbaw-menu {
+  .c0gjo-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .c0gjo-menu-btn i {
+    font-size: 20px;
+  }
+
+  .c0gjo-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .jtbaw-desc {
+  .c0gjo-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .jtbaw-menu > a {
+  .c0gjo-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .jtbaw-menu > .active,
-  .jtbaw-menu > a:hover {
+  .c0gjo-menu>.active,
+  .c0gjo-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .jtbaw-desc-menu {
+  .c0gjo-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .jtbaw-desc-menu > div {
+  .c0gjo-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .jtbaw-desc-body {
+  .c0gjo-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .jtbaw-title {
+  .c0gjo-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .jtbaw-title::before {
+  .c0gjo-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .jtbaw-title span {
+  .c0gjo-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .jtbaw-body {
+  .c0gjo-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .jtbaw-img {
+  .c0gjo-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .jtbaw-img img {
+  .c0gjo-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .jtbaw-desc {
+    .c0gjo-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .jtbaw {
+    .c0gjo-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .c0gjo {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .jtbaw-img {
+    .c0gjo-img {
       width: 100%;
     }
 
-    .jtbaw-body {
+    .c0gjo-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .jtbaw-menu {
+    .c0gjo-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .jtbaw-desc {
+    .c0gjo-menu.active {
+      display: flex;
+    }
+
+    .c0gjo-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

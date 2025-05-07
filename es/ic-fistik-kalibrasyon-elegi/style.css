@@ -1,5 +1,5 @@
 
-  .wdqxl {
+  .d9ef2 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .wdqxltitle {
+  .d9ef2title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .wdqxltitlebody {
+  .d9ef2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .wdqxltitlebodytitle {
+  .d9ef2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .wdqxltitlebodylang {
+  .d9ef2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .wdqxltitlebodylang ul {
+  .d9ef2titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .wdqxlbody {
+  .d9ef2body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .wdqxlmenu {
+  .d9ef2menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .wdqxlmenulist {
+  .d9ef2menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .wdqxlmenubody {
+  .d9ef2menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .wdqxlmenulist ul {
+  .d9ef2menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .wdqxlmenulist ul a {
+  .d9ef2menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .wdqxlmenulist ul a:hover {
+  .d9ef2menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .wdqxlmenulistactive {
+  .d9ef2menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .wdqxlmenulistbody {
+  .d9ef2menulistbody {
     width: 100%;
   }
 
-  .wdqxlbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .d9ef2bodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .wdqxlmenu {
+    .d9ef2menu {
       overflow-x: auto;
     }
 
-    .wdqxlmenulist ul {
+    .d9ef2menulist ul {
       flex-direction: row;
     }
 
-    .wdqxlbodylogo {
-      height: 50vw;
+    .d9ef2bodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .wdqxlmenulist ul a {
+    .d9ef2menulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .td2d4 {
+  .d05is {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .td2d4-menu {
+  .d05is-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .d05is-menu-btn i {
+    font-size: 20px;
+  }
+
+  .d05is-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .td2d4-desc {
+  .d05is-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .td2d4-menu > a {
+  .d05is-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .td2d4-menu > .active,
-  .td2d4-menu > a:hover {
+  .d05is-menu>.active,
+  .d05is-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .td2d4-desc-menu {
+  .d05is-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .td2d4-desc-menu > div {
+  .d05is-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .td2d4-desc-body {
+  .d05is-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .td2d4-title {
+  .d05is-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .td2d4-title::before {
+  .d05is-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .td2d4-title span {
+  .d05is-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .td2d4-body {
+  .d05is-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .td2d4-img {
+  .d05is-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .td2d4-img img {
+  .d05is-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .td2d4-desc {
+    .d05is-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .td2d4 {
+    .d05is-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .d05is {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .td2d4-img {
+    .d05is-img {
       width: 100%;
     }
 
-    .td2d4-body {
+    .d05is-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .td2d4-menu {
+    .d05is-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .td2d4-desc {
+    .d05is-menu.active {
+      display: flex;
+    }
+
+    .d05is-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

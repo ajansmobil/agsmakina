@@ -1,5 +1,5 @@
 
-  .iwfyx {
+  .nx4dy {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .iwfyxtitle {
+  .nx4dytitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .iwfyxtitlebody {
+  .nx4dytitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .iwfyxtitlebodytitle {
+  .nx4dytitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .iwfyxtitlebodylang {
+  .nx4dytitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .iwfyxtitlebodylang ul {
+  .nx4dytitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .iwfyxbody {
+  .nx4dybody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .iwfyxmenu {
+  .nx4dymenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .iwfyxmenulist {
+  .nx4dymenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .iwfyxmenubody {
+  .nx4dymenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .iwfyxmenulist ul {
+  .nx4dymenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .iwfyxmenulist ul a {
+  .nx4dymenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .iwfyxmenulist ul a:hover {
+  .nx4dymenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .iwfyxmenulistactive {
+  .nx4dymenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .iwfyxmenulistbody {
+  .nx4dymenulistbody {
     width: 100%;
   }
 
-  .iwfyxbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .nx4dybodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .iwfyxmenu {
+    .nx4dymenu {
       overflow-x: auto;
     }
 
-    .iwfyxmenulist ul {
+    .nx4dymenulist ul {
       flex-direction: row;
     }
 
-    .iwfyxbodylogo {
-      height: 50vw;
+    .nx4dybodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .iwfyxmenulist ul a {
+    .nx4dymenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .wlwp6 {
+  .rmn13 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .wlwp6-menu {
+  .rmn13-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .rmn13-menu-btn i {
+    font-size: 20px;
+  }
+
+  .rmn13-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .wlwp6-desc {
+  .rmn13-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .wlwp6-menu > a {
+  .rmn13-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .wlwp6-menu > .active,
-  .wlwp6-menu > a:hover {
+  .rmn13-menu>.active,
+  .rmn13-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .wlwp6-desc-menu {
+  .rmn13-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .wlwp6-desc-menu > div {
+  .rmn13-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .wlwp6-desc-body {
+  .rmn13-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .wlwp6-title {
+  .rmn13-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .wlwp6-title::before {
+  .rmn13-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .wlwp6-title span {
+  .rmn13-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .wlwp6-body {
+  .rmn13-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .wlwp6-img {
+  .rmn13-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .wlwp6-img img {
+  .rmn13-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .wlwp6-desc {
+    .rmn13-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .wlwp6 {
+    .rmn13-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .rmn13 {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .wlwp6-img {
+    .rmn13-img {
       width: 100%;
     }
 
-    .wlwp6-body {
+    .rmn13-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .wlwp6-menu {
+    .rmn13-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .wlwp6-desc {
+    .rmn13-menu.active {
+      display: flex;
+    }
+
+    .rmn13-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

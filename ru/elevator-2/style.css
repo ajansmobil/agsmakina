@@ -1,5 +1,5 @@
 
-  .a2it9 {
+  .ekaz7 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .a2it9title {
+  .ekaz7title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .a2it9titlebody {
+  .ekaz7titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .a2it9titlebodytitle {
+  .ekaz7titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .a2it9titlebodylang {
+  .ekaz7titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .a2it9titlebodylang ul {
+  .ekaz7titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .a2it9body {
+  .ekaz7body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .a2it9menu {
+  .ekaz7menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .a2it9menulist {
+  .ekaz7menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .a2it9menubody {
+  .ekaz7menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .a2it9menulist ul {
+  .ekaz7menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .a2it9menulist ul a {
+  .ekaz7menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .a2it9menulist ul a:hover {
+  .ekaz7menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .a2it9menulistactive {
+  .ekaz7menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .a2it9menulistbody {
+  .ekaz7menulistbody {
     width: 100%;
   }
 
-  .a2it9bodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .ekaz7bodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .a2it9menu {
+    .ekaz7menu {
       overflow-x: auto;
     }
 
-    .a2it9menulist ul {
+    .ekaz7menulist ul {
       flex-direction: row;
     }
 
-    .a2it9bodylogo {
-      height: 50vw;
+    .ekaz7bodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .a2it9menulist ul a {
+    .ekaz7menulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .n4q9a {
+  .rqse0 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .n4q9a-menu {
+  .rqse0-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .rqse0-menu-btn i {
+    font-size: 20px;
+  }
+
+  .rqse0-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .n4q9a-desc {
+  .rqse0-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .n4q9a-menu > a {
+  .rqse0-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .n4q9a-menu > .active,
-  .n4q9a-menu > a:hover {
+  .rqse0-menu>.active,
+  .rqse0-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .n4q9a-desc-menu {
+  .rqse0-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .n4q9a-desc-menu > div {
+  .rqse0-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .n4q9a-desc-body {
+  .rqse0-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .n4q9a-title {
+  .rqse0-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .n4q9a-title::before {
+  .rqse0-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .n4q9a-title span {
+  .rqse0-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .n4q9a-body {
+  .rqse0-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .n4q9a-img {
+  .rqse0-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .n4q9a-img img {
+  .rqse0-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .n4q9a-desc {
+    .rqse0-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .n4q9a {
+    .rqse0-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .rqse0 {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .n4q9a-img {
+    .rqse0-img {
       width: 100%;
     }
 
-    .n4q9a-body {
+    .rqse0-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .n4q9a-menu {
+    .rqse0-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .n4q9a-desc {
+    .rqse0-menu.active {
+      display: flex;
+    }
+
+    .rqse0-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

@@ -1,5 +1,5 @@
 
-  .glwtd {
+  .s43lk {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .glwtdtitle {
+  .s43lktitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .glwtdtitlebody {
+  .s43lktitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .glwtdtitlebodytitle {
+  .s43lktitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .glwtdtitlebodylang {
+  .s43lktitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .glwtdtitlebodylang ul {
+  .s43lktitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .glwtdbody {
+  .s43lkbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .glwtdmenu {
+  .s43lkmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .glwtdmenulist {
+  .s43lkmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .glwtdmenubody {
+  .s43lkmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .glwtdmenulist ul {
+  .s43lkmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .glwtdmenulist ul a {
+  .s43lkmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .glwtdmenulist ul a:hover {
+  .s43lkmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .glwtdmenulistactive {
+  .s43lkmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .glwtdmenulistbody {
+  .s43lkmenulistbody {
     width: 100%;
   }
 
-  .glwtdbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .s43lkbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .glwtdmenu {
+    .s43lkmenu {
       overflow-x: auto;
     }
 
-    .glwtdmenulist ul {
+    .s43lkmenulist ul {
       flex-direction: row;
     }
 
-    .glwtdbodylogo {
-      height: 50vw;
+    .s43lkbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .glwtdmenulist ul a {
+    .s43lkmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .tebq6 {
+  .lp2on {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .tebq6-menu {
+  .lp2on-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .lp2on-menu-btn i {
+    font-size: 20px;
+  }
+
+  .lp2on-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .tebq6-desc {
+  .lp2on-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .tebq6-menu > a {
+  .lp2on-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .tebq6-menu > .active,
-  .tebq6-menu > a:hover {
+  .lp2on-menu>.active,
+  .lp2on-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .tebq6-desc-menu {
+  .lp2on-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .tebq6-desc-menu > div {
+  .lp2on-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .tebq6-desc-body {
+  .lp2on-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .tebq6-title {
+  .lp2on-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .tebq6-title::before {
+  .lp2on-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .tebq6-title span {
+  .lp2on-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .tebq6-body {
+  .lp2on-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .tebq6-img {
+  .lp2on-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .tebq6-img img {
+  .lp2on-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .tebq6-desc {
+    .lp2on-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .tebq6 {
+    .lp2on-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .lp2on {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .tebq6-img {
+    .lp2on-img {
       width: 100%;
     }
 
-    .tebq6-body {
+    .lp2on-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .tebq6-menu {
+    .lp2on-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .tebq6-desc {
+    .lp2on-menu.active {
+      display: flex;
+    }
+
+    .lp2on-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

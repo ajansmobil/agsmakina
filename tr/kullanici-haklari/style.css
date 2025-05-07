@@ -1,5 +1,5 @@
 
-  .uip2h {
+  .eznnm {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .uip2htitle {
+  .eznnmtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .uip2htitlebody {
+  .eznnmtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .uip2htitlebodytitle {
+  .eznnmtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .uip2htitlebodylang {
+  .eznnmtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .uip2htitlebodylang ul {
+  .eznnmtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .uip2hbody {
+  .eznnmbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .uip2hmenu {
+  .eznnmmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .uip2hmenulist {
+  .eznnmmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .uip2hmenubody {
+  .eznnmmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .uip2hmenulist ul {
+  .eznnmmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .uip2hmenulist ul a {
+  .eznnmmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .uip2hmenulist ul a:hover {
+  .eznnmmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .uip2hmenulistactive {
+  .eznnmmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .uip2hmenulistbody {
+  .eznnmmenulistbody {
     width: 100%;
   }
 
-  .uip2hbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .eznnmbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .uip2hmenu {
+    .eznnmmenu {
       overflow-x: auto;
     }
 
-    .uip2hmenulist ul {
+    .eznnmmenulist ul {
       flex-direction: row;
     }
 
-    .uip2hbodylogo {
-      height: 50vw;
+    .eznnmbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .uip2hmenulist ul a {
+    .eznnmmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .kj2qd {
+  .sphni {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .kj2qd-menu {
+  .sphni-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .sphni-menu-btn i {
+    font-size: 20px;
+  }
+
+  .sphni-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .kj2qd-desc {
+  .sphni-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .kj2qd-menu > a {
+  .sphni-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .kj2qd-menu > .active,
-  .kj2qd-menu > a:hover {
+  .sphni-menu>.active,
+  .sphni-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .kj2qd-desc-menu {
+  .sphni-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .kj2qd-desc-menu > div {
+  .sphni-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .kj2qd-desc-body {
+  .sphni-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .kj2qd-title {
+  .sphni-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .kj2qd-title::before {
+  .sphni-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .kj2qd-title span {
+  .sphni-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .kj2qd-body {
+  .sphni-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .kj2qd-img {
+  .sphni-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .kj2qd-img img {
+  .sphni-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .kj2qd-desc {
+    .sphni-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .kj2qd {
+    .sphni-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .sphni {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .kj2qd-img {
+    .sphni-img {
       width: 100%;
     }
 
-    .kj2qd-body {
+    .sphni-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .kj2qd-menu {
+    .sphni-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .kj2qd-desc {
+    .sphni-menu.active {
+      display: flex;
+    }
+
+    .sphni-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

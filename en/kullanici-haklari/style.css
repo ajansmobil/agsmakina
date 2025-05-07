@@ -1,5 +1,5 @@
 
-  .hrj0z {
+  .ygov3 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .hrj0ztitle {
+  .ygov3title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .hrj0ztitlebody {
+  .ygov3titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .hrj0ztitlebodytitle {
+  .ygov3titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .hrj0ztitlebodylang {
+  .ygov3titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .hrj0ztitlebodylang ul {
+  .ygov3titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .hrj0zbody {
+  .ygov3body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .hrj0zmenu {
+  .ygov3menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .hrj0zmenulist {
+  .ygov3menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .hrj0zmenubody {
+  .ygov3menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .hrj0zmenulist ul {
+  .ygov3menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .hrj0zmenulist ul a {
+  .ygov3menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .hrj0zmenulist ul a:hover {
+  .ygov3menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .hrj0zmenulistactive {
+  .ygov3menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .hrj0zmenulistbody {
+  .ygov3menulistbody {
     width: 100%;
   }
 
-  .hrj0zbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .ygov3bodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .hrj0zmenu {
+    .ygov3menu {
       overflow-x: auto;
     }
 
-    .hrj0zmenulist ul {
+    .ygov3menulist ul {
       flex-direction: row;
     }
 
-    .hrj0zbodylogo {
-      height: 50vw;
+    .ygov3bodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .hrj0zmenulist ul a {
+    .ygov3menulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .etsal {
+  .g7zh9 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .etsal-menu {
+  .g7zh9-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .g7zh9-menu-btn i {
+    font-size: 20px;
+  }
+
+  .g7zh9-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .etsal-desc {
+  .g7zh9-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .etsal-menu > a {
+  .g7zh9-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .etsal-menu > .active,
-  .etsal-menu > a:hover {
+  .g7zh9-menu>.active,
+  .g7zh9-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .etsal-desc-menu {
+  .g7zh9-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .etsal-desc-menu > div {
+  .g7zh9-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .etsal-desc-body {
+  .g7zh9-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .etsal-title {
+  .g7zh9-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .etsal-title::before {
+  .g7zh9-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .etsal-title span {
+  .g7zh9-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .etsal-body {
+  .g7zh9-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .etsal-img {
+  .g7zh9-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .etsal-img img {
+  .g7zh9-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .etsal-desc {
+    .g7zh9-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .etsal {
+    .g7zh9-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .g7zh9 {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .etsal-img {
+    .g7zh9-img {
       width: 100%;
     }
 
-    .etsal-body {
+    .g7zh9-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .etsal-menu {
+    .g7zh9-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .etsal-desc {
+    .g7zh9-menu.active {
+      display: flex;
+    }
+
+    .g7zh9-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

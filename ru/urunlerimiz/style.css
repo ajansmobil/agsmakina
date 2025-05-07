@@ -1,5 +1,5 @@
 
-  .o4eko {
+  .m7zxz {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .o4ekotitle {
+  .m7zxztitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .o4ekotitlebody {
+  .m7zxztitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .o4ekotitlebodytitle {
+  .m7zxztitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .o4ekotitlebodylang {
+  .m7zxztitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .o4ekotitlebodylang ul {
+  .m7zxztitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .o4ekobody {
+  .m7zxzbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .o4ekomenu {
+  .m7zxzmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .o4ekomenulist {
+  .m7zxzmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .o4ekomenubody {
+  .m7zxzmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .o4ekomenulist ul {
+  .m7zxzmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .o4ekomenulist ul a {
+  .m7zxzmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,66 +93,69 @@
     white-space: nowrap;
   }
 
-  .o4ekomenulist ul a:hover {
+  .m7zxzmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .o4ekomenulistactive {
+  .m7zxzmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .o4ekomenulistbody {
+  .m7zxzmenulistbody {
     width: 100%;
   }
 
-  .o4ekobodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .m7zxzbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .o4ekomenu {
+    .m7zxzmenu {
       overflow-x: auto;
     }
 
-    .o4ekomenulist ul {
+    .m7zxzmenulist ul {
       flex-direction: row;
     }
 
-    .o4ekobodylogo {
-      height: 50vw;
+    .m7zxzbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .o4ekomenulist ul a {
+    .m7zxzmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .gcjq2 {
+  .mlg8v {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .gcjq2body {
+  .mlg8vbody {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .gcjq2bodyitem {
+  .mlg8vbodyitem {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -162,7 +165,7 @@
     gap: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
-  .gcjq2bodyitemimg {
+  .mlg8vbodyitemimg {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -171,13 +174,13 @@
     border-radius: 5px;
     overflow: hidden; /* Taşma durumunda kesme */
   }
-  .gcjq2bodyitemimg img {
+  .mlg8vbodyitemimg img {
     width: 100%;
     height: 100%;
     object-fit: contain; /* Resmi sığdır, taşma yapmasın */
     border-radius: 5px;
   }
-  .gcjq2bodyitemtitle {
+  .mlg8vbodyitemtitle {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -189,14 +192,14 @@
     color: #333;
   }
   @media screen and (max-width: 1024px) {
-    .gcjq2body {
+    .mlg8vbody {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .gcjq2body {
+    .mlg8vbody {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

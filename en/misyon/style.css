@@ -1,5 +1,5 @@
 
-  .o0iwr {
+  .km90w {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .o0iwrtitle {
+  .km90wtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .o0iwrtitlebody {
+  .km90wtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .o0iwrtitlebodytitle {
+  .km90wtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .o0iwrtitlebodylang {
+  .km90wtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .o0iwrtitlebodylang ul {
+  .km90wtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .o0iwrbody {
+  .km90wbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .o0iwrmenu {
+  .km90wmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .o0iwrmenulist {
+  .km90wmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .o0iwrmenubody {
+  .km90wmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .o0iwrmenulist ul {
+  .km90wmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .o0iwrmenulist ul a {
+  .km90wmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .o0iwrmenulist ul a:hover {
+  .km90wmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .o0iwrmenulistactive {
+  .km90wmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .o0iwrmenulistbody {
+  .km90wmenulistbody {
     width: 100%;
   }
 
-  .o0iwrbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .km90wbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .o0iwrmenu {
+    .km90wmenu {
       overflow-x: auto;
     }
 
-    .o0iwrmenulist ul {
+    .km90wmenulist ul {
       flex-direction: row;
     }
 
-    .o0iwrbodylogo {
-      height: 50vw;
+    .km90wbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .o0iwrmenulist ul a {
+    .km90wmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .vpv8h {
+  .rz08j {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .vpv8h-menu {
+  .rz08j-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .rz08j-menu-btn i {
+    font-size: 20px;
+  }
+
+  .rz08j-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .vpv8h-desc {
+  .rz08j-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .vpv8h-menu > a {
+  .rz08j-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .vpv8h-menu > .active,
-  .vpv8h-menu > a:hover {
+  .rz08j-menu>.active,
+  .rz08j-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .vpv8h-desc-menu {
+  .rz08j-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .vpv8h-desc-menu > div {
+  .rz08j-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .vpv8h-desc-body {
+  .rz08j-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .vpv8h-title {
+  .rz08j-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .vpv8h-title::before {
+  .rz08j-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .vpv8h-title span {
+  .rz08j-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .vpv8h-body {
+  .rz08j-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .vpv8h-img {
+  .rz08j-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .vpv8h-img img {
+  .rz08j-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .vpv8h-desc {
+    .rz08j-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .vpv8h {
+    .rz08j-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .rz08j {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .vpv8h-img {
+    .rz08j-img {
       width: 100%;
     }
 
-    .vpv8h-body {
+    .rz08j-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .vpv8h-menu {
+    .rz08j-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .vpv8h-desc {
+    .rz08j-menu.active {
+      display: flex;
+    }
+
+    .rz08j-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

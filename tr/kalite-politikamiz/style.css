@@ -1,5 +1,5 @@
 
-  .pixg1 {
+  .ucwyj {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .pixg1title {
+  .ucwyjtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .pixg1titlebody {
+  .ucwyjtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .pixg1titlebodytitle {
+  .ucwyjtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .pixg1titlebodylang {
+  .ucwyjtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .pixg1titlebodylang ul {
+  .ucwyjtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .pixg1body {
+  .ucwyjbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .pixg1menu {
+  .ucwyjmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .pixg1menulist {
+  .ucwyjmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .pixg1menubody {
+  .ucwyjmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .pixg1menulist ul {
+  .ucwyjmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .pixg1menulist ul a {
+  .ucwyjmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .pixg1menulist ul a:hover {
+  .ucwyjmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .pixg1menulistactive {
+  .ucwyjmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .pixg1menulistbody {
+  .ucwyjmenulistbody {
     width: 100%;
   }
 
-  .pixg1bodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .ucwyjbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .pixg1menu {
+    .ucwyjmenu {
       overflow-x: auto;
     }
 
-    .pixg1menulist ul {
+    .ucwyjmenulist ul {
       flex-direction: row;
     }
 
-    .pixg1bodylogo {
-      height: 50vw;
+    .ucwyjbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .pixg1menulist ul a {
+    .ucwyjmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .msmvq {
+  .ly0sx {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .msmvq-menu {
+  .ly0sx-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .ly0sx-menu-btn i {
+    font-size: 20px;
+  }
+
+  .ly0sx-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .msmvq-desc {
+  .ly0sx-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .msmvq-menu > a {
+  .ly0sx-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .msmvq-menu > .active,
-  .msmvq-menu > a:hover {
+  .ly0sx-menu>.active,
+  .ly0sx-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .msmvq-desc-menu {
+  .ly0sx-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .msmvq-desc-menu > div {
+  .ly0sx-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .msmvq-desc-body {
+  .ly0sx-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .msmvq-title {
+  .ly0sx-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .msmvq-title::before {
+  .ly0sx-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .msmvq-title span {
+  .ly0sx-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .msmvq-body {
+  .ly0sx-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .msmvq-img {
+  .ly0sx-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .msmvq-img img {
+  .ly0sx-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .msmvq-desc {
+    .ly0sx-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .msmvq {
+    .ly0sx-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .ly0sx {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .msmvq-img {
+    .ly0sx-img {
       width: 100%;
     }
 
-    .msmvq-body {
+    .ly0sx-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .msmvq-menu {
+    .ly0sx-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .msmvq-desc {
+    .ly0sx-menu.active {
+      display: flex;
+    }
+
+    .ly0sx-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

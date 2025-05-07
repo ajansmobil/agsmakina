@@ -1,5 +1,5 @@
 
-  .s153l {
+  .yd1wu {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .s153ltitle {
+  .yd1wutitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .s153ltitlebody {
+  .yd1wutitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .s153ltitlebodytitle {
+  .yd1wutitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .s153ltitlebodylang {
+  .yd1wutitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .s153ltitlebodylang ul {
+  .yd1wutitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .s153lbody {
+  .yd1wubody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .s153lmenu {
+  .yd1wumenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .s153lmenulist {
+  .yd1wumenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .s153lmenubody {
+  .yd1wumenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .s153lmenulist ul {
+  .yd1wumenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .s153lmenulist ul a {
+  .yd1wumenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .s153lmenulist ul a:hover {
+  .yd1wumenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .s153lmenulistactive {
+  .yd1wumenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .s153lmenulistbody {
+  .yd1wumenulistbody {
     width: 100%;
   }
 
-  .s153lbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .yd1wubodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .s153lmenu {
+    .yd1wumenu {
       overflow-x: auto;
     }
 
-    .s153lmenulist ul {
+    .yd1wumenulist ul {
       flex-direction: row;
     }
 
-    .s153lbodylogo {
-      height: 50vw;
+    .yd1wubodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .s153lmenulist ul a {
+    .yd1wumenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .y4gsz {
+  .etzzp {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .y4gsz-menu {
+  .etzzp-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .etzzp-menu-btn i {
+    font-size: 20px;
+  }
+
+  .etzzp-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .y4gsz-desc {
+  .etzzp-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .y4gsz-menu > a {
+  .etzzp-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .y4gsz-menu > .active,
-  .y4gsz-menu > a:hover {
+  .etzzp-menu>.active,
+  .etzzp-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .y4gsz-desc-menu {
+  .etzzp-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .y4gsz-desc-menu > div {
+  .etzzp-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .y4gsz-desc-body {
+  .etzzp-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .y4gsz-title {
+  .etzzp-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .y4gsz-title::before {
+  .etzzp-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .y4gsz-title span {
+  .etzzp-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .y4gsz-body {
+  .etzzp-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .y4gsz-img {
+  .etzzp-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .y4gsz-img img {
+  .etzzp-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .y4gsz-desc {
+    .etzzp-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .y4gsz {
+    .etzzp-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .etzzp {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .y4gsz-img {
+    .etzzp-img {
       width: 100%;
     }
 
-    .y4gsz-body {
+    .etzzp-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .y4gsz-menu {
+    .etzzp-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .y4gsz-desc {
+    .etzzp-menu.active {
+      display: flex;
+    }
+
+    .etzzp-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

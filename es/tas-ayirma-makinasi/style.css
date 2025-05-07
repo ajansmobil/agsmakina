@@ -1,5 +1,5 @@
 
-  .g70ht {
+  .zmtf3 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .g70httitle {
+  .zmtf3title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .g70httitlebody {
+  .zmtf3titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .g70httitlebodytitle {
+  .zmtf3titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .g70httitlebodylang {
+  .zmtf3titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .g70httitlebodylang ul {
+  .zmtf3titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .g70htbody {
+  .zmtf3body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .g70htmenu {
+  .zmtf3menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .g70htmenulist {
+  .zmtf3menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .g70htmenubody {
+  .zmtf3menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .g70htmenulist ul {
+  .zmtf3menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .g70htmenulist ul a {
+  .zmtf3menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .g70htmenulist ul a:hover {
+  .zmtf3menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .g70htmenulistactive {
+  .zmtf3menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .g70htmenulistbody {
+  .zmtf3menulistbody {
     width: 100%;
   }
 
-  .g70htbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .zmtf3bodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .g70htmenu {
+    .zmtf3menu {
       overflow-x: auto;
     }
 
-    .g70htmenulist ul {
+    .zmtf3menulist ul {
       flex-direction: row;
     }
 
-    .g70htbodylogo {
-      height: 50vw;
+    .zmtf3bodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .g70htmenulist ul a {
+    .zmtf3menulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .o3w1h {
+  .wto4s {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .o3w1h-menu {
+  .wto4s-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .wto4s-menu-btn i {
+    font-size: 20px;
+  }
+
+  .wto4s-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .o3w1h-desc {
+  .wto4s-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .o3w1h-menu > a {
+  .wto4s-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .o3w1h-menu > .active,
-  .o3w1h-menu > a:hover {
+  .wto4s-menu>.active,
+  .wto4s-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .o3w1h-desc-menu {
+  .wto4s-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .o3w1h-desc-menu > div {
+  .wto4s-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .o3w1h-desc-body {
+  .wto4s-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .o3w1h-title {
+  .wto4s-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .o3w1h-title::before {
+  .wto4s-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .o3w1h-title span {
+  .wto4s-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .o3w1h-body {
+  .wto4s-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .o3w1h-img {
+  .wto4s-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .o3w1h-img img {
+  .wto4s-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .o3w1h-desc {
+    .wto4s-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .o3w1h {
+    .wto4s-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .wto4s {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .o3w1h-img {
+    .wto4s-img {
       width: 100%;
     }
 
-    .o3w1h-body {
+    .wto4s-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .o3w1h-menu {
+    .wto4s-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .o3w1h-desc {
+    .wto4s-menu.active {
+      display: flex;
+    }
+
+    .wto4s-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

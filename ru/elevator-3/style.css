@@ -1,5 +1,5 @@
 
-  .p6h2o {
+  .hkngk {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .p6h2otitle {
+  .hkngktitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .p6h2otitlebody {
+  .hkngktitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .p6h2otitlebodytitle {
+  .hkngktitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .p6h2otitlebodylang {
+  .hkngktitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .p6h2otitlebodylang ul {
+  .hkngktitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .p6h2obody {
+  .hkngkbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .p6h2omenu {
+  .hkngkmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .p6h2omenulist {
+  .hkngkmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .p6h2omenubody {
+  .hkngkmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .p6h2omenulist ul {
+  .hkngkmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .p6h2omenulist ul a {
+  .hkngkmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .p6h2omenulist ul a:hover {
+  .hkngkmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .p6h2omenulistactive {
+  .hkngkmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .p6h2omenulistbody {
+  .hkngkmenulistbody {
     width: 100%;
   }
 
-  .p6h2obodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .hkngkbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .p6h2omenu {
+    .hkngkmenu {
       overflow-x: auto;
     }
 
-    .p6h2omenulist ul {
+    .hkngkmenulist ul {
       flex-direction: row;
     }
 
-    .p6h2obodylogo {
-      height: 50vw;
+    .hkngkbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .p6h2omenulist ul a {
+    .hkngkmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .ugsbv {
+  .z0gsb {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .ugsbv-menu {
+  .z0gsb-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .z0gsb-menu-btn i {
+    font-size: 20px;
+  }
+
+  .z0gsb-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .ugsbv-desc {
+  .z0gsb-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .ugsbv-menu > a {
+  .z0gsb-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .ugsbv-menu > .active,
-  .ugsbv-menu > a:hover {
+  .z0gsb-menu>.active,
+  .z0gsb-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .ugsbv-desc-menu {
+  .z0gsb-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .ugsbv-desc-menu > div {
+  .z0gsb-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .ugsbv-desc-body {
+  .z0gsb-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .ugsbv-title {
+  .z0gsb-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .ugsbv-title::before {
+  .z0gsb-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .ugsbv-title span {
+  .z0gsb-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .ugsbv-body {
+  .z0gsb-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .ugsbv-img {
+  .z0gsb-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .ugsbv-img img {
+  .z0gsb-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ugsbv-desc {
+    .z0gsb-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ugsbv {
+    .z0gsb-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .z0gsb {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .ugsbv-img {
+    .z0gsb-img {
       width: 100%;
     }
 
-    .ugsbv-body {
+    .z0gsb-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .ugsbv-menu {
+    .z0gsb-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .ugsbv-desc {
+    .z0gsb-menu.active {
+      display: flex;
+    }
+
+    .z0gsb-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {

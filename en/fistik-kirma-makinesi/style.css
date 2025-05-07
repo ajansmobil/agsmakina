@@ -1,5 +1,5 @@
 
-  .axb6w {
+  .yqs9w {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .axb6wtitle {
+  .yqs9wtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .axb6wtitlebody {
+  .yqs9wtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .axb6wtitlebodytitle {
+  .yqs9wtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .axb6wtitlebodylang {
+  .yqs9wtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .axb6wtitlebodylang ul {
+  .yqs9wtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .axb6wbody {
+  .yqs9wbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .axb6wmenu {
+  .yqs9wmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .axb6wmenulist {
+  .yqs9wmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .axb6wmenubody {
+  .yqs9wmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .axb6wmenulist ul {
+  .yqs9wmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .axb6wmenulist ul a {
+  .yqs9wmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,48 +93,51 @@
     white-space: nowrap;
   }
 
-  .axb6wmenulist ul a:hover {
+  .yqs9wmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .axb6wmenulistactive {
+  .yqs9wmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .axb6wmenulistbody {
+  .yqs9wmenulistbody {
     width: 100%;
   }
 
-  .axb6wbodylogo {
-    height: 100px;
-    max-width: 90vw;
-    max-height: 100px;
+
+  @media screen and (min-width: 1024px) {
+    .yqs9wbodylogo {
+      height: 100px;
+      max-width: 90vw;
+      max-height: 100px;
+    }
   }
 
   @media screen and (max-width: 1024px) {
-    .axb6wmenu {
+    .yqs9wmenu {
       overflow-x: auto;
     }
 
-    .axb6wmenulist ul {
+    .yqs9wmenulist ul {
       flex-direction: row;
     }
 
-    .axb6wbodylogo {
-      height: 50vw;
+    .yqs9wbodylogo {
+      width: 50vw;
       max-width: 50vw;
       max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .axb6wmenulist ul a {
+    .yqs9wmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +147,31 @@
     justify-content: start;
   }
 
-  .c8fi5 {
+  .vnkq7 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
+    position: relative;
   }
 
-  .c8fi5-menu {
+  .vnkq7-menu-btn {
+    display: none;
+    background-color: #000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .vnkq7-menu-btn i {
+    font-size: 20px;
+  }
+
+  .vnkq7-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +182,28 @@
     float: left;
   }
 
-  .c8fi5-desc {
+  .vnkq7-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .c8fi5-menu > a {
+  .vnkq7-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .c8fi5-menu > .active,
-  .c8fi5-menu > a:hover {
+  .vnkq7-menu>.active,
+  .vnkq7-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .c8fi5-desc-menu {
+  .vnkq7-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -191,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .c8fi5-desc-menu > div {
+  .vnkq7-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .c8fi5-desc-body {
+  .vnkq7-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .c8fi5-title {
+  .vnkq7-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +236,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .c8fi5-title::before {
+  .vnkq7-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,59 +251,81 @@
     z-index: 1;
   }
 
-  .c8fi5-title span {
+  .vnkq7-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .c8fi5-body {
+  .vnkq7-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    text-align: left;
   }
 
-  .c8fi5-img {
+  .vnkq7-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .c8fi5-img img {
+  .vnkq7-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .c8fi5-desc {
+    .vnkq7-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .c8fi5 {
+    .vnkq7-menu-btn {
+      display: flex;
+      width: calc(100% - 55px);
+      margin-left: 5px;    }
+
+    .vnkq7 {
+      display: flex;
       flex-direction: column;
-      width: calc(100% - 10px);
+      width: 100%;
       padding: 5px;
-      gap: 20px;
+      gap: 5px;
+          margin-top: 0px;
+
     }
 
-    .c8fi5-img {
+    .vnkq7-img {
       width: 100%;
     }
 
-    .c8fi5-body {
+    .vnkq7-body {
       width: 100%;
+      order: 3;
+      padding: 10px;
     }
 
-    .c8fi5-menu {
+    .vnkq7-menu {
+      width: 100%;
+      float: none;
+      flex-direction: column;
+      order: 1;
       display: none;
     }
 
-    .c8fi5-desc {
+    .vnkq7-menu.active {
+      display: flex;
+    }
+
+    .vnkq7-desc {
       width: 100% !important;
+      order: 2;
     }
   }
+
+
 
 
   .whatsapp {
