@@ -1,5 +1,5 @@
 
-  .racah {
+  .k2nz0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .racahtitle {
+  .k2nz0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .racahtitlebody {
+  .k2nz0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .racahtitlebodytitle {
+  .k2nz0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .racahtitlebodylang {
+  .k2nz0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .racahtitlebodylang ul {
+  .k2nz0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .racahbody {
+  .k2nz0body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .racahmenu {
+  .k2nz0menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .racahmenulist {
+  .k2nz0menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .racahmenubody {
+  .k2nz0menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .racahmenulist ul {
+  .k2nz0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .racahmenulist ul a {
+  .k2nz0menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .racahmenulist ul a:hover {
+  .k2nz0menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .racahmenulistactive {
+  .k2nz0menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .racahmenulistbody {
+  .k2nz0menulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .racahbodylogo {
+    .k2nz0bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .racahmenu {
+    .k2nz0menu {
       overflow-x: auto;
     }
 
-    .racahmenulist ul {
+    .k2nz0menulist ul {
       flex-direction: row;
     }
 
-    .racahbodylogo {
+    .k2nz0bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .racahmenulist ul a {
+    .k2nz0menulist ul a {
       font-size: 14px;
     }
   }
@@ -147,7 +147,7 @@
     justify-content: start;
   }
 
-  .ul4b3 {
+  .fw7rf {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -155,7 +155,7 @@
     position: relative;
   }
 
-  .ul4b3-menu-btn {
+  .fw7rf-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -167,11 +167,11 @@
     align-items: center;
   }
 
-  .ul4b3-menu-btn i {
+  .fw7rf-menu-btn i {
     font-size: 20px;
   }
 
-  .ul4b3-menu {
+  .fw7rf-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -182,28 +182,28 @@
     float: left;
   }
 
-  .ul4b3-desc {
+  .fw7rf-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .ul4b3-menu>a {
+  .fw7rf-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .ul4b3-menu>.active,
-  .ul4b3-menu>a:hover {
+  .fw7rf-menu>.active,
+  .fw7rf-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .ul4b3-desc-menu {
+  .fw7rf-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -211,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .ul4b3-desc-menu>div {
+  .fw7rf-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .ul4b3-desc-body {
+  .fw7rf-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .ul4b3-title {
+  .fw7rf-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -236,14 +236,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .ul4b3-title::before {
+  .fw7rf-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/hakkimizda/bg/1.jpg");
+    background-image: url("/page/h1k2m3n4p5/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -251,43 +251,43 @@
     z-index: 1;
   }
 
-  .ul4b3-title span {
+  .fw7rf-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .ul4b3-body {
+  .fw7rf-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .ul4b3-img {
+  .fw7rf-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .ul4b3-img img {
+  .fw7rf-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ul4b3-desc {
+    .fw7rf-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ul4b3-menu-btn {
+    .fw7rf-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;    }
 
-    .ul4b3 {
+    .fw7rf {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -297,17 +297,17 @@
 
     }
 
-    .ul4b3-img {
+    .fw7rf-img {
       width: 100%;
     }
 
-    .ul4b3-body {
+    .fw7rf-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .ul4b3-menu {
+    .fw7rf-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -315,11 +315,11 @@
       display: none;
     }
 
-    .ul4b3-menu.active {
+    .fw7rf-menu.active {
       display: flex;
     }
 
-    .ul4b3-desc {
+    .fw7rf-desc {
       width: 100% !important;
       order: 2;
     }

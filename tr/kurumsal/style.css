@@ -1,5 +1,5 @@
 
-  .f1lfv {
+  .lvnax {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .f1lfvtitle {
+  .lvnaxtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .f1lfvtitlebody {
+  .lvnaxtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .f1lfvtitlebodytitle {
+  .lvnaxtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .f1lfvtitlebodylang {
+  .lvnaxtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .f1lfvtitlebodylang ul {
+  .lvnaxtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .f1lfvbody {
+  .lvnaxbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .f1lfvmenu {
+  .lvnaxmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .f1lfvmenulist {
+  .lvnaxmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .f1lfvmenubody {
+  .lvnaxmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .f1lfvmenulist ul {
+  .lvnaxmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .f1lfvmenulist ul a {
+  .lvnaxmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .f1lfvmenulist ul a:hover {
+  .lvnaxmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .f1lfvmenulistactive {
+  .lvnaxmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .f1lfvmenulistbody {
+  .lvnaxmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .f1lfvbodylogo {
+    .lvnaxbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .f1lfvmenu {
+    .lvnaxmenu {
       overflow-x: auto;
     }
 
-    .f1lfvmenulist ul {
+    .lvnaxmenulist ul {
       flex-direction: row;
     }
 
-    .f1lfvbodylogo {
+    .lvnaxbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .f1lfvmenulist ul a {
+    .lvnaxmenulist ul a {
       font-size: 14px;
     }
   }
@@ -147,7 +147,7 @@
     justify-content: start;
   }
 
-  .hbng5 {
+  .dm6su {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -155,7 +155,7 @@
     position: relative;
   }
 
-  .hbng5-menu-btn {
+  .dm6su-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -167,11 +167,11 @@
     align-items: center;
   }
 
-  .hbng5-menu-btn i {
+  .dm6su-menu-btn i {
     font-size: 20px;
   }
 
-  .hbng5-menu {
+  .dm6su-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -182,28 +182,28 @@
     float: left;
   }
 
-  .hbng5-desc {
+  .dm6su-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .hbng5-menu>a {
+  .dm6su-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .hbng5-menu>.active,
-  .hbng5-menu>a:hover {
+  .dm6su-menu>.active,
+  .dm6su-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .hbng5-desc-menu {
+  .dm6su-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -211,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .hbng5-desc-menu>div {
+  .dm6su-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .hbng5-desc-body {
+  .dm6su-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .hbng5-title {
+  .dm6su-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -236,14 +236,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .hbng5-title::before {
+  .dm6su-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kurumsal/bg/1.jpg");
+    background-image: url("/page/kon3dtxl3s/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -251,43 +251,43 @@
     z-index: 1;
   }
 
-  .hbng5-title span {
+  .dm6su-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .hbng5-body {
+  .dm6su-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .hbng5-img {
+  .dm6su-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .hbng5-img img {
+  .dm6su-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .hbng5-desc {
+    .dm6su-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .hbng5-menu-btn {
+    .dm6su-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;    }
 
-    .hbng5 {
+    .dm6su {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -297,17 +297,17 @@
 
     }
 
-    .hbng5-img {
+    .dm6su-img {
       width: 100%;
     }
 
-    .hbng5-body {
+    .dm6su-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .hbng5-menu {
+    .dm6su-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -315,11 +315,11 @@
       display: none;
     }
 
-    .hbng5-menu.active {
+    .dm6su-menu.active {
       display: flex;
     }
 
-    .hbng5-desc {
+    .dm6su-desc {
       width: 100% !important;
       order: 2;
     }

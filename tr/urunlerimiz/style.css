@@ -1,5 +1,5 @@
 
-  .meiqa {
+  .rw7qz {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .meiqatitle {
+  .rw7qztitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .meiqatitlebody {
+  .rw7qztitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .meiqatitlebodytitle {
+  .rw7qztitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .meiqatitlebodylang {
+  .rw7qztitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .meiqatitlebodylang ul {
+  .rw7qztitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .meiqabody {
+  .rw7qzbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .meiqamenu {
+  .rw7qzmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .meiqamenulist {
+  .rw7qzmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .meiqamenubody {
+  .rw7qzmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .meiqamenulist ul {
+  .rw7qzmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .meiqamenulist ul a {
+  .rw7qzmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .meiqamenulist ul a:hover {
+  .rw7qzmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .meiqamenulistactive {
+  .rw7qzmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .meiqamenulistbody {
+  .rw7qzmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .meiqabodylogo {
+    .rw7qzbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .meiqamenu {
+    .rw7qzmenu {
       overflow-x: auto;
     }
 
-    .meiqamenulist ul {
+    .rw7qzmenulist ul {
       flex-direction: row;
     }
 
-    .meiqabodylogo {
+    .rw7qzbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,25 +137,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .meiqamenulist ul a {
+    .rw7qzmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .lyvv2 {
+  .mv6uz {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .lyvv2body {
+  .mv6uzbody {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .lyvv2bodyitem {
+  .mv6uzbodyitem {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -165,7 +165,7 @@
     gap: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
-  .lyvv2bodyitemimg {
+  .mv6uzbodyitemimg {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -174,13 +174,13 @@
     border-radius: 5px;
     overflow: hidden; /* Taşma durumunda kesme */
   }
-  .lyvv2bodyitemimg img {
+  .mv6uzbodyitemimg img {
     width: 100%;
     height: 100%;
     object-fit: contain; /* Resmi sığdır, taşma yapmasın */
     border-radius: 5px;
   }
-  .lyvv2bodyitemtitle {
+  .mv6uzbodyitemtitle {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -192,14 +192,14 @@
     color: #333;
   }
   @media screen and (max-width: 1024px) {
-    .lyvv2body {
+    .mv6uzbody {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .lyvv2body {
+    .mv6uzbody {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

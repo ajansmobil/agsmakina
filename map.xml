@@ -15,9 +15,9 @@
               </url><url>
                 <loc>https://agsmakina.com/tr/iletisim/</loc>
               </url><url>
-                <loc>https://agsmakina.com/tr/kurumsal/</loc>
-              </url><url>
                 <loc>https://agsmakina.com/tr/hakkimizda/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/tr/vizyon-misyon/</loc>
               </url><url>
                 <loc>https://agsmakina.com/tr/misyon/</loc>
               </url><url>
@@ -63,7 +63,9 @@
               </url><url>
                 <loc>https://agsmakina.com/tr/elevator-7/</loc>
               </url><url>
-                <loc>https://agsmakina.com/tr/new-page/</loc>
+                <loc>https://agsmakina.com/tr/teknik-destek/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/tr/kurulum-hizmetleri/</loc>
               </url><url>
       <loc>https://agsmakina.com/en/</loc>
     </url><url>
@@ -77,9 +79,9 @@
               </url><url>
                 <loc>https://agsmakina.com/en/iletisim/</loc>
               </url><url>
-                <loc>https://agsmakina.com/en/kurumsal/</loc>
-              </url><url>
                 <loc>https://agsmakina.com/en/hakkimizda/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/en/vizyon-misyon/</loc>
               </url><url>
                 <loc>https://agsmakina.com/en/misyon/</loc>
               </url><url>
@@ -125,7 +127,9 @@
               </url><url>
                 <loc>https://agsmakina.com/en/elevator-7/</loc>
               </url><url>
-                <loc>https://agsmakina.com/en/new-page/</loc>
+                <loc>https://agsmakina.com/en/teknik-destek/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/en/kurulum-hizmetleri/</loc>
               </url><url>
       <loc>https://agsmakina.com/ar/</loc>
     </url><url>
@@ -139,9 +143,9 @@
               </url><url>
                 <loc>https://agsmakina.com/ar/iletisim/</loc>
               </url><url>
-                <loc>https://agsmakina.com/ar/kurumsal/</loc>
-              </url><url>
                 <loc>https://agsmakina.com/ar/hakkimizda/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/ar/vizyon-misyon/</loc>
               </url><url>
                 <loc>https://agsmakina.com/ar/misyon/</loc>
               </url><url>
@@ -187,7 +191,9 @@
               </url><url>
                 <loc>https://agsmakina.com/ar/elevator-7/</loc>
               </url><url>
-                <loc>https://agsmakina.com/ar/new-page/</loc>
+                <loc>https://agsmakina.com/ar/teknik-destek/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/ar/kurulum-hizmetleri/</loc>
               </url><url>
       <loc>https://agsmakina.com/de/</loc>
     </url><url>
@@ -201,9 +207,9 @@
               </url><url>
                 <loc>https://agsmakina.com/de/iletisim/</loc>
               </url><url>
-                <loc>https://agsmakina.com/de/kurumsal/</loc>
-              </url><url>
                 <loc>https://agsmakina.com/de/hakkimizda/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/de/vizyon-misyon/</loc>
               </url><url>
                 <loc>https://agsmakina.com/de/misyon/</loc>
               </url><url>
@@ -249,7 +255,9 @@
               </url><url>
                 <loc>https://agsmakina.com/de/elevator-7/</loc>
               </url><url>
-                <loc>https://agsmakina.com/de/new-page/</loc>
+                <loc>https://agsmakina.com/de/teknik-destek/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/de/kurulum-hizmetleri/</loc>
               </url><url>
       <loc>https://agsmakina.com/ru/</loc>
     </url><url>
@@ -263,9 +271,9 @@
               </url><url>
                 <loc>https://agsmakina.com/ru/iletisim/</loc>
               </url><url>
-                <loc>https://agsmakina.com/ru/kurumsal/</loc>
-              </url><url>
                 <loc>https://agsmakina.com/ru/hakkimizda/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/ru/vizyon-misyon/</loc>
               </url><url>
                 <loc>https://agsmakina.com/ru/misyon/</loc>
               </url><url>
@@ -311,7 +319,9 @@
               </url><url>
                 <loc>https://agsmakina.com/ru/elevator-7/</loc>
               </url><url>
-                <loc>https://agsmakina.com/ru/new-page/</loc>
+                <loc>https://agsmakina.com/ru/teknik-destek/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/ru/kurulum-hizmetleri/</loc>
               </url><url>
       <loc>https://agsmakina.com/es/</loc>
     </url><url>
@@ -325,9 +335,9 @@
               </url><url>
                 <loc>https://agsmakina.com/es/iletisim/</loc>
               </url><url>
-                <loc>https://agsmakina.com/es/kurumsal/</loc>
-              </url><url>
                 <loc>https://agsmakina.com/es/hakkimizda/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/es/vizyon-misyon/</loc>
               </url><url>
                 <loc>https://agsmakina.com/es/misyon/</loc>
               </url><url>
@@ -373,6 +383,8 @@
               </url><url>
                 <loc>https://agsmakina.com/es/elevator-7/</loc>
               </url><url>
-                <loc>https://agsmakina.com/es/new-page/</loc>
+                <loc>https://agsmakina.com/es/teknik-destek/</loc>
+              </url><url>
+                <loc>https://agsmakina.com/es/kurulum-hizmetleri/</loc>
               </url>
 </urlset>

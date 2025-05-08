@@ -1,5 +1,5 @@
 
-  .g17wy {
+  .bbg9p {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .g17wytitle {
+  .bbg9ptitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .g17wytitlebody {
+  .bbg9ptitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .g17wytitlebodytitle {
+  .bbg9ptitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .g17wytitlebodylang {
+  .bbg9ptitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .g17wytitlebodylang ul {
+  .bbg9ptitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .g17wybody {
+  .bbg9pbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .g17wymenu {
+  .bbg9pmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .g17wymenulist {
+  .bbg9pmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .g17wymenubody {
+  .bbg9pmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .g17wymenulist ul {
+  .bbg9pmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .g17wymenulist ul a {
+  .bbg9pmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .g17wymenulist ul a:hover {
+  .bbg9pmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .g17wymenulistactive {
+  .bbg9pmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .g17wymenulistbody {
+  .bbg9pmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .g17wybodylogo {
+    .bbg9pbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .g17wymenu {
+    .bbg9pmenu {
       overflow-x: auto;
     }
 
-    .g17wymenulist ul {
+    .bbg9pmenulist ul {
       flex-direction: row;
     }
 
-    .g17wybodylogo {
+    .bbg9pbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .g17wymenulist ul a {
+    .bbg9pmenulist ul a {
       font-size: 14px;
     }
   }
@@ -147,7 +147,7 @@
     justify-content: start;
   }
 
-  .fq2gq {
+  .x7zpr {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -155,7 +155,7 @@
     position: relative;
   }
 
-  .fq2gq-menu-btn {
+  .x7zpr-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -167,11 +167,11 @@
     align-items: center;
   }
 
-  .fq2gq-menu-btn i {
+  .x7zpr-menu-btn i {
     font-size: 20px;
   }
 
-  .fq2gq-menu {
+  .x7zpr-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -182,28 +182,28 @@
     float: left;
   }
 
-  .fq2gq-desc {
+  .x7zpr-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .fq2gq-menu>a {
+  .x7zpr-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .fq2gq-menu>.active,
-  .fq2gq-menu>a:hover {
+  .x7zpr-menu>.active,
+  .x7zpr-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .fq2gq-desc-menu {
+  .x7zpr-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -211,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .fq2gq-desc-menu>div {
+  .x7zpr-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .fq2gq-desc-body {
+  .x7zpr-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .fq2gq-title {
+  .x7zpr-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -236,14 +236,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .fq2gq-title::before {
+  .x7zpr-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kurumsal/bg/1.jpg");
+    background-image: url("/page/kon3dtxl3s/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -251,43 +251,43 @@
     z-index: 1;
   }
 
-  .fq2gq-title span {
+  .x7zpr-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .fq2gq-body {
+  .x7zpr-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .fq2gq-img {
+  .x7zpr-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .fq2gq-img img {
+  .x7zpr-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .fq2gq-desc {
+    .x7zpr-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .fq2gq-menu-btn {
+    .x7zpr-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;    }
 
-    .fq2gq {
+    .x7zpr {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -297,17 +297,17 @@
 
     }
 
-    .fq2gq-img {
+    .x7zpr-img {
       width: 100%;
     }
 
-    .fq2gq-body {
+    .x7zpr-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .fq2gq-menu {
+    .x7zpr-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -315,11 +315,11 @@
       display: none;
     }
 
-    .fq2gq-menu.active {
+    .x7zpr-menu.active {
       display: flex;
     }
 
-    .fq2gq-desc {
+    .x7zpr-desc {
       width: 100% !important;
       order: 2;
     }

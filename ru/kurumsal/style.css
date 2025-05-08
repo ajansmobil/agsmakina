@@ -1,5 +1,5 @@
 
-  .s1vzu {
+  .ythbl {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .s1vzutitle {
+  .ythbltitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .s1vzutitlebody {
+  .ythbltitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .s1vzutitlebodytitle {
+  .ythbltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .s1vzutitlebodylang {
+  .ythbltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .s1vzutitlebodylang ul {
+  .ythbltitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .s1vzubody {
+  .ythblbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .s1vzumenu {
+  .ythblmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .s1vzumenulist {
+  .ythblmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .s1vzumenubody {
+  .ythblmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .s1vzumenulist ul {
+  .ythblmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .s1vzumenulist ul a {
+  .ythblmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .s1vzumenulist ul a:hover {
+  .ythblmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .s1vzumenulistactive {
+  .ythblmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .s1vzumenulistbody {
+  .ythblmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .s1vzubodylogo {
+    .ythblbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .s1vzumenu {
+    .ythblmenu {
       overflow-x: auto;
     }
 
-    .s1vzumenulist ul {
+    .ythblmenulist ul {
       flex-direction: row;
     }
 
-    .s1vzubodylogo {
+    .ythblbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .s1vzumenulist ul a {
+    .ythblmenulist ul a {
       font-size: 14px;
     }
   }
@@ -147,7 +147,7 @@
     justify-content: start;
   }
 
-  .htgrb {
+  .sw41u {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -155,7 +155,7 @@
     position: relative;
   }
 
-  .htgrb-menu-btn {
+  .sw41u-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -167,11 +167,11 @@
     align-items: center;
   }
 
-  .htgrb-menu-btn i {
+  .sw41u-menu-btn i {
     font-size: 20px;
   }
 
-  .htgrb-menu {
+  .sw41u-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -182,28 +182,28 @@
     float: left;
   }
 
-  .htgrb-desc {
+  .sw41u-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .htgrb-menu>a {
+  .sw41u-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .htgrb-menu>.active,
-  .htgrb-menu>a:hover {
+  .sw41u-menu>.active,
+  .sw41u-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .htgrb-desc-menu {
+  .sw41u-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -211,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .htgrb-desc-menu>div {
+  .sw41u-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .htgrb-desc-body {
+  .sw41u-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .htgrb-title {
+  .sw41u-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -236,14 +236,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .htgrb-title::before {
+  .sw41u-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kurumsal/bg/1.jpg");
+    background-image: url("/page/kon3dtxl3s/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -251,43 +251,43 @@
     z-index: 1;
   }
 
-  .htgrb-title span {
+  .sw41u-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .htgrb-body {
+  .sw41u-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .htgrb-img {
+  .sw41u-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .htgrb-img img {
+  .sw41u-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .htgrb-desc {
+    .sw41u-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .htgrb-menu-btn {
+    .sw41u-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;    }
 
-    .htgrb {
+    .sw41u {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -297,17 +297,17 @@
 
     }
 
-    .htgrb-img {
+    .sw41u-img {
       width: 100%;
     }
 
-    .htgrb-body {
+    .sw41u-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .htgrb-menu {
+    .sw41u-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -315,11 +315,11 @@
       display: none;
     }
 
-    .htgrb-menu.active {
+    .sw41u-menu.active {
       display: flex;
     }
 
-    .htgrb-desc {
+    .sw41u-desc {
       width: 100% !important;
       order: 2;
     }

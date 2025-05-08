@@ -1,5 +1,5 @@
 
-  .zqjup {
+  .a9inj {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .zqjuptitle {
+  .a9injtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .zqjuptitlebody {
+  .a9injtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .zqjuptitlebodytitle {
+  .a9injtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .zqjuptitlebodylang {
+  .a9injtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .zqjuptitlebodylang ul {
+  .a9injtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .zqjupbody {
+  .a9injbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .zqjupmenu {
+  .a9injmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .zqjupmenulist {
+  .a9injmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .zqjupmenubody {
+  .a9injmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .zqjupmenulist ul {
+  .a9injmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .zqjupmenulist ul a {
+  .a9injmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .zqjupmenulist ul a:hover {
+  .a9injmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .zqjupmenulistactive {
+  .a9injmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .zqjupmenulistbody {
+  .a9injmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .zqjupbodylogo {
+    .a9injbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .zqjupmenu {
+    .a9injmenu {
       overflow-x: auto;
     }
 
-    .zqjupmenulist ul {
+    .a9injmenulist ul {
       flex-direction: row;
     }
 
-    .zqjupbodylogo {
+    .a9injbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .zqjupmenulist ul a {
+    .a9injmenulist ul a {
       font-size: 14px;
     }
   }
@@ -147,7 +147,7 @@
     justify-content: start;
   }
 
-  .vhlof {
+  .h1dqx {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -155,7 +155,7 @@
     position: relative;
   }
 
-  .vhlof-menu-btn {
+  .h1dqx-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -167,11 +167,11 @@
     align-items: center;
   }
 
-  .vhlof-menu-btn i {
+  .h1dqx-menu-btn i {
     font-size: 20px;
   }
 
-  .vhlof-menu {
+  .h1dqx-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -182,28 +182,28 @@
     float: left;
   }
 
-  .vhlof-desc {
+  .h1dqx-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .vhlof-menu>a {
+  .h1dqx-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .vhlof-menu>.active,
-  .vhlof-menu>a:hover {
+  .h1dqx-menu>.active,
+  .h1dqx-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .vhlof-desc-menu {
+  .h1dqx-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -211,19 +211,19 @@
     border-radius: 5px;
   }
 
-  .vhlof-desc-menu>div {
+  .h1dqx-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .vhlof-desc-body {
+  .h1dqx-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .vhlof-title {
+  .h1dqx-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -236,14 +236,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .vhlof-title::before {
+  .h1dqx-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kurumsal/bg/1.jpg");
+    background-image: url("/page/kon3dtxl3s/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -251,43 +251,43 @@
     z-index: 1;
   }
 
-  .vhlof-title span {
+  .h1dqx-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .vhlof-body {
+  .h1dqx-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .vhlof-img {
+  .h1dqx-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .vhlof-img img {
+  .h1dqx-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .vhlof-desc {
+    .h1dqx-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .vhlof-menu-btn {
+    .h1dqx-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;    }
 
-    .vhlof {
+    .h1dqx {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -297,17 +297,17 @@
 
     }
 
-    .vhlof-img {
+    .h1dqx-img {
       width: 100%;
     }
 
-    .vhlof-body {
+    .h1dqx-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .vhlof-menu {
+    .h1dqx-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -315,11 +315,11 @@
       display: none;
     }
 
-    .vhlof-menu.active {
+    .h1dqx-menu.active {
       display: flex;
     }
 
-    .vhlof-desc {
+    .h1dqx-desc {
       width: 100% !important;
       order: 2;
     }
