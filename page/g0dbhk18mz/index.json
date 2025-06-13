@@ -1,0 +1,64 @@
+{
+  "name": {
+    "tr": "4 Katlı Temizleme Eleği",
+    "en": "4-Piece Cleaning Sieve",
+    "ar": "منخل تحميص 4 قطعة",
+    "de": "Vierer-Sieb für Reinigung",
+    "es": "Máscara de clasificación de 4 partes",
+    "ru": "4 -Storey Cleaning Element"
+  },
+  "status": "play",
+  "category": "",
+  "id": "g0dbhk18mz",
+  "url": "4-katli-temizleme-elegi",
+  "path": "4katlitemizlemeelegi",
+  "index": 0,
+  "img": "x9dfr.jpg",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "4 katlı temizleme eleği, temizleme eleği, kavurma makinesi",
+    "en": "4-piece cleaning sieve, cleaning sieve, roasting machine",
+    "ar": "منخل تحميص 4 قطعة, منخل تحميص, ماكينة تحميص",
+    "de": "Vierer-Sieb für Reinigung, Reinigungs-Sieb, Bratmaschine",
+    "es": "Máscara de clasificación de 4 partes, máscara de clasificación, máquina para asar",
+    "ru": "4 -Storey Cleaning Speery, чистящая специя, жареная машина"
+  },
+  "description": {
+    "tr": "4 katlı temizleme eleği, temizleme eleği, kavurma makinesi",
+    "en": "4-piece cleaning sieve, cleaning sieve, roasting machine",
+    "ar": "منخل تحميص 4 قطعة, منخل تحميص, ماكينة تحميص",
+    "de": "Vierer-Sieb für Reinigung, Reinigungs-Sieb, Bratmaschine",
+    "es": "Máscara de clasificación de 4 partes, máscara de clasificación, máquina para asar",
+    "ru": "4 -Storey Cleaning Speery, чистящая специя, жареная машина"
+  },
+  "text": {
+    "tr": "<h2>4 Katlı Temizleme Eleği</h2><p>Endüstriyel ve tarım sektörlerinde kullanılmak üzere tasarlanmıştır. Bu eleği, çeşitli tahılların, baklagillerin ve diğer tarım ürünlerinin temizlenmesi ve ayrıştırılması için idealdir. Eleğin dört katlı yapısı, yüksek verimlilik ve hassasiyet sağlar. Ayrıca, kavurma makineleriyle entegrasyon için uygundur. Makinenin dayanıklı yapısı ve yüksek kapasiteli motoru sayesinde uzun süreli ve kesintisiz çalışma imkanı sunar. Endüstriyel temizleme süreçlerinde de etkin bir şekilde kullanılabilir. Kullanımı kolaydır ve bakımı minimal gerektirir, böylece operasyonel maliyetleri düşürür.</p>",
+    "en": "<h2>4-Piece Cleaning Sieve</h2><p>Designed for use in industrial and agricultural sectors. This sieve is ideal for cleaning and sorting various grains, legumes, and other agricultural products. Its four-layer structure ensures high efficiency and precision. It is also suitable for integration with roasting machines. The machine's durable structure and high-capacity motor allow for long-term and uninterrupted operation. It can be effectively used in industrial cleaning processes as well. It is easy to use and requires minimal maintenance, thereby reducing operational costs.</p>",
+    "ar": "<h2>منخل تنظيف 4 طبقات</h2><p>مصمم للاستخدام في القطاعات الصناعية والزراعية. هذا المنخل مثالي لتنظيف وفرز الحبوب والبقوليات والمنتجات الزراعية الأخرى. تضمن هيكله المكون من أربع طبقات كفاءة عالية ودقة. كما أنه مناسب للتكامل مع آلات التحميص. يتيح الهيكل المتين والمحرك ذو السعة العالية للجهاز التشغيل على المدى الطويل وبدون انقطاع. يمكن استخدامه بفعالية في عمليات التنظيف الصناعية أيضًا. إنه سهل الاستخدام ويتطلب صيانة قليلة، مما يقلل من تكاليف التشغيل.</p>",
+    "de": "<h2>Vierer-Sieb für Reinigung</h2><p>Konzipiert für den Einsatz in Industrie- und Landwirtschaftssektoren. Dieses Sieb eignet sich ideal zum Reinigen und Sortieren von verschiedenen Getreidearten, Hülsenfrüchten und anderen landwirtschaftlichen Produkten. Seine vierlagige Struktur sorgt für hohe Effizienz und Präzision. Es ist auch für die Integration mit Bratmaschinen geeignet. Die langlebige Struktur der Maschine und der hochkapazitive Motor ermöglichen einen langfristigen und ununterbrochenen Betrieb. Es kann auch effektiv in industriellen Reinigungsprozessen verwendet werden. Es ist einfach zu bedienen und erfordert nur minimalen Wartungsaufwand, wodurch die Betriebskosten gesenkt werden.</p>",
+    "es": "<h2>Máscara de clasificación de 4 partes</h2><p>Desarrollada para su uso en sectores industriales y agrícolas. Este tamiz es ideal para limpiar y clasificar diversos granos, legumbres y otros productos agrícolas. Su estructura de cuatro capas garantiza alta eficiencia y precisión. También es adecuado para la integración con máquinas de asado. La estructura duradera de la máquina y su motor de alta capacidad permiten un funcionamiento a largo plazo e ininterrumpido. También se puede utilizar eficazmente en procesos de limpieza industriales. Es fácil de usar y requiere un mantenimiento mínimo, lo que reduce los costos operativos.</p>",
+    "ru": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "desc": {
+    "height": "250 CM",
+    "weight": "250 CM",
+    "length": "500 KG",
+    "power": "4 USE X 0,37 KW",
+    "capacity": "100 (KG/H)"
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:34.920Z",
+  "date": "2025-06-13T22:54:34.920Z"
+}

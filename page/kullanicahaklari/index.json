@@ -1,0 +1,57 @@
+{
+  "name": {
+    "tr": "Kullanıcı Hakları",
+    "en": "User Rights",
+    "ar": "حقوق المستخدم",
+    "de": "Benutzerrechte",
+    "ru": "Права пользователя",
+    "es": "Derechos de usuario"
+  },
+  "status": "play",
+  "id": "kullanicahaklari",
+  "path": "kullanicihaklari",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kullanıcı Hakları</h2>\n    <p style=\"font-size: 16px;\">\n        Herkes, kişisel verilerinin korunmasını isteme hakkına sahiptir. Kişisel verilerinizin korunması bizim için çok önemlidir ve bu doğrultuda 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili mevzuat çerçevesinde hareket etmekteyiz. Kullanıcılar, verilerinin hangi amaçlarla toplandığı, nasıl saklandığı ve kimlerle paylaşıldığı konusunda bilgilendirilme hakkına sahiptir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizi güncelleme, düzeltme, silme ve anonimleştirme taleplerinde bulunabilirsiniz. Aynı zamanda, toplanan verilerin hangi amaçla kullanıldığı ve işleme süreciyle ilgili ayrıntılı bilgi talep edebilir, bu süreçlerde yer alan üçüncü taraflar hakkında bilgi alabilirsiniz. Haklarınızı kullanmak için bizimle her zaman iletişime geçebilirsiniz.</p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizin korunması ve haklarınızla ilgili detaylı bilgi almak için sitemizde yer alan Gizlilik Politikası'nı inceleyebilirsiniz. Kullanıcı olarak, verilerinizin güvenliği bizim önceliğimizdir ve gerekli teknik ve idari önlemleri almış bulunmaktayız.</p>",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "kullanıcı hakları, veri erişim hakkı, veri düzeltme hakkı, veri silme hakkı, KVKK hakları",
+    "en": "user rights, data access rights, data correction rights, data deletion rights, data protection rights",
+    "ar": "حقوق المستخدم، حقوق الوصول إلى البيانات، حقوق تصحيح البيانات، حقوق حذف البيانات، حقوق حماية البيانات",
+    "de": "Benutzerrechte, Datenzugriffsrechte, Datenkorrekturrechte, Datenlöschungsrechte, Datenschutzrechte",
+    "ru": "права пользователей, права доступа к данным, права на исправление данных, права на удаление данных, права на защиту данных",
+    "es": "derechos del usuario, derechos de acceso a datos, derechos de corrección de datos, derechos de eliminación de datos, derechos de protección de datos"
+  },
+  "description": {
+    "tr": "KVKK kapsamında verilerinize erişim, düzeltme ve silme haklarınız bulunmaktadır. Kişisel verilerinizin korunması için gerekli tüm yasal haklarınızı kullanabilirsiniz.",
+    "en": "Under the data protection law, you have the right to access, correct and delete your data. You can exercise all your legal rights for the protection of your personal data.",
+    "ar": "بموجب قانون حماية البيانات، لديك الحق في الوصول إلى بياناتك وتصحيحها وحذفها. يمكنك ممارسة جميع حقوقك القانونية لحماية بياناتك الشخصية.",
+    "de": "Gemäß dem Datenschutzgesetz haben Sie das Recht auf Zugriff, Berichtigung und Löschung Ihrer Daten. Sie können alle Ihre gesetzlichen Rechte zum Schutz Ihrer persönlichen Daten ausüben.",
+    "ru": "В соответствии с законом о защите данных вы имеете право на доступ, исправление и удаление ваших данных. Вы можете воспользоваться всеми своими законными правами для защиты ваших персональных данных.",
+    "es": "Según la ley de protección de datos, tiene derecho a acceder, corregir y eliminar sus datos. Puede ejercer todos sus derechos legales para la protección de sus datos personales."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "index": 7,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "1.jpg",
+  "update": "2025-06-13T22:54:34.890Z",
+  "date": "2025-06-13T22:54:34.890Z"
+}

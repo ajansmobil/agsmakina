@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Taş Ayırma Makinası",
+    "en": "Stone Separating Machine",
+    "ar": "آلة فصل الحجر",
+    "de": "Steintrennmaschine",
+    "es": "Máquina separadora de piedra",
+    "ru": "Каменная отделка"
+  },
+  "status": "play",
+  "category": "",
+  "id": "ketmzfa09e",
+  "url": "tas-ayirma-makinasi",
+  "path": "tasayirmamakinasi",
+  "index": 7,
+  "img": "st2tk.jpg",
+  "keyword": {
+    "tr": "tas ayırma makinası, taş ayırma makinesi, taş ayırma",
+    "en": "stone separating machine, stone separating, stone separation",
+    "ar": "آلة فصل الحجر, فصل الحجر, فصل الحجر",
+    "de": "Steintrennmaschine, Steintrennmaschine, Steintrennmaschine",
+    "es": "máquina separadora de piedra, máquina separadora de piedra, separación de piedra",
+    "ru": "Каменный отделений, машина для разделения камня, отделение камня"
+  },
+  "description": {
+    "tr": "Taş Ayırma Makinası hakkında detaylı bilgi",
+    "en": "Stone Separating Machine hakkında detaylı bilgi",
+    "ar": "آلة فصل الحجر hakkında التفاصيل",
+    "de": "Steintrennmaschine über",
+    "es": "Información detallada sobre la máquina separadora de piedra",
+    "ru": "Подробная информация о машине разделения камня"
+  },
+  "text": {
+    "tr": "<h2> Taş Ayırma Makinası Hakkında Bilgi </h2> <p> Taş ayırma makinesi, çeşitli madenler ve yapı malzemelerin taşınmasını ve ayırma işlemini gerçekleştirir. Ürünlerin boyutu, şekli ve içeriği gibi özelliklerine göre farklı ayırma yöntemleri kullanılır. Makine, madenlerin kırma, eleme ve yıkama gibi işlemlerini gerçekleştiren çeşitli ekipmanlar içerir. Taş ayırma makinesi, madenlerin taşınması ve işlenmesi konularında kullanılır. </p>",
+    "en": "<h2> Stone Separating Machine Information </h2> <p> Stone separating machine is used to transport and separate various minerals and building materials. Different separating methods are used depending on the size, shape and content of the products. The machine includes various equipment such as crushing, screening and washing. Stone separating machine is used in the transportation and processing of minerals. </p>",
+    "ar": "<h2> معلومات حول آلة فصل الحجر </h2> <p> آلة فصل الحجر، تمكن نقل و فصل مختلف أنواع الحجارة والبناء من المواديات. يُستخدم مختلف أنواع yöntم الفصل بالاعتماد على حجم وشكل ومحتويات المنتج. آلة الفصل تتحوي مختلف الأقف والآلة مثل الكسر والتعديل والغسيل. آلة الفصل تستخدم في نقل و تسيير أنواع الحجارة. </p>",
+    "de": "<h2> Informationen über die Stein trennmaschine </h2> <p> Die Stein trennmaschine wird verwendet, um verschiedene Mineralien und Baustoffe zu transportieren und zu trennen. Je nach Größe, Form und Zusammensetzung der Produkte werden verschiedene trennverfahren eingesetzt. Die Maschine umfasst verschiedene Geräte wie Brechen, Sieben und Waschen. Die Stein trennmaschine wird in der Transportation und Verarbeitung von Mineralien eingesetzt. </p>",
+    "es": "<h2> Información sobre la máquina separadora de piedra </h2> <p> La máquina separadora de piedra se utiliza para transportar y separar diferentes tipos de piedras y materiales de construcción. Dependiendo del tamaño, forma y composición de los productos, se utilizan diferentes métodos de separación. La máquina incluye diferentes equipos como la trituración, el tamizado y la lavado. La máquina separadora de piedra se utiliza en el transporte y el procesamiento de piedras. </p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "685 KG",
+    "power": "3.3 KW",
+    "capacity": "5000 (KG/H)"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.021Z",
+  "date": "2025-06-13T22:54:35.021Z"
+}

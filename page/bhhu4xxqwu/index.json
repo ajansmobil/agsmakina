@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 5",
+    "en": "Elevator 5",
+    "ar": "مصعد 5",
+    "de": "Aufzug 5",
+    "es": "Ascensor 5",
+    "ru": "Лифт 5"
+  },
+  "status": "play",
+  "category": "",
+  "id": "bhhu4xxqwu",
+  "url": "elevator-5",
+  "path": "elevator5",
+  "index": 12,
+  "img": "wxycg.jpg",
+  "keyword": {
+    "tr": "elevator 5, elevator, elevator-5, elevator5",
+    "en": "elevator 5, elevator, elevator-5, elevator5",
+    "ar": "مصعد 5, مصعد, مصعد-5, مصعد5",
+    "de": "aufzug 5, aufzug, aufzug-5, aufzug5",
+    "es": "ascensor 5, ascensor, ascensor-5, ascensor5",
+    "ru": "Лифт 5, лифт, лифт-5, лифт5"
+  },
+  "description": {
+    "tr": "Elevator 5 hakkında detaylı bilgi",
+    "en": "Elevator 5 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 5",
+    "de": "Über Aufzug 5",
+    "es": "Información detallada sobre el ascensor 5",
+    "ru": "Подробная информация о лифте 5"
+  },
+  "text": {
+    "tr": "Elevator 5 hakkında detaylı bilgi",
+    "en": "Elevator 5 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 5",
+    "de": "Über Aufzug 5",
+    "es": "Información detallada sobre el ascensor 5",
+    "ru": "Подробная информация о лифте 5"
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.093Z",
+  "date": "2025-06-13T22:54:35.093Z"
+}

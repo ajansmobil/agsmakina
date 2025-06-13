@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Fıstık Kırma Makinesi",
+    "en": "Peanut Crushing Machine",
+    "ar": "آلة طحن الفول السوداني",
+    "de": "Erdnuss-Zerkleinerungsmaschine",
+    "es": "Máquina trituradora de maní",
+    "ru": "Фисташковая машина"
+  },
+  "status": "play",
+  "category": "Crushing Equipment",
+  "id": "h1s8csxbk8",
+  "url": "peanut-crushing-machine",
+  "path": "fistikkirmamakinesi",
+  "index": 2,
+  "img": "jjm56.jpg",
+  "keyword": {
+    "tr": "fıstık kırma makinesi, fıstık kırma, fıstık işleme, gıda işleme, endüstriyel makineler",
+    "en": "peanut crushing machine, peanut crusher, peanut processing, food processing, industrial machines",
+    "ar": "آلة طحن الفول السوداني, طحن الفول السوداني, معالجة الفول السوداني, معالجة الطعام, الآلات الصناعية",
+    "de": "Erdnuss-Zerkleinerungsmaschine, Erdnuss-Zerkleinerer, Erdnussverarbeitung, Lebensmittelverarbeitung, Industriemaschinen",
+    "es": "máquina trituradora de maní, trituradora de maní, procesamiento de maní, procesamiento de alimentos, máquinas industriales",
+    "ru": "Арахисовая машина, разбивая арахис, переработка арахиса, продовольственная обработка, промышленные машины"
+  },
+  "description": {
+    "tr": "Fıstık kırma makinesi, endüstriyel gıda işleme ve fıstık üretimi için idealdir.",
+    "en": "Peanut crushing machine is ideal for industrial food processing and peanut production.",
+    "ar": "آلة طحن الفول السوداني مثالية لمعالجة الطعام الصناعية وإنتاج الفول السوداني.",
+    "de": "Die Erdnuss-Zerkleinerungsmaschine ist ideal für die industrielle Lebensmittelverarbeitung und Erdnussproduktion.",
+    "es": "La máquina trituradora de maní es ideal para el procesamiento industrial de alimentos y la producción de maní.",
+    "ru": "Арахисовая машина для разбития идеально подходит для промышленной пищевой промышленности и производства арахиса."
+  },
+  "text": {
+    "tr": "<h2>Fıstık Kırma Makinesi</h2><p>Fıstık işleme sürecinde yüksek verimlilik ve kalite sunan makine.<br>Fıstıkların homojen ve mükemmel bir şekilde kırılmasını sağlar.</p><p>Dayanıklı malzemelerden üretilmiş olup, uzun ömürlüdür ve yoğun kullanıma uygundur.</p><p>0.75 KW gücündeki motoru ile saatte 100 kg fıstık kırabilir.</p><p>Kullanımı kolay olup, temizliği basittir ve işletme maliyetlerini düşürür.</p><p>Fıstık kırma makinesi, fıstık işleme tesisleri, gıda işleme fabrikaları ve büyük ölçekli üretim tesisleri için mükemmel bir tercihtir.</p>",
+    "en": "<h2>Peanut Crushing Machine</h2><p>The peanut crushing machine offers high efficiency and quality in peanut processing.<br>This machine ensures the homogeneous and perfect crushing of peanuts.</p><p>Made from durable materials, it is long-lasting and suitable for intensive use.</p><p>With a 0.75 KW motor, it can crush up to 100 kg of peanuts per hour.</p><p>It is easy to use, simple to clean, and reduces operating costs.</p><p>The peanut crushing machine is an excellent choice for peanut processing plants, food processing factories, and large-scale production facilities.</p>",
+    "ar": "<h2>آلة طحن الفول السوداني</h2><p>تقدم آلة طحن الفول السوداني كفاءة عالية وجودة في معالجة الفول السوداني.<br>تضمن هذه الماكينة طحن الفول السوداني بشكل متجانس ومثالي.</p><p>مصنوعة من مواد متينة، فهي طويلة الأمد ومناسبة للاستخدام المكثف.</p><p>مع محرك بقوة 0.75 كيلو واط، يمكنها طحن ما يصل إلى 100 كجم من الفول السوداني في الساعة.</p><p>إنها سهلة الاستخدام والتنظيف، وتقلل من تكاليف التشغيل.</p><p>تعتبر آلة طحن الفول السوداني خيارًا ممتازًا لمصانع معالجة الفول السوداني ومصانع معالجة الأغذية ومرافق الإنتاج الكبيرة.</p>",
+    "de": "<h2>Erdnuss-Zerkleinerungsmaschine</h2><p>Die Erdnuss-Zerkleinerungsmaschine bietet hohe Effizienz und Qualität bei der Erdnussverarbeitung.<br>Diese Maschine sorgt für die gleichmäßige und perfekte Zerkleinerung von Erdnüssen.</p><p>Hergestellt aus langlebigen Materialien, ist sie langlebig und für den intensiven Einsatz geeignet.</p><p>Mit einem 0,75 KW Motor kann sie bis zu 100 kg Erdnüsse pro Stunde zerkleinern.</p><p>Sie ist einfach zu bedienen, leicht zu reinigen und senkt die Betriebskosten.</p><p>Die Erdnuss-Zerkleinerungsmaschine ist eine ausgezeichnete Wahl für Erdnussverarbeitungsanlagen, Lebensmittelverarbeitungsfabriken und groß angelegte Produktionsanlagen.</p>",
+    "es": "<h2>Máquina trituradora de maní</h2><p>La máquina trituradora de maní ofrece alta eficiencia y calidad en el procesamiento de maní.<br>Esta máquina asegura la trituración homogénea y perfecta de los maníes.</p><p>Fabricada con materiales duraderos, es de larga duración y adecuada para un uso intensivo.</p><p>Con un motor de 0.75 KW, puede triturar hasta 100 kg de maní por hora.</p><p>Es fácil de usar, simple de limpiar y reduce los costos operativos.</p><p>La máquina trituradora de maní es una excelente opción para plantas de procesamiento de maní, fábricas de procesamiento de alimentos e instalaciones de producción a gran escala.</p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "165 CM",
+    "weight": "230 KG",
+    "length": "100 CM",
+    "power": "0.75 KW",
+    "capacity": "100 KG/H"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:34.951Z",
+  "date": "2025-06-13T22:54:34.951Z"
+}

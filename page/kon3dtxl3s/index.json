@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Institutional",
+    "ar": "المؤسسية",
+    "de": "Institutionell",
+    "ru": "Институциональный",
+    "es": "Institucional"
+  },
+  "status": "play",
+  "category": "",
+  "id": "kon3dtxl3s",
+  "url": "",
+  "path": "kurumsal",
+  "keyword": {
+    "tr": "AGS Agro Gıda ve Makina, fıstık işleme, makine üretimi, endüstriyel çözümler",
+    "en": "AGS Agro Food and Machinery, peanut processing, machine manufacturing, industrial solutions",
+    "ar": "AGS Agro Food and Machinery، معالجة الفول السوداني، تصنيع الآلات، الحلول الصناعية",
+    "de": "AGS Agro Food and Machinery, Erdnussverarbeitung, Maschinenbau, industrielle Lösungen",
+    "ru": "AGS Agro Food and Machinery, переработка арахиса, производство машин, промышленные решения",
+    "es": "AGS Agro Food and Machinery, procesamiento de maní, fabricación de máquinas, soluciones industriales"
+  },
+  "description": {
+    "tr": "AGS Agro Gıda ve Makina, 15 yılı aşkın sektör deneyimiyle fıstık işleme ve makine üretimi alanlarında güvenilir ve profesyonel hizmet sunmaktadır.",
+    "en": "AGS Agro Food and Machinery provides reliable and professional service in peanut processing and machine manufacturing with over 15 years of industry experience.",
+    "ar": "تقدم AGS Agro Food and Machinery خدمة موثوقة ومهنية في معالجة الفول السوداني وتصنيع الآلات مع أكثر من 15 عامًا من الخبرة في الصناعة.",
+    "de": "AGS Agro Food and Machinery bietet zuverlässige und professionelle Dienstleistungen in der Erdnussverarbeitung und im Maschinenbau mit über 15 Jahren Branchenerfahrung.",
+    "ru": "Мы делаем разницу в отрасли с нашими высококачественными машинами для переработки арахиса и промышленными машинами.",
+    "es": "Marcamos la diferencia en la industria con nuestras máquinas de procesamiento de maní y máquinas industriales de alta calidad."
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Hakkımızda</h2>\n    <p style=\" font-size: 16px;\">\n        AGS Agro Gıda ve Makina, 15 yılı aşkın sektör deneyimiyle fıstık işleme ve makine üretimi alanlarında güvenilir ve\nprofesyonel hizmet sunmaktadır. Kurulduğumuz günden bu yana, fıstık işleme tesisleri için yenilikçi çözümler geliştirerek, makine üretimi, kurulum ve teknik destek hizmetleriyle müşterilerimizin yanında yer alıyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Yapay zeka destekli modern teknolojilerle donatılmış makinelerimizle, sektörde verimliliği ve kaliteyi en üst seviyeye\nçıkarmayı hedefliyoruz. Güvenilir, yenilikçi ve iş bitirici yaklaşımımızla, AGS Agro Gıda ve Makina olarak yurt içi ve yurt dışındaki müşterilerimize ithalat ve ihracat alanında da profesyonel çözümler sunmaktayız.\n    </p>\n    <p style=\" font-size: 16px;\">\n       Bizimle çalışarak, yüksek kalite standartlarına sahip makinelerimiz ve uzman teknik destek ekibimizle tanışabilirsiniz.\n    </p>",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "spot": {
+    "tr": "Kalite ve Güvenin Adresi",
+    "en": "Address of Quality and Trust",
+    "ar": "عنوان الجودة والثقة",
+    "de": "Adresse für Qualität und Vertrauen",
+    "ru": "Адрес качества и доверия",
+    "es": "Dirección de Calidad y Confianza"
+  },
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [
+      "i3nbwy"
+    ],
+    "footer": []
+  },
+  "icon": "home",
+  "update": "2025-06-13T23:04:01.609Z",
+  "date": "2025-06-13T22:54:34.705Z",
+  "pathnext": ""
+}

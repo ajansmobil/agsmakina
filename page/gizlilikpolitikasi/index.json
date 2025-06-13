@@ -1,0 +1,57 @@
+{
+  "name": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy",
+    "ar": "سياسة الخصوصية",
+    "de": "Datenschutzrichtlinie",
+    "ru": "политика конфиденциальности",
+    "es": "política de privacidad"
+  },
+  "status": "play",
+  "id": "gizlilikpolitikasi",
+  "path": "gizlilikpolitikasi",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Gizlilik Politikamız</h2>\n    <p style=\"font-size: 16px;\">\n        Web sitemizi ziyaret ettiğinizde, sitemizi kullanımınızı ve sitemizde sunulan hizmetleri geliştirmek amacıyla çerezler (cookies) aracılığıyla bazı bilgiler toplanmaktadır. Bu bilgiler, kimlik bilgileriniz hariç olmak üzere, sitemizde yer alan hizmetlerin daha iyi sunulması ve kullanıcı deneyiminin iyileştirilmesi amacıyla kullanılmaktadır. Çerezler, kullanıcı tercihlerinizi hatırlamak, sitemizin işleyişini optimize etmek ve size daha iyi bir deneyim sunmak için kullanılmaktadır.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan bilgiler, üçüncü taraflarla paylaşılmamakta olup, yalnızca sitemizin performansını artırmak ve hizmetlerimizi geliştirmek amacıyla kullanılmaktadır. Kullanıcılar, tarayıcı ayarlarını değiştirerek çerezlerin kullanımını engelleyebilirler. Ancak, bu durumda sitemizin bazı bölümlerinin düzgün çalışmayabileceğini unutmamanız gerekir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Gizliliğiniz bizim için son derece önemlidir. Kişisel bilgilerinizin güvenliğini sağlamak için gerekli teknik ve idari önlemleri alıyoruz. Gizlilik Politikamız ile ilgili sorularınız ya da endişeleriniz varsa, bizimle iletişime geçebilirsiniz.\n    </p>",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "gizlilik politikası, veri güvenliği, çerez politikası, kişisel verilerin korunması, kullanıcı gizliliği",
+    "en": "privacy policy, data security, cookie policy, personal data protection, user privacy",
+    "ar": "سياسة الخصوصية، أمن البيانات، سياسة ملفات تعريف الارتباط، حماية البيانات الشخصية، خصوصية المستخدم",
+    "de": "Datenschutzrichtlinie, Datensicherheit, Cookie-Richtlinie, Schutz personenbezogener Daten, Benutzerdatenschutz",
+    "ru": "политика конфиденциальности, безопасность данных, политика использования файлов cookie, защита персональных данных, конфиденциальность пользователей",
+    "es": "política de privacidad, seguridad de datos, política de cookies, protección de datos personales, privacidad del usuario"
+  },
+  "description": {
+    "tr": "Web sitemizde gizlilik ve veri güvenliği en önemli önceliğimizdir. Kişisel verilerinizin korunması için gerekli tüm önlemleri alıyor ve çerez politikamızı şeffaf bir şekilde uyguluyoruz.",
+    "en": "Privacy and data security are our top priorities on our website. We take all necessary measures to protect your personal data and implement our cookie policy transparently.",
+    "ar": "الخصوصية وأمن البيانات هي أولوياتنا الرئيسية على موقعنا. نتخذ جميع التدابير اللازمة لحماية بياناتك الشخصية وتنفيذ سياسة ملفات تعريف الارتباط بشكل شفاف.",
+    "de": "Datenschutz und Datensicherheit haben auf unserer Website höchste Priorität. Wir ergreifen alle notwendigen Maßnahmen zum Schutz Ihrer persönlichen Daten und setzen unsere Cookie-Richtlinie transparent um.",
+    "ru": "Конфиденциальность и безопасность данных являются нашим главным приоритетом на нашем сайте. Мы принимаем все необходимые меры для защиты ваших персональных данных и прозрачно реализуем нашу политику использования файлов cookie.",
+    "es": "La privacidad y la seguridad de los datos son nuestras principales prioridades en nuestro sitio web. Tomamos todas las medidas necesarias para proteger sus datos personales e implementamos nuestra política de cookies de manera transparente."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "index": 5,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "1.jpg",
+  "update": "2025-06-13T22:54:34.862Z",
+  "date": "2025-06-13T22:54:34.862Z"
+}

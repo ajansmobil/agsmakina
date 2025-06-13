@@ -1,0 +1,56 @@
+{
+  "name": {
+    "tr": "Kataloglarımız",
+    "en": "Our Catalogs",
+    "ar": "كتالوجاتنا",
+    "de": "Unsere Kataloge",
+    "ru": "Наши каталоги",
+    "es": "Nuestros catálogos"
+  },
+  "status": "play",
+  "category": "",
+  "id": "i5g03tufqr",
+  "url": "",
+  "path": "kataloglarimiz",
+  "keyword": {
+    "tr": "ürün katalogları, teknik kataloglar, fıstık makineleri kataloğu",
+    "en": "product catalogs, technical catalogs, peanut machines catalog",
+    "ar": "كتالوجات المنتجات، الكتالوجات التقنية، كتالوج آلات الفول السوداني",
+    "de": "Produktkataloge, technische Kataloge, Erdnussmaschinenkatalog",
+    "ru": "каталоги продуктов, технические каталоги, каталог машин для арахиса",
+    "es": "catálogos de productos, catálogos técnicos, catálogo de máquinas de maní"
+  },
+  "description": {
+    "tr": "Ürünlerimizin detaylı teknik özelliklerini ve kullanım kılavuzlarını içeren kataloglarımızı inceleyebilirsiniz.",
+    "en": "You can review our catalogs containing detailed technical specifications and user manuals of our products.",
+    "ar": "يمكنك مراجعة كتالوجاتنا التي تحتوي على المواصفات التقنية التفصيلية وأدلة المستخدم لمنتجاتنا.",
+    "de": "Sie können unsere Kataloge mit detaillierten technischen Spezifikationen und Benutzerhandbüchern unserer Produkte einsehen.",
+    "ru": "Вы можете просмотреть наши каталоги, содержащие подробные технические характеристики и руководства пользователя наших продуктов.",
+    "es": "Puede revisar nuestros catálogos que contienen especificaciones técnicas detalladas y manuales de usuario de nuestros productos."
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "spot": {
+    "tr": "Detaylı Ürün Bilgileri",
+    "en": "Detailed Product Information",
+    "ar": "معلومات تفصيلية عن المنتجات",
+    "de": "Detaillierte Produktinformationen",
+    "ru": "Подробная информация о продукте",
+    "es": "Información detallada del producto"
+  },
+  "index": 2,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "update": "2025-06-13T22:54:34.732Z",
+  "date": "2025-06-13T22:54:34.732Z"
+}

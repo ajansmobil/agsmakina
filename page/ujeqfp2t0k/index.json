@@ -1,0 +1,60 @@
+{
+  "name": {
+    "tr": "İletişim",
+    "en": "Contact",
+    "ar": "اتصل بنا",
+    "de": "Kontakt",
+    "ru": "Контакт",
+    "es": "Contacto"
+  },
+  "status": "play",
+  "category": "",
+  "id": "ujeqfp2t0k",
+  "url": "",
+  "path": "iletisim",
+  "keyword": {
+    "tr": "iletişim bilgileri, adres, telefon, e-posta, iletişim formu",
+    "en": "contact information, address, phone, email, contact form",
+    "ar": "معلومات الاتصال، العنوان، الهاتف، البريد الإلكتروني، نموذج الاتصال",
+    "de": "Kontaktinformationen, Adresse, Telefon, E-Mail, Kontaktformular",
+    "ru": "контактная информация, адрес, телефон, электронная почта, контактная форма",
+    "es": "información de contacto, dirección, teléfono, correo electrónico, formulario de contacto"
+  },
+  "description": {
+    "tr": "Bizimle iletişime geçin, size en kısa sürede dönüş yapalım.",
+    "en": "Contact us, we will get back to you as soon as possible.",
+    "ar": "اتصل بنا، سنرد عليك في أقرب وقت ممكن.",
+    "de": "Kontaktieren Sie uns, wir werden uns so schnell wie möglich bei Ihnen melden.",
+    "ru": "Свяжитесь с нами, мы свяжемся с вами как можно скорее.",
+    "es": "Contáctenos, nos pondremos en contacto con usted lo antes posible."
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "spot": {
+    "tr": "Bizimle İletişime Geçin",
+    "en": "Get in Touch with Us",
+    "ar": "تواصل معنا",
+    "de": "Kontaktieren Sie uns",
+    "ru": "Свяжитесь с нами",
+    "es": "Póngase en contacto con nosotros"
+  },
+  "index": 4,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "cse50u",
+      "u7nton"
+    ],
+    "footer": []
+  },
+  "update": "2025-06-13T22:55:32.172Z",
+  "date": "2025-06-13T22:54:34.756Z",
+  "pathnext": ""
+}

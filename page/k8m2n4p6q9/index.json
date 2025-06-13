@@ -1,0 +1,50 @@
+{
+  "name": {
+    "tr": "Kurulum Hizmetleri",
+    "en": "Installation Services",
+    "ar": "خدمات التركيب",
+    "de": "Installationsdienste",
+    "ru": "Услуги по установке",
+    "es": "Servicios de instalación"
+  },
+  "status": "play",
+  "category": "Installation",
+  "id": "k8m2n4p6q9",
+  "url": "kurulum-hizmetleri",
+  "path": "kurulumhizmetleri",
+  "keyword": {
+    "tr": "kurulum hizmetleri, montaj, devreye alma, eğitim",
+    "en": "installation services, assembly, commissioning, training",
+    "ar": "خدمات التركيب، التجميع، التشغيل، التدريب",
+    "de": "Installationsdienste, Montage, Inbetriebnahme, Schulung",
+    "ru": "услуги по установке, сборка, ввод в эксплуатацию, обучение",
+    "es": "servicios de instalación, montaje, puesta en marcha, capacitación"
+  },
+  "description": {
+    "tr": "Uzman ekibimizle profesyonel kurulum ve devreye alma hizmetleri sunuyoruz.",
+    "en": "We provide professional installation and commissioning services with our expert team.",
+    "ar": "نقدم خدمات تركيب وتشغيل احترافية مع فريقنا المتخصص.",
+    "de": "Wir bieten professionelle Installations- und Inbetriebnahmedienste mit unserem Expertenteam.",
+    "ru": "Мы предоставляем профессиональные услуги по установке и вводу в эксплуатацию с нашей командой экспертов.",
+    "es": "Brindamos servicios profesionales de instalación y puesta en marcha con nuestro equipo de expertos."
+  },
+  "text": {
+    "tr": "<h2>Kurulum Hizmetlerimiz</h2><p>Uzman ekibimiz, makinelerinizin kurulumundan devreye alınmasına kadar tüm süreçleri profesyonelce yönetir. Kurulum sonrası kullanıcı eğitimi ve teknik destek hizmetlerimizle, makinelerinizin maksimum verimlilikte çalışmasını sağlıyoruz.</p><p>Kurulum hizmetlerimiz:</p><ul><li>Profesyonel montaj</li><li>Devreye alma</li><li>Kullanıcı eğitimi</li><li>Performans testleri</li><li>Kalite kontrol</li></ul>",
+    "en": "<h2>Our Installation Services</h2><p>Our expert team professionally manages all processes from the installation of your machines to their commissioning. With our post-installation user training and technical support services, we ensure that your machines operate at maximum efficiency.</p><p>Our installation services:</p><ul><li>Professional assembly</li><li>Commissioning</li><li>User training</li><li>Performance tests</li><li>Quality control</li></ul>",
+    "ar": "<h2>خدمات التركيب لدينا</h2><p>يدير فريقنا المتخصص جميع العمليات بشكل احترافي من تركيب آلاتك إلى تشغيلها. من خلال خدمات تدريب المستخدمين والدعم الفني بعد التركيب، نضمن أن آلاتك تعمل بأقصى كفاءة.</p><p>خدمات التركيب لدينا:</p><ul><li>تجميع احترافي</li><li>التشغيل</li><li>تدريب المستخدمين</li><li>اختبارات الأداء</li><li>مراقبة الجودة</li></ul>",
+    "de": "<h2>Unsere Installationsdienste</h2><p>Unser Expertenteam verwaltet alle Prozesse professionell von der Installation Ihrer Maschinen bis hin zu deren Inbetriebnahme. Mit unseren Post-Installations-Schulungen und technischen Support-Diensten stellen wir sicher, dass Ihre Maschinen mit maximaler Effizienz arbeiten.</p><p>Unsere Installationsdienste:</p><ul><li>Professionelle Montage</li><li>Inbetriebnahme</li><li>Benutzerschulung</li><li>Leistungstests</li><li>Qualitätskontrolle</li></ul>",
+    "ru": "<h2>Наши услуги по установке</h2><p>Наша команда экспертов профессионально управляет всеми процессами от установки ваших машин до их ввода в эксплуатацию. Благодаря нашим услугам по обучению пользователей и технической поддержке после установки мы обеспечиваем максимальную эффективность работы ваших машин.</p><p>Наши услуги по установке:</p><ul><li>Профессиональная сборка</li><li>Ввод в эксплуатацию</li><li>Обучение пользователей</li><li>Испытания производительности</li><li>Контроль качества</li></ul>",
+    "es": "<h2>Nuestros servicios de instalación</h2><p>Nuestro equipo de expertos gestiona profesionalmente todos los procesos desde la instalación de sus máquinas hasta su puesta en marcha. Con nuestros servicios de capacitación de usuarios y soporte técnico post-instalación, aseguramos que sus máquinas operen con máxima eficiencia.</p><p>Nuestros servicios de instalación:</p><ul><li>Montaje profesional</li><li>Puesta en marcha</li><li>Capacitación de usuarios</li><li>Pruebas de rendimiento</li><li>Control de calidad</li></ul>"
+  },
+  "spot": {
+    "tr": "Profesyonel Kurulum",
+    "en": "Professional Installation",
+    "ar": "تركيب احترافي",
+    "de": "Professionelle Installation",
+    "ru": "Профессиональная установка",
+    "es": "Instalación profesional"
+  },
+  "index": 1,
+  "update": "2025-06-13T22:54:35.142Z",
+  "date": "2025-06-13T22:54:35.142Z"
+}

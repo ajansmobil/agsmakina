@@ -1,0 +1,57 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal warning",
+    "ar": "تحذير قانوني",
+    "de": "Rechtswarnung",
+    "ru": "Юридическое предупреждение",
+    "es": "Advertencia legal"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasaluyari",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yasal Uyarı</h2>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan tüm içerik, 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun'un hükümleri uyarınca korunmaktadır. Sitemizde yer alan hiçbir içeriğin kopyalanması, çoğaltılması, yayılması, satılması, dağıtılması, sergilenmesi, yayımlanması, herhangi bir şekilde ticari amaçla kullanılması veya başka platformlarda izinsiz olarak paylaşılması yasaktır. Bu kurallara aykırı hareket edenler, ilgili kanunlar kapsamında hukuki ve cezai yaptırımlarla karşılaşabilirler. </p>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan içeriğin hukuka aykırı bir şekilde kullanılması veya dağıtılması durumunda, sitemiz yetkili mercilere başvurma ve yasal haklarını koruma hakkını saklı tutar. İnternet ortamında yer alan içeriklerin izinsiz paylaşımı, hukuki olarak ağır yaptırımlar doğurabileceği gibi, eser sahiplerinin haklarını ihlal eder. Eser sahibi olarak haklarınızı korumanız gerektiği durumda, hukuki süreç başlatma hakkınız mevcuttur.</p>\n    <p style=\" font-size: 16px;\">\n        Sitemizde yer alan içeriklerin izinsiz kullanımını veya paylaşımını fark ederseniz, lütfen bizimle iletişime geçin. Sitemizi kullanmaya devam ederek, bu yasal uyarıyı kabul etmiş sayılırsınız.</p>",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "yasal uyarı, telif hakkı, fikri mülkiyet, içerik kullanımı, yasal sorumluluk",
+    "en": "legal warning, copyright, intellectual property, content usage, legal liability",
+    "ar": "تحذير قانوني، حقوق النشر، الملكية الفكرية، استخدام المحتوى، المسؤولية القانونية",
+    "de": "Rechtswarnung, Urheberrecht, geistiges Eigentum, Inhaltsnutzung, rechtliche Haftung",
+    "ru": "юридическое предупреждение, авторское право, интеллектуальная собственность, использование контента, юридическая ответственность",
+    "es": "advertencia legal, derechos de autor, propiedad intelectual, uso de contenido, responsabilidad legal"
+  },
+  "description": {
+    "tr": "Sitemizdeki tüm içerikler telif hakları ile korunmaktadır. İçeriklerin izinsiz kullanımı ve paylaşımı yasal yaptırımlara tabidir.",
+    "en": "All content on our site is protected by copyright. Unauthorized use and sharing of content is subject to legal sanctions.",
+    "ar": "جميع المحتويات على موقعنا محمية بموجب حقوق النشر. الاستخدام والمشاركة غير المصرح بهما للمحتوى يخضع للعقوبات القانونية.",
+    "de": "Alle Inhalte auf unserer Website sind urheberrechtlich geschützt. Die unbefugte Nutzung und Weitergabe von Inhalten unterliegt rechtlichen Sanktionen.",
+    "ru": "Весь контент на нашем сайте защищен авторским правом. Несанкционированное использование и распространение контента подлежит юридическим санкциям.",
+    "es": "Todo el contenido en nuestro sitio está protegido por derechos de autor. El uso y la distribución no autorizados del contenido están sujetos a sanciones legales."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "index": 8,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "1.jpg",
+  "update": "2025-06-13T22:54:34.905Z",
+  "date": "2025-06-13T22:54:34.905Z"
+}

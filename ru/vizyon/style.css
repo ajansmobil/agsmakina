@@ -1,5 +1,5 @@
 
-  .panb1 {
+  .p654j {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .panb1title {
+  .p654jtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .panb1titlebody {
+  .p654jtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .panb1titlebodytitle {
+  .p654jtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .panb1titlebodylang {
+  .p654jtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .panb1titlebodylang ul {
+  .p654jtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .panb1body {
+  .p654jbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .panb1menu {
+  .p654jmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .panb1menulist {
+  .p654jmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .panb1menubody {
+  .p654jmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .panb1menulist ul {
+  .p654jmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .panb1menulist ul a {
+  .p654jmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .panb1menulist ul a:hover {
+  .p654jmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .panb1menulistactive {
+  .p654jmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .panb1menulistbody {
+  .p654jmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .panb1bodylogo {
+    .p654jbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .panb1menu {
+    .p654jmenu {
       overflow-x: auto;
     }
 
-    .panb1menulist ul {
+    .p654jmenulist ul {
       flex-direction: row;
     }
 
-    .panb1bodylogo {
+    .p654jbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .panb1menulist ul a {
+    .p654jmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,84 +146,42 @@
   #content {
     justify-content: start;
   }
-
-  .aza30 {
+  .ujom3 {
+    display: flex;
     width: var(--max);
     margin-top: 20px;
+    gap: 20px;
+  }
+  .ujom3-menu {
+    width: 220px;
+    background-color: --menubgcolor--;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
     gap: 10px;
-    float: left;
-    position: relative;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-
-  .aza30-menu-btn {
-    display: none;
-    background-color: #000;
-    padding: 10px 20px;
+  .ujom3-menu > a {
+    background-color: #ffffff;
+    padding: 10px 15px;
     border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  .ujom3-menu > a:hover,
+  .ujom3-menu > .active {
+    background-color: #1e3046;
     color: #fff;
-    justify-content: space-between;
-    align-items: center;
   }
-
-  .aza30-menu-btn i {
-    font-size: 20px;
-  }
-
-  .aza30-menu {
-    width: 200px;
-    background-color: #f9f9f9;
-    border-radius: 5px;
-    padding: 10px;
+  .ujom3-body {
+    flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
-    float: left;
   }
-
-  .aza30-desc {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    float: right;
-  }
-
-  .aza30-menu>a {
-    background-color: #fff;
-    padding: 10px;
-    float: left;
-    border-radius: 5px;
-  }
-
-  .aza30-menu>.active,
-  .aza30-menu>a:hover {
-    background-color: #1e3046;
-    color: #fff;
-    display: flex;
-  }
-
-  .aza30-desc-menu {
-    width: 200px;
-    background-color: #1e3046;
-    display: flex;
-    flex-direction: column;
-    border-radius: 5px;
-  }
-
-  .aza30-desc-menu>div {
-    padding: 5px;
-    border-radius: 5px;
-    background-color: #fff;
-    margin: 5px;
-  }
-
-  .aza30-desc-body {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .aza30-title {
+  .ujom3-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -235,8 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-
-  .aza30-title::before {
+  .ujom3-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -250,82 +207,24 @@
     opacity: 0.5;
     z-index: 1;
   }
-
-  .aza30-title span {
+  .ujom3-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
-
-  .aza30-body {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    text-align: left;
-  }
-
-  .aza30-img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: calc(var(--max) - 460px);
-  }
-
-  .aza30-img img {
-    width: 100%;
-  }
-
-  @media screen and (min-width: 1024px) {
-    .aza30-desc {
-      width: calc(var(--max) - 240px);
-    }
-  }
-
   @media screen and (max-width: 1024px) {
-    .aza30-menu-btn {
-      display: flex;
-      width: calc(100% - 55px);
-      margin-left: 5px;    }
-
-    .aza30 {
-      display: flex;
+    .ujom3 {
       flex-direction: column;
-      width: 100%;
+      width: calc(100% - 10px);
       padding: 5px;
-      gap: 5px;
-          margin-top: 0px;
-
     }
-
-    .aza30-img {
-      width: 100%;
-    }
-
-    .aza30-body {
-      width: 100%;
-      order: 3;
-      padding: 10px;
-    }
-
-    .aza30-menu {
-      width: 100%;
-      float: none;
-      flex-direction: column;
-      order: 1;
+    .ujom3-menu {
       display: none;
     }
-
-    .aza30-menu.active {
-      display: flex;
-    }
-
-    .aza30-desc {
-      width: 100% !important;
-      order: 2;
+    .ujom3-body {
+      width: 100%;
     }
   }
-
-
 
 
   .whatsapp {
@@ -421,28 +320,28 @@
   }
 
   .wave#wave1 {
-    z-index: 1000;
+    z-index: 100;
     opacity: 1;
     bottom: 0;
     animation: animateWaves 4s linear infinite;
   }
 
   .wave#wave2 {
-    z-index: 999;
+    z-index: 99;
     opacity: 0.5;
     bottom: 10px;
     animation: animate 4s linear infinite !important;
   }
 
   .wave#wave3 {
-    z-index: 1000;
+    z-index: 100;
     opacity: 0.2;
     bottom: 15px;
     animation: animateWaves 3s linear infinite;
   }
 
   .wave#wave4 {
-    z-index: 999;
+    z-index: 99;
     opacity: 0.7;
     bottom: 20px;
     animation: animate 3s linear infinite;

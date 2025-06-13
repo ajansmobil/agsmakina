@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Döner Kavurma Makinesi",
+    "en": "Doner Roasting Machine",
+    "ar": "ماكينة تحميص الدونر",
+    "de": "Döner-Bratmaschine",
+    "es": "Máquina para asar doners",
+    "ru": "Машина для жарки донера"
+  },
+  "status": "play",
+  "category": "Roasting Equipment",
+  "id": "c29hzvm3te",
+  "url": "doner-roasting-machine",
+  "path": "donerkavurmamakinesi",
+  "index": 1,
+  "img": "o46cc.jpg",
+  "keyword": {
+    "tr": "döner, kavurma makinesi, endüstriyel kavurma, gıda işleme",
+    "en": "doner, roasting machine, industrial roasting, food processing",
+    "ar": "ماكينة تحميص الدونر, تحميص صناعي, معالجة الطعام",
+    "de": "Döner-Bratmaschine, industrielle Bratmaschine, Lebensmittelverarbeitung",
+    "es": "Máquina para asar doners, asado industrial, procesamiento de alimentos",
+    "ru": "Донер, жаркая машина, промышленная жара"
+  },
+  "description": {
+    "tr": "Döner kavurma makinesi, endüstriyel gıda işleme ve döner üretimi için idealdir.",
+    "en": "Doner roasting machine is ideal for industrial food processing and doner production.",
+    "ar": "ماكينة تحميص الدونر مثالية لمعالجة الطعام الصناعية وإنتاج الدونر.",
+    "de": "Die Döner-Bratmaschine ist ideal für die industrielle Lebensmittelverarbeitung und Dönerproduktion.",
+    "es": "La máquina para asar doners es ideal para el procesamiento industrial de alimentos y la producción de doners.",
+    "ru": "Машина ротари -жарки идеально подходит для промышленной пищевой промышленности и вращающегося производства."
+  },
+  "text": {
+    "tr": "<h2>Döner Kavurma Makinesi</h2><p>Döner üretiminde yüksek verimlilik ve kalite sunar. Bu makine, döner etlerinin homojen ve mükemmel bir şekilde kavrulmasını sağlar. Dayanıklı malzemelerden üretilmiş olup, uzun ömürlüdür ve yoğun kullanıma uygundur. 0,75 KW gücündeki motoru ile saatte 250 kg döner eti kavurabilir. Kullanımı kolay olup, temizliği basittir ve işletme maliyetlerini düşürür. Döner kavurma makinesi, restoranlar, döner dükkanları ve büyük ölçekli üretim tesisleri için mükemmel bir tercihtir.</p>",
+    "en": "<h2>Doner Roasting Machine</h2><p>The Doner Roasting Machine offers high efficiency and quality in doner production. This machine ensures the homogeneous and perfect roasting of doner meats. Made from durable materials, it is long-lasting and suitable for intensive use. With a 0.75 KW motor, it can roast up to 250 kg of doner meat per hour. It is easy to use, simple to clean, and reduces operating costs. The doner roasting machine is an excellent choice for restaurants, doner shops, and large-scale production facilities.</p>",
+    "ar": "<h2>ماكينة تحميص الدونر</h2><p>تقدم ماكينة تحميص الدونر كفاءة عالية وجودة في إنتاج الدونر. تضمن هذه الماكينة تحميص اللحوم بشكل متجانس ومثالي. مصنوعة من مواد متينة، فهي طويلة الأمد ومناسبة للاستخدام المكثف. مع محرك بقوة 0.75 كيلو واط، يمكنها تحميص ما يصل إلى 250 كجم من لحم الدونر في الساعة. إنها سهلة الاستخدام والتنظيف، وتقلل من تكاليف التشغيل. تعتبر ماكينة تحميص الدونر خيارًا ممتازًا للمطاعم ومحلات الدونر ومرافق الإنتاج الكبيرة.</p>",
+    "de": "<h2>Döner-Bratmaschine</h2><p>Die Döner-Bratmaschine bietet hohe Effizienz und Qualität in der Dönerproduktion. Diese Maschine sorgt für die gleichmäßige und perfekte Bratung von Dönerfleisch. Hergestellt aus langlebigen Materialien, ist sie langlebig und für den intensiven Einsatz geeignet. Mit einem 0,75 KW Motor kann sie bis zu 250 kg Dönerfleisch pro Stunde braten. Sie ist einfach zu bedienen, leicht zu reinigen und senkt die Betriebskosten. Die Döner-Bratmaschine ist eine ausgezeichnete Wahl für Restaurants, Dönerläden und groß angelegte Produktionsanlagen.</p>",
+    "es": "<h2>Máquina para asar doners</h2><p>La máquina para asar doners ofrece alta eficiencia y calidad en la producción de doners. Esta máquina asegura el asado homogéneo y perfecto de las carnes de doner. Fabricada con materiales duraderos, es de larga duración y adecuada para un uso intensivo. Con un motor de 0.75 KW, puede asar hasta 250 kg de carne de doner por hora. Es fácil de usar, simple de limpiar y reduce los costos operativos. La máquina para asar doners es una excelente opción para restaurantes, tiendas de doners y instalaciones de producción a gran escala.</p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "200 CM",
+    "weight": "150 KG",
+    "length": "100 CM",
+    "power": "0.75 KW",
+    "capacity": "250 KG/H"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:34.937Z",
+  "date": "2025-06-13T22:54:34.937Z"
+}

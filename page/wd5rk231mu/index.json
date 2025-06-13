@@ -1,0 +1,50 @@
+{
+  "name": {
+    "tr": "Teknik Destek",
+    "en": "Technical Support",
+    "ar": "الدعم الفني",
+    "de": "Technischer Support",
+    "ru": "Техническая поддержка",
+    "es": "Soporte técnico"
+  },
+  "status": "play",
+  "category": "Support",
+  "id": "wd5rk231mu",
+  "url": "teknik-destek",
+  "path": "teknikdestek",
+  "keyword": {
+    "tr": "teknik destek, bakım onarım, yedek parça, servis hizmetleri",
+    "en": "technical support, maintenance repair, spare parts, service services",
+    "ar": "الدعم الفني، الصيانة والإصلاح، قطع الغيار، خدمات الخدمة",
+    "de": "technischer Support, Wartung und Reparatur, Ersatzteile, Servicedienste",
+    "ru": "техническая поддержка, обслуживание и ремонт, запасные части, сервисные услуги",
+    "es": "soporte técnico, mantenimiento y reparación, repuestos, servicios de servicio"
+  },
+  "description": {
+    "tr": "Profesyonel teknik destek ekibimizle 7/24 yanınızdayız.",
+    "en": "We are with you 24/7 with our professional technical support team.",
+    "ar": "نحن معك على مدار الساعة طوال أيام الأسبوع مع فريق الدعم الفني المحترف لدينا.",
+    "de": "Wir sind 24/7 mit unserem professionellen technischen Support-Team für Sie da.",
+    "ru": "Мы с вами 24/7 с нашей профессиональной командой технической поддержки.",
+    "es": "Estamos contigo 24/7 con nuestro equipo profesional de soporte técnico."
+  },
+  "text": {
+    "tr": "<h2>Teknik Destek Hizmetlerimiz</h2><p>Profesyonel teknik destek ekibimiz, makinelerinizin kurulumundan bakımına kadar tüm süreçlerde yanınızda. 7/24 teknik destek hizmetimizle, olası sorunlara hızlı ve etkili çözümler sunuyoruz.</p><p>Teknik destek hizmetlerimiz:</p><ul><li>Kurulum ve devreye alma desteği</li><li>Periyodik bakım hizmetleri</li><li>Arıza tespiti ve onarım</li><li>Yedek parça temini</li><li>Uzaktan destek hizmetleri</li></ul>",
+    "en": "<h2>Our Technical Support Services</h2><p>Our professional technical support team is with you in all processes from the installation of your machines to their maintenance. With our 24/7 technical support service, we provide fast and effective solutions to possible problems.</p><p>Our technical support services:</p><ul><li>Installation and commissioning support</li><li>Periodic maintenance services</li><li>Fault detection and repair</li><li>Spare parts supply</li><li>Remote support services</li></ul>",
+    "ar": "<h2>خدمات الدعم الفني لدينا</h2><p>فريق الدعم الفني المحترف لدينا معك في جميع العمليات من تركيب آلاتك إلى صيانتها. من خلال خدمة الدعم الفني على مدار الساعة طوال أيام الأسبوع، نقدم حلولاً سريعة وفعالة للمشكلات المحتملة.</p><p>خدمات الدعم الفني لدينا:</p><ul><li>دعم التركيب والتشغيل</li><li>خدمات الصيانة الدورية</li><li>كشف الأعطال وإصلاحها</li><li>توفير قطع الغيار</li><li>خدمات الدعم عن بعد</li></ul>",
+    "de": "<h2>Unsere technischen Support-Dienste</h2><p>Unser professionelles technisches Support-Team steht Ihnen in allen Prozessen von der Installation Ihrer Maschinen bis hin zu deren Wartung zur Seite. Mit unserem 24/7 technischen Support-Service bieten wir schnelle und effektive Lösungen für mögliche Probleme.</p><p>Unsere technischen Support-Dienste:</p><ul><li>Installations- und Inbetriebnahmeunterstützung</li><li>Periodische Wartungsdienste</li><li>Fehlererkennung und -reparatur</li><li>Ersatzteilversorgung</li><li>Fernunterstützungsdienste</li></ul>",
+    "ru": "<h2>Наши услуги технической поддержки</h2><p>Наша профессиональная команда технической поддержки сопровождает вас на всех этапах, от установки ваших машин до их обслуживания. С помощью нашей службы технической поддержки 24/7 мы предоставляем быстрые и эффективные решения возможных проблем.</p><p>Наши услуги технической поддержки:</p><ul><li>Поддержка установки и ввода в эксплуатацию</li><li>Периодические услуги по обслуживанию</li><li>Обнаружение и ремонт неисправностей</li><li>Поставка запасных частей</li><li>Услуги удаленной поддержки</li></ul>",
+    "es": "<h2>Nuestros servicios de soporte técnico</h2><p>Nuestro equipo profesional de soporte técnico está con usted en todos los procesos, desde la instalación de sus máquinas hasta su mantenimiento. Con nuestro servicio de soporte técnico 24/7, brindamos soluciones rápidas y efectivas a posibles problemas.</p><p>Nuestros servicios de soporte técnico:</p><ul><li>Soporte de instalación y puesta en marcha</li><li>Servicios de mantenimiento periódico</li><li>Detección y reparación de fallas</li><li>Suministro de repuestos</li><li>Servicios de soporte remoto</li></ul>"
+  },
+  "spot": {
+    "tr": "7/24 Teknik Destek",
+    "en": "24/7 Technical Support",
+    "ar": "دعم فني على مدار الساعة",
+    "de": "24/7 technischer Support",
+    "ru": "Круглосуточная техническая поддержка",
+    "es": "Soporte técnico 24/7"
+  },
+  "index": 0,
+  "update": "2025-06-13T22:54:35.127Z",
+  "date": "2025-06-13T22:54:35.127Z"
+}

@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 2",
+    "en": "Elevator 2",
+    "ar": "مصعد 2",
+    "de": "Aufzug 2",
+    "es": "Ascensor 2",
+    "ru": "Лифт 2"
+  },
+  "status": "play",
+  "category": "",
+  "id": "kmnvuyqxp0",
+  "url": "elevator-2",
+  "path": "elevator2",
+  "index": 9,
+  "img": "q6in3.jpg",
+  "keyword": {
+    "tr": "elevator 2, elevator, elevator 2, elevator2",
+    "en": "elevator 2, elevator, elevator 2, elevator2",
+    "ar": "مصعد 2, مصعد, مصعد 2, مصعد2",
+    "de": "aufzug 2, aufzug, aufzug 2, aufzug2",
+    "es": "ascensor 2, ascensor, ascensor 2, ascensor2",
+    "ru": "Лифт 2, лифт, лифт 2, лифт2"
+  },
+  "description": {
+    "tr": "Elevator 2 hakkında detaylı bilgi",
+    "en": "Elevator 2 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 2",
+    "de": "Über Aufzug 2",
+    "es": "Información detallada sobre el ascensor 2",
+    "ru": "Подробная информация о лифте 2"
+  },
+  "text": {
+    "tr": "<h2>Elevatör 2</h2>Elevator 2, yüksek kaliteli ve performanslı bir elevatör ürünüdür. Bu elevatör, yüksek hızlı ve geri dönüşü sağlayan modern bir teknoloji ile donatılmıştır. Kullanıcılar, bu elevatör üzerinde zaman kaybetmeden hızlıca ve kolayca yukarı ya da aşağı doğru gitmek için kullanabilirler. Ayrıca, bu elevatörün güvenliği ve dayanıklılığı da önemlidir. İnsanlar, bu elevatör üzerinde güvende olabilir ve kusursuz bir şekilde yukarıya taşınabilirler.",
+    "en": "<h2>Elevator 2</h2>Elevator 2 is a high-quality and performant elevator product. It is equipped with modern technology that provides fast and smooth movement. Users can use this elevator to quickly and easily go up or down without wasting time. Additionally, the safety and durability of this elevator are also important. People can be safe and effortlessly transferred using this elevator.",
+    "ar": "<h2>مصعد 2</h2>مصعد 2 منتج عالي جودة وأعلى المعدل في الأسعار. يتم تهيئته بالتقنية المodernة التي تقدم حركة سريعة وسلسة. يمكن للمستخدمين استخدام هذا المصعد للمرور بشكل سريع وسهول إلى أعلى أو أسفل بدون تذكر جد. بالإضافة إلى ذلك، هو أمانة وسطوحة مناسبة لهذا المصعد. يمكن للأشخاص أن يكونوا آمنين ويمكنهم المرور بشكل سهل وبدون مشاكل إلى أعلى.",
+    "de": "<h2>Aufzug 2</h2>Aufzug 2 ist ein hochwertiges und leistungsstarkes Aufzug-Produkt. Es ist mit modernster Technologie ausgestattet, die schnelle und glatte Bewegung bietet. Benutzer können diesen Aufzug verwenden, um schnell und einfach nach oben oder unten zu fahren, ohne Zeit zu verlieren. Zusätzlich ist die Sicherheit und Robustheit dieses Aufzugs ebenfalls wichtig. Menschen können sicher und ohne Hindernisse von einem Stock ins nächste übertragen werden.",
+    "es": "<h2>Ascensor 2</h2>Ascensor 2 es un producto de ascensor de alta calidad y rendimiento. Está equipado con tecnología moderna que proporciona movimiento rápido y suave. Los usuarios pueden utilizar este ascensor para cruzar rápidamente y fácilmente hacia arriba o hacia abajo sin perder tiempo. Además, la seguridad y durabilidad de este ascensor también son importantes. Las personas pueden sentirse seguros y pueden transferirse de un piso a otro sin problemas.",
+    "ru": ""
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.047Z",
+  "date": "2025-06-13T22:54:35.047Z"
+}

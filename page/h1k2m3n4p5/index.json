@@ -1,0 +1,51 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About Us",
+    "ar": "معلومات عنا",
+    "de": "Über uns",
+    "ru": "О нас",
+    "es": "Sobre nosotros"
+  },
+  "status": "play",
+  "category": "About",
+  "id": "h1k2m3n4p5",
+  "url": "hakkimizda",
+  "path": "hakkimizda",
+  "keyword": {
+    "tr": "AGS Agro Gıda ve Makina, fıstık işleme, makine üretimi, endüstriyel çözümler",
+    "en": "AGS Agro Food and Machinery, peanut processing, machine manufacturing, industrial solutions",
+    "ar": "AGS Agro Food and Machinery، معالجة الفول السوداني، تصنيع الآلات، الحلول الصناعية",
+    "de": "AGS Agro Food and Machinery, Erdnussverarbeitung, Maschinenbau, industrielle Lösungen",
+    "ru": "AGS Agro Food and Machinery, переработка арахиса, производство машин, промышленные решения",
+    "es": "AGS Agro Food and Machinery, procesamiento de maní, fabricación de máquinas, soluciones industriales"
+  },
+  "description": {
+    "tr": "15 yılı aşkın sektör deneyimiyle fıstık işleme ve makine üretimi alanlarında güvenilir ve profesyonel hizmet sunuyoruz.",
+    "en": "We provide reliable and professional service in peanut processing and machine manufacturing with over 15 years of industry experience.",
+    "ar": "نقدم خدمة موثوقة ومهنية في معالجة الفول السوداني وتصنيع الآلات مع أكثر من 15 عامًا من الخبرة في الصناعة.",
+    "de": "Wir bieten zuverlässige und professionelle Dienstleistungen in der Erdnussverarbeitung und im Maschinenbau mit über 15 Jahren Branchenerfahrung.",
+    "ru": "Мы предоставляем надежные и профессиональные услуги в области переработки арахиса и производства машин с более чем 15-летним опытом работы в отрасли.",
+    "es": "Brindamos servicios confiables y profesionales en procesamiento de maní y fabricación de máquinas con más de 15 años de experiencia en la industria."
+  },
+  "text": {
+    "tr": "<h2>Hakkımızda</h2><p>AGS Agro Gıda ve Makina, 15 yılı aşkın sektör deneyimiyle fıstık işleme ve makine üretimi alanlarında güvenilir ve profesyonel hizmet sunmaktadır. Kurulduğumuz günden bu yana, fıstık işleme tesisleri için yenilikçi çözümler geliştirerek, makine üretimi, kurulum ve teknik destek hizmetleriyle müşterilerimizin yanında yer alıyoruz.</p><p>Yapay zeka destekli modern teknolojilerle donatılmış makinelerimizle, sektörde verimliliği ve kaliteyi en üst seviyeye çıkarmayı hedefliyoruz. Güvenilir, yenilikçi ve iş bitirici yaklaşımımızla, AGS Agro Gıda ve Makina olarak yurt içi ve yurt dışındaki müşterilerimize ithalat ve ihracat alanında da profesyonel çözümler sunmaktayız.</p><p>Bizimle çalışarak, yüksek kalite standartlarına sahip makinelerimiz ve uzman teknik destek ekibimizle tanışabilirsiniz.</p>",
+    "en": "<h2>About Us</h2><p>AGS Agro Food and Machinery provides reliable and professional service in peanut processing and machine manufacturing with over 15 years of industry experience. Since our establishment, we have been developing innovative solutions for peanut processing facilities, standing by our customers with machine manufacturing, installation and technical support services.</p><p>With our machines equipped with artificial intelligence-supported modern technologies, we aim to increase efficiency and quality to the highest level in the industry. With our reliable, innovative and result-oriented approach, as AGS Agro Food and Machinery, we also provide professional solutions to our domestic and international customers in the field of import and export.</p><p>By working with us, you can get to know our machines with high quality standards and our expert technical support team.</p>",
+    "ar": "<h2>معلومات عنا</h2><p>تقدم AGS Agro Food and Machinery خدمة موثوقة ومهنية في معالجة الفول السوداني وتصنيع الآلات مع أكثر من 15 عامًا من الخبرة في الصناعة. منذ تأسيسنا، كنا نطور حلولًا مبتكرة لمرافق معالجة الفول السوداني، ونقف إلى جانب عملائنا بخدمات تصنيع الآلات والتركيب والدعم الفني.</p><p>بفضل آلاتنا المجهزة بتقنيات حديثة مدعومة بالذكاء الاصطناعي، نسعى جاهدين لزيادة الكفاءة والجودة إلى أعلى مستوى في الصناعة. من خلال نهجنا الموثوق والمبتكر والموجه نحو النتائج، كشركة AGS Agro Food and Machinery، نقدم أيضًا حلولًا احترافية لعملائنا المحليين والدوليين في مجال الاستيراد والتصدير.</p><p>من خلال العمل معنا، يمكنك التعرف على آلاتنا ذات معايير الجودة العالية وفريق الدعم الفني المتخصص لدينا.</p>",
+    "de": "<h2>Über uns</h2><p>AGS Agro Food and Machinery bietet zuverlässige und professionelle Dienstleistungen in der Erdnussverarbeitung und im Maschinenbau mit über 15 Jahren Branchenerfahrung. Seit unserer Gründung entwickeln wir innovative Lösungen für Erdnussverarbeitungsanlagen und stehen unseren Kunden mit Maschinenbau, Installation und technischem Support zur Seite.</p><p>Mit unseren mit KI-gestützten modernen Technologien ausgestatteten Maschinen streben wir danach, Effizienz und Qualität in der Branche auf das höchste Niveau zu steigern. Mit unserem zuverlässigen, innovativen und ergebnisorientierten Ansatz bieten wir als AGS Agro Food and Machinery auch professionelle Lösungen für unsere in- und ausländischen Kunden im Bereich Import und Export.</p><p>Durch die Zusammenarbeit mit uns können Sie unsere Maschinen mit hohen Qualitätsstandards und unser Expertenteam für technischen Support kennenlernen.</p>",
+    "ru": "<h2>О нас</h2><p>AGS Agro Food and Machinery предоставляет надежные и профессиональные услуги в области переработки арахиса и производства машин с более чем 15-летним опытом работы в отрасли. С момента основания мы разрабатываем инновационные решения для предприятий по переработке арахиса, поддерживая наших клиентов услугами по производству машин, установке и технической поддержке.</p><p>С помощью наших машин, оснащенных современными технологиями с поддержкой искусственного интеллекта, мы стремимся повысить эффективность и качество до наивысшего уровня в отрасли. Благодаря нашему надежному, инновационному и ориентированному на результат подходу, как AGS Agro Food and Machinery, мы также предоставляем профессиональные решения нашим отечественным и международным клиентам в области импорта и экспорта.</p><p>Работая с нами, вы можете познакомиться с нашими машинами, соответствующими высоким стандартам качества, и нашей командой экспертов технической поддержки.</p>",
+    "es": "<h2>Sobre nosotros</h2><p>AGS Agro Food and Machinery brinda servicios confiables y profesionales en procesamiento de maní y fabricación de máquinas con más de 15 años de experiencia en la industria. Desde nuestra fundación, hemos estado desarrollando soluciones innovadoras para instalaciones de procesamiento de maní, respaldando a nuestros clientes con servicios de fabricación de máquinas, instalación y soporte técnico.</p><p>Con nuestras máquinas equipadas con tecnologías modernas respaldadas por inteligencia artificial, aspiramos a aumentar la eficiencia y la calidad al más alto nivel en la industria. Con nuestro enfoque confiable, innovador y orientado a resultados, como AGS Agro Food and Machinery, también brindamos soluciones profesionales a nuestros clientes nacionales e internacionales en el campo de importación y exportación.</p><p>Trabajando con nosotros, puede conocer nuestras máquinas con altos estándares de calidad y nuestro equipo experto de soporte técnico.</p>"
+  },
+  "spot": {
+    "tr": "Kalite ve Güvenin Adresi",
+    "en": "Address of Quality and Trust",
+    "ar": "عنوان الجودة والثقة",
+    "de": "Adresse für Qualität und Vertrauen",
+    "ru": "Адрес качества и доверия",
+    "es": "Dirección de Calidad y Confianza"
+  },
+  "index": 0,
+  "desc": {},
+  "update": "2025-06-13T22:54:34.770Z",
+  "date": "2025-06-13T22:54:34.771Z"
+}

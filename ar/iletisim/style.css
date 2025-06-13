@@ -1,5 +1,5 @@
 
-  .ajf64 {
+  .qfxn2 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ajf64title {
+  .qfxn2title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ajf64titlebody {
+  .qfxn2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ajf64titlebodytitle {
+  .qfxn2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ajf64titlebodylang {
+  .qfxn2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ajf64titlebodylang ul {
+  .qfxn2titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ajf64body {
+  .qfxn2body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ajf64menu {
+  .qfxn2menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ajf64menulist {
+  .qfxn2menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ajf64menubody {
+  .qfxn2menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ajf64menulist ul {
+  .qfxn2menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ajf64menulist ul a {
+  .qfxn2menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .ajf64menulist ul a:hover {
+  .qfxn2menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ajf64menulistactive {
+  .qfxn2menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .ajf64menulistbody {
+  .qfxn2menulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .ajf64bodylogo {
+    .qfxn2bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ajf64menu {
+    .qfxn2menu {
       overflow-x: auto;
     }
 
-    .ajf64menulist ul {
+    .qfxn2menulist ul {
       flex-direction: row;
     }
 
-    .ajf64bodylogo {
+    .qfxn2bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,9 +137,163 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ajf64menulist ul a {
+    .qfxn2menulist ul a {
       font-size: 14px;
     }
+  }
+
+
+  .g27r7 {
+    width: 100%;
+    margin: 30px 0px 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  .g27r7containertitle {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  .g27r7containerlist {
+    padding: 10px;
+    display: flex;
+    border-radius: 8px;
+    border-bottom: solid 1px #ddd;
+    gap: 20px;
+    transition: background-color 0.3s ease;
+  }
+  .g27r7containerlist > div {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: #444;
+  }
+  .g27r7containerlist:hover {
+    background-color: #f9f9f9;
+    border-bottom-color: #1e3046;
+  }
+  .g27r7container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+  }
+  .g27r7containerbody {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  .g27r7body {
+    width: calc(var(--max) - 40px);
+    background-color: #ebebeb;
+    border: 1px solid #dedede;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .g27r7containerlist > span {
+    font-size: 24px;
+    color: #1e3046;
+  }
+  @media screen and (max-width: 1024px) {
+    .g27r7body {
+      width: 100%;
+      padding: 20px;
+      flex-direction: column;
+    }
+    .g27r7containerbody {
+      padding: 15px;
+    }
+  }
+
+
+  .zoom-icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200;
+    width: 100%;
+  }
+  .zoom-icon {
+    font-size: 250px !important;
+    color: #333;
+    animation: pulse 2s infinite;
+    opacity: 0.5;
+  }
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  .p4pd1-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--max);
+  }
+  .p4pd1-body-chile {
+    padding: 20px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+    flex-direction: column;
+    position: absolute;
+  }
+  .p4pd1-body-chile > div {
+    width: 100% !important;
+  }
+  .p4pd12 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .p4pd1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .p4pd1 > svg {
+    width: 100vw;
+  }
+  .p4pd1botton {
+    transform: scaleY(-1);
+    margin-bottom: -1px;
+  }
+  .p4pd1-svg {
+    fill: #fff;
+  }
+  .p4pd1-bg {
+    background-image: url("/img/u7nton/map.png?v={{random}}") !important;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  @media screen and (max-width: 1024px) {
   }
 
 
@@ -236,28 +390,28 @@
   }
 
   .wave#wave1 {
-    z-index: 1000;
+    z-index: 100;
     opacity: 1;
     bottom: 0;
     animation: animateWaves 4s linear infinite;
   }
 
   .wave#wave2 {
-    z-index: 999;
+    z-index: 99;
     opacity: 0.5;
     bottom: 10px;
     animation: animate 4s linear infinite !important;
   }
 
   .wave#wave3 {
-    z-index: 1000;
+    z-index: 100;
     opacity: 0.2;
     bottom: 15px;
     animation: animateWaves 3s linear infinite;
   }
 
   .wave#wave4 {
-    z-index: 999;
+    z-index: 99;
     opacity: 0.7;
     bottom: 20px;
     animation: animate 3s linear infinite;

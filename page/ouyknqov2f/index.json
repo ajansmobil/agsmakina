@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "İç Fıstık Kalibrasyon Eleği",
+    "en": "Pistachio Calibration Sieve",
+    "ar": "منخل معايرة الفستق",
+    "de": "Pistazien-Kalibriersieb",
+    "es": "Tamiz de calibración de pistacho",
+    "ru": "Внутреннее калибровочное сито с арахисом"
+  },
+  "status": "play",
+  "category": "Calibration Equipment",
+  "id": "ouyknqov2f",
+  "url": "pistachio-calibration-sieve",
+  "path": "icfistikkalibrasyonelegi",
+  "index": 4,
+  "img": "w4j5q.jpg",
+  "keyword": {
+    "tr": "iç fıstık kalibrasyon eleği, kalibrasyon eleği, fıstık eleği, gıda işleme, endüstriyel makineler",
+    "en": "pistachio calibration sieve, calibration sieve, pistachio sieve, food processing, industrial machines",
+    "ar": "منخل معايرة الفستق, منخل معايرة, منخل الفستق, معالجة الطعام, الآلات الصناعية",
+    "de": "Pistazien-Kalibriersieb, Kalibriersieb, Pistazien-Sieb, Lebensmittelverarbeitung, Industriemaschinen",
+    "es": "tamiz de calibración de pistacho, tamiz de calibración, tamiz de pistacho, procesamiento de alimentos, máquinas industriales",
+    "ru": "Внутреннее калибровочное сито с арахисом, калибровочное сито, сито с арахисом, пищевая переработка, промышленные машины"
+  },
+  "description": {
+    "tr": "İç Fıstık Kalibrasyon Eleği, endüstriyel gıda işleme ve fıstık üretimi için idealdir.",
+    "en": "Pistachio Calibration Sieve is ideal for industrial food processing and pistachio production.",
+    "ar": "منخل معايرة الفستق مثالي لمعالجة الطعام الصناعية وإنتاج الفستق.",
+    "de": "Das Pistazien-Kalibriersieb ist ideal für die industrielle Lebensmittelverarbeitung und Pistazienproduktion.",
+    "es": "El tamiz de calibración de pistacho es ideal para el procesamiento industrial de alimentos y la producción de pistachos.",
+    "ru": "Идеально подходит для производства внутренней калибровки арахиса, промышленного пищевого переработка и производства арахиса."
+  },
+  "text": {
+    "tr": "<h2>İç Fıstık Kalibrasyon Eleği</h2><p>Fıstık işleme sürecinde yüksek verimlilik ve kalite sunar. Bu makine, fıstıkların homojen ve mükemmel bir şekilde kalibre edilmesini sağlar. Dayanıklı malzemelerden üretilmiş olup, uzun ömürlüdür ve yoğun kullanıma uygundur. 0,37 KW gücündeki motoru ile yüksek kapasitede çalışabilir. Kullanımı kolay olup, temizliği basittir ve işletme maliyetlerini düşürür. İç fıstık kalibrasyon eleği, fıstık işleme tesisleri, gıda işleme fabrikaları ve büyük ölçekli üretim tesisleri için mükemmel bir tercihtir.</p>",
+    "en": "<h2>Pistachio Calibration Sieve</h2><p>The Pistachio Calibration Sieve offers high efficiency and quality in pistachio processing. This machine ensures the homogeneous and perfect calibration of pistachios. Made from durable materials, it is long-lasting and suitable for intensive use. With a 0.37 KW motor, it can operate at high capacity. It is easy to use, simple to clean, and reduces operating costs. The pistachio calibration sieve is an excellent choice for pistachio processing plants, food processing factories, and large-scale production facilities.</p>",
+    "ar": "<h2>منخل معايرة الفستق</h2><p>يقدم منخل معايرة الفستق كفاءة عالية وجودة في معالجة الفستق. تضمن هذه الماكينة معايرة الفستق بشكل متجانس ومثالي. مصنوعة من مواد متينة، فهي طويلة الأمد ومناسبة للاستخدام المكثف. مع محرك بقوة 0.37 كيلو واط، يمكنها العمل بطاقة عالية. إنها سهلة الاستخدام والتنظيف، وتقلل من تكاليف التشغيل. يعتبر منخل معايرة الفستق خيارًا ممتازًا لمصانع معالجة الفستق، ومصانع معالجة الأغذية، ومرافق الإنتاج الكبيرة.</p>",
+    "de": "<h2>Pistazien-Kalibriersieb</h2><p>Das Pistazien-Kalibriersieb bietet hohe Effizienz und Qualität bei der Pistazienverarbeitung. Diese Maschine sorgt für die gleichmäßige und perfekte Kalibrierung von Pistazien. Hergestellt aus langlebigen Materialien, ist sie langlebig und für den intensiven Einsatz geeignet. Mit einem 0,37 KW Motor kann sie mit hoher Kapazität arbeiten. Sie ist einfach zu bedienen, leicht zu reinigen und senkt die Betriebskosten. Das Pistazien-Kalibriersieb ist eine ausgezeichnete Wahl für Pistazienverarbeitungsanlagen, Lebensmittelverarbeitungsfabriken und groß angelegte Produktionsanlagen.</p>",
+    "es": "<h2>Tamiz de calibración de pistacho</h2><p>El tamiz de calibración de pistacho ofrece alta eficiencia y calidad en el procesamiento de pistachos. Esta máquina asegura la calibración homogénea y perfecta de los pistachos. Fabricada con materiales duraderos, es de larga duración y adecuada para un uso intensivo. Con un motor de 0,37 KW, puede operar a alta capacidad. Es fácil de usar, simple de limpiar y reduce los costos operativos. El tamiz de calibración de pistacho es una excelente opción para plantas de procesamiento de pistachos, fábricas de procesamiento de alimentos e instalaciones de producción a gran escala.</p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "210 CM",
+    "weight": "120 KG",
+    "length": "210 CM",
+    "power": "0,37 KW",
+    "capacity": "200-300 KG/H"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:34.982Z",
+  "date": "2025-06-13T22:54:34.982Z"
+}

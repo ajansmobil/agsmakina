@@ -1,0 +1,58 @@
+{
+  "name": {
+    "tr": "Ürünlerimiz",
+    "en": "Our Products",
+    "ar": "منتجاتنا",
+    "de": "Unsere Produkte",
+    "ru": "Наши продукты",
+    "es": "Nuestros productos"
+  },
+  "status": "play",
+  "category": "",
+  "id": "cu4iugms2p",
+  "url": "",
+  "path": "urunlerimiz",
+  "keyword": {
+    "tr": "fıstık işleme makineleri, kavurma makineleri, ayıklama makineleri, endüstriyel makineler",
+    "en": "peanut processing machines, roasting machines, sorting machines, industrial machines",
+    "ar": "آلات معالجة الفول السوداني، آلات التحميص، آلات الفرز، الآلات الصناعية",
+    "de": "Erdnussverarbeitungsmaschinen, Bratmaschinen, Sortiermaschinen, Industriemaschinen",
+    "ru": "машины для переработки арахиса, машины для обжарки, сортировочные машины, промышленные машины",
+    "es": "máquinas de procesamiento de maní, máquinas de tostado, máquinas de clasificación, máquinas industriales"
+  },
+  "description": {
+    "tr": "Yüksek kaliteli fıstık işleme ve endüstriyel makinelerimizle sektörde fark yaratıyoruz.",
+    "en": "We make a difference in the industry with our high-quality peanut processing and industrial machines.",
+    "ar": "نصنع فرقًا في الصناعة بفضل آلات معالجة الفول السوداني والآلات الصناعية عالية الجودة.",
+    "de": "Wir machen einen Unterschied in der Branche mit unseren hochwertigen Erdnussverarbeitungs- und Industriemaschinen.",
+    "ru": "Мы делаем разницу в отрасли с нашими высококачественными машинами для переработки арахиса и промышленными машинами.",
+    "es": "Marcamos la diferencia en la industria con nuestras máquinas de procesamiento de maní y máquinas industriales de alta calidad."
+  },
+  "text": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "spot": {
+    "tr": "Kaliteli ve Güvenilir Ürünler",
+    "en": "Quality and Reliable Products",
+    "ar": "منتجات عالية الجودة وموثوقة",
+    "de": "Qualitative und zuverlässige Produkte",
+    "ru": "Качественные и надежные продукты",
+    "es": "Productos de calidad y confiables"
+  },
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "nwauty"
+    ],
+    "footer": []
+  },
+  "update": "2025-06-13T22:54:34.718Z",
+  "date": "2025-06-13T22:54:34.718Z"
+}

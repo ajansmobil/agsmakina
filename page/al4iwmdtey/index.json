@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 1",
+    "en": "Elevator 1",
+    "ar": "مصعد 1",
+    "de": "Aufzug 1",
+    "es": "Ascensor 1",
+    "ru": "Лифт 1"
+  },
+  "status": "play",
+  "category": "",
+  "id": "al4iwmdtey",
+  "url": "elevator-1",
+  "path": "elevator1",
+  "index": 8,
+  "img": "caayx.jpg",
+  "keyword": {
+    "tr": "elevator 1, elevator, elevator 1, elevator1",
+    "en": "elevator 1, elevator, elevator 1, elevator1",
+    "ar": "مصعد 1, مصعد, مصعد 1, مصعد1",
+    "de": "aufzug 1, aufzug, aufzug 1, aufzug1",
+    "es": "ascensor 1, ascensor, ascensor 1, ascensor1",
+    "ru": "Лифт 1, лифт, лифт 1, лифт1"
+  },
+  "description": {
+    "tr": "Elevator 1 hakkında detaylı bilgi",
+    "en": "Elevator 1 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 1",
+    "de": "Über Aufzug 1",
+    "es": "Información detallada sobre el ascensor 1",
+    "ru": "Подробная информация о лифте 1"
+  },
+  "text": {
+    "tr": "<h2>Elevatör 1</h2>Elevatör 1, yüksek hızlı ve güvenli bir çözümdür. İşletmenizdeki ihtiyacınız olan en iyi çözümü bulmak için Elevatör 1'i deneyin. Daha fazla bilgi ve ürün hakkında detaylı bilgi için aşağıya kaydırabilirsiniz.",
+    "en": "<h2>Elevator 1</h2>Elevator 1 is a fast and reliable solution. Explore the best solution for your needs by trying Elevator 1. For more information and detailed product information, scroll down.",
+    "ar": "<h2>مصعد 1</h2>مصعد 1 هو حل سريع وآمن. استكشف الحل الأفضل لاحتياجاتك في مستأجرك باستخدام مصعد 1. لمزيد من المعلومات والمعلومات المفصلة حول المنتج، اترك لأسفل.",
+    "de": "<h2>Aufzug 1</h2>Aufzug 1 ist eine schnelle und vertrauenswürdige Lösung. Versuchen Sie, Aufzug 1 auszuprobieren, um die beste Lösung für Ihre Bedürfnisse zu finden. Weitere Informationen und detaillierte Produktinformationen finden Sie unten nach unten.",
+    "es": "<h2>Ascensor 1</h2>Ascensor 1 es una solución rápida y segura. Explore la mejor solución para sus necesidades al probar el Ascensor 1. Para obtener más información y detalles del producto, desplácese hacia abajo.",
+    "ru": ""
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.036Z",
+  "date": "2025-06-13T22:54:35.036Z"
+}

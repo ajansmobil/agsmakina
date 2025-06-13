@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Paletli Kavurma Fırını",
+    "en": "Pallet Roasting Oven",
+    "ar": "فرن تحميص البليت",
+    "de": "Paletten-Bratofen",
+    "es": "Horno de asado de paletas",
+    "ru": "Палитра жаркая духовка"
+  },
+  "status": "play",
+  "category": "",
+  "id": "kpyewtvsc8",
+  "url": "paletli-kavurma-firini",
+  "path": "paletlikavurmafirini",
+  "index": 5,
+  "img": "szpwf.jpg",
+  "keyword": {
+    "tr": "paletli kavurma fırını, kavurma fırını, asado fırını",
+    "en": "pallet roasting oven, roasting oven, roasting oven",
+    "ar": "فرن تحميص البليت, فرن تحميص, فرن تحميص",
+    "de": "paletten bratofen, bratofen, bratofen",
+    "es": "horno de asado de paletas, horno de asado, horno de asado",
+    "ru": "Фрагентная жареная печь, жаркая духовка, духовка асадо"
+  },
+  "description": {
+    "tr": "Paletli Kavurma Fırını hakkında detaylı bilgi",
+    "en": "Pallet Roasting Oven hakkında detaylı bilgi",
+    "ar": "فرن تحميص البليت hakkında التفاصيل",
+    "de": "Paletten-Bratofen über",
+    "es": "Información detallada sobre el horno de asado de paletas",
+    "ru": "Подробная информация о жареной печи палитры"
+  },
+  "text": {
+    "tr": "<h2>Paletli Kavurma Fırını</h2><p>Paletli kavurma fırını, kavurma fırını, asado fırını hakkında detaylı bilgi</p>",
+    "en": "<h2>Pallet Roasting Oven</h2><p>Pallet roasting oven, roasting oven, roasting oven hakkında detaylı bilgi</p>",
+    "ar": "<h2>فرن تحميص البليت</h2><p>فرن تحميص البليت, فرن تحميص, فرن تحميص hakkında التفاصيل</p>",
+    "de": "<h2>Paletten-Bratofen</h2><p>Paletten bratofen, bratofen, bratofen hakkında detaylı bilgi</p>",
+    "es": "<h2>Horno de asado de paletas</h2><p>Horno de asado de paletas, horno de asado, horno de asado hakkında detaylı bilgi</p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "265 CM",
+    "weight": "10.400 CM",
+    "length": "",
+    "power": "28 KW",
+    "capacity": "1500 (KG/H)"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:34.997Z",
+  "date": "2025-06-13T22:54:34.997Z"
+}

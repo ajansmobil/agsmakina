@@ -1,0 +1,51 @@
+{
+  "name": {
+    "tr": "Vizyon & Misyon",
+    "en": "Vision & Mission",
+    "ar": "الرؤية والرسالة",
+    "de": "Vision & Mission",
+    "ru": "Видение и миссия",
+    "es": "Visión y Misión"
+  },
+  "status": "play",
+  "category": "Vision",
+  "id": "v1m2n3p4q5",
+  "url": "vizyon-misyon",
+  "path": "vizyonmisyon",
+  "keyword": {
+    "tr": "çevre dostu uygulamalar, sürdürülebilir gelecek, enerji verimliliği, çevre bilinci, teknolojik yenilikler",
+    "en": "eco-friendly practices, sustainable future, energy efficiency, environmental awareness, technological innovations",
+    "ar": "ممارسات صديقة للبيئة، مستقبل مستدام، كفاءة الطاقة، الوعي البيئي، الابتكارات التكنولوجية",
+    "de": "umweltfreundliche Praktiken, nachhaltige Zukunft, Energieeffizienz, Umweltbewusstsein, technologische Innovationen",
+    "ru": "экологически чистые практики, устойчивое будущее, энергоэффективность, экологическая осведомленность, технологические инновации",
+    "es": "prácticas ecológicas, futuro sostenible, eficiencia energética, conciencia ambiental, innovaciones tecnológicas"
+  },
+  "description": {
+    "tr": "Çevre dostu uygulamalarla sürdürülebilir bir gelecek için çalışıyoruz. Enerji verimliliği ve kaynakların etkin kullanımı ile topluma ve çevreye olumlu katkı sağlıyoruz.",
+    "en": "We work for a sustainable future with eco-friendly practices. We make positive contributions to society and the environment through energy efficiency and effective use of resources.",
+    "ar": "نعمل من أجل مستقبل مستدام مع ممارسات صديقة للبيئة. نساهم بشكل إيجابي في المجتمع والبيئة من خلال كفاءة الطاقة والاستخدام الفعال للموارد.",
+    "de": "Wir arbeiten mit umweltfreundlichen Praktiken für eine nachhaltige Zukunft. Wir leisten positive Beiträge zu Gesellschaft und Umwelt durch Energieeffizienz und effektive Ressourcennutzung.",
+    "ru": "Мы работаем над устойчивым будущим с помощью экологически чистых практик. Мы вносим позитивный вклад в общество и окружающую среду за счет энергоэффективности и эффективного использования ресурсов.",
+    "es": "Trabajamos por un futuro sostenible con prácticas ecológicas. Contribuimos positivamente a la sociedad y al medio ambiente a través de la eficiencia energética y el uso efectivo de los recursos."
+  },
+  "text": {
+    "tr": "<h2>Vizyon & Misyon</h2><h3>Vizyonumuz</h3><p>Fıstık işleme ve makine üretimi sektöründe global bir marka olmak, yenilikçi çözümlerle müşterilerimize değer katmak ve sürdürülebilir büyüme sağlamak.</p><h3>Misyonumuz</h3><p>Müşterilerimizin ihtiyaçlarını en iyi şekilde anlayarak, yüksek kaliteli ürün ve hizmetler sunmak, teknolojik gelişmeleri takip ederek sürekli iyileştirme sağlamak ve sektörde güvenilir bir çözüm ortağı olmak.</p><h3>Değerlerimiz</h3><ul><li>Müşteri odaklılık</li><li>Kalite ve güvenilirlik</li><li>Yenilikçilik ve sürekli gelişim</li><li>Çevreye duyarlılık</li><li>Etik değerler</li></ul>",
+    "en": "<h2>Vision & Mission</h2><h3>Our Vision</h3><p>To be a global brand in the peanut processing and machine manufacturing industry, to add value to our customers with innovative solutions and to ensure sustainable growth.</p><h3>Our Mission</h3><p>To provide high-quality products and services by understanding our customers' needs in the best way, to ensure continuous improvement by following technological developments and to be a reliable solution partner in the industry.</p><h3>Our Values</h3><ul><li>Customer focus</li><li>Quality and reliability</li><li>Innovation and continuous development</li><li>Environmental awareness</li><li>Ethical values</li></ul>",
+    "ar": "<h2>الرؤية والرسالة</h2><h3>رؤيتنا</h3><p>أن نكون علامة تجارية عالمية في صناعة معالجة الفول السوداني وتصنيع الآلات، وإضافة قيمة لعملائنا من خلال حلول مبتكرة وضمان النمو المستدام.</p><h3>مهمتنا</h3><p>تقديم منتجات وخدمات عالية الجودة من خلال فهم احتياجات عملائنا بأفضل طريقة، وضمان التحسين المستمر من خلال متابعة التطورات التكنولوجية وأن نكون شريكًا موثوقًا للحلول في الصناعة.</p><h3>قيمنا</h3><ul><li>التركيز على العملاء</li><li>الجودة والموثوقية</li><li>الابتكار والتطوير المستمر</li><li>الوعي البيئي</li><li>القيم الأخلاقية</li></ul>",
+    "de": "<h2>Vision & Mission</h2><h3>Unsere Vision</h3><p>Eine globale Marke in der Erdnussverarbeitungs- und Maschinenbauindustrie zu sein, unseren Kunden mit innovativen Lösungen Mehrwert zu bieten und nachhaltiges Wachstum zu gewährleisten.</p><h3>Unsere Mission</h3><p>Hochwertige Produkte und Dienstleistungen anzubieten, indem wir die Bedürfnisse unserer Kunden bestmöglich verstehen, kontinuierliche Verbesserung durch Verfolgung technologischer Entwicklungen sicherzustellen und ein zuverlässiger Lösungspartner in der Branche zu sein.</p><h3>Unsere Werte</h3><ul><li>Kundenorientierung</li><li>Qualität und Zuverlässigkeit</li><li>Innovation und kontinuierliche Entwicklung</li><li>Umweltbewusstsein</li><li>Ethische Werte</li></ul>",
+    "ru": "<h2>Видение и миссия</h2><h3>Наше видение</h3><p>Быть глобальным брендом в отрасли переработки арахиса и производства машин, добавлять ценность для наших клиентов с помощью инновационных решений и обеспечивать устойчивый рост.</p><h3>Наша миссия</h3><p>Предоставлять высококачественные продукты и услуги, наилучшим образом понимая потребности наших клиентов, обеспечивать постоянное улучшение, следя за технологическими разработками, и быть надежным партнером по решениям в отрасли.</p><h3>Наши ценности</h3><ul><li>Ориентация на клиента</li><li>Качество и надежность</li><li>Инновации и постоянное развитие</li><li>Экологическая осведомленность</li><li>Этические ценности</li></ul>",
+    "es": "<h2>Visión y Misión</h2><h3>Nuestra Visión</h3><p>Ser una marca global en la industria de procesamiento de maní y fabricación de máquinas, agregar valor a nuestros clientes con soluciones innovadoras y asegurar un crecimiento sostenible.</p><h3>Nuestra Misión</h3><p>Proporcionar productos y servicios de alta calidad entendiendo las necesidades de nuestros clientes de la mejor manera, asegurar la mejora continua siguiendo los desarrollos tecnológicos y ser un socio confiable de soluciones en la industria.</p><h3>Nuestros Valores</h3><ul><li>Enfoque al cliente</li><li>Calidad y confiabilidad</li><li>Innovación y desarrollo continuo</li><li>Conciencia ambiental</li><li>Valores éticos</li></ul>"
+  },
+  "spot": {
+    "tr": "Geleceğe Yön Veren Vizyon",
+    "en": "Vision Leading the Future",
+    "ar": "رؤية تقود المستقبل",
+    "de": "Vision, die die Zukunft führt",
+    "ru": "Видение, ведущее в будущее",
+    "es": "Visión que lidera el futuro"
+  },
+  "index": 1,
+  "desc": {},
+  "update": "2025-06-13T22:54:34.794Z",
+  "date": "2025-06-13T22:54:34.794Z"
+}

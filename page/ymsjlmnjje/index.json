@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 4",
+    "en": "Elevator 4",
+    "ar": "مصعد 4",
+    "de": "Aufzug 4",
+    "es": "Ascensor 4",
+    "ru": "Лифт 4"
+  },
+  "status": "play",
+  "category": "",
+  "id": "ymsjlmnjje",
+  "url": "elevator-4",
+  "path": "elevator4",
+  "index": 11,
+  "img": "ftxvs.jpg",
+  "keyword": {
+    "tr": "elevator 4, elevator, elevator 4, elevator4",
+    "en": "elevator 4, elevator, elevator 4, elevator4",
+    "ar": "مصعد 4, مصعد, مصعد 4, مصعد4",
+    "de": "aufzug 4, aufzug, aufzug 4, aufzug4",
+    "es": "ascensor 4, ascensor, ascensor 4, ascensor4",
+    "ru": "Лифт 4, лифт, лифт 4, лифт4"
+  },
+  "description": {
+    "tr": "Elevator 4 hakkında detaylı bilgi",
+    "en": "Elevator 4 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 4",
+    "de": "Über Aufzug 4",
+    "es": "Información detallada sobre el ascensor 4",
+    "ru": "Подробная информация о лифте 4"
+  },
+  "text": {
+    "tr": "Elevator 4 hakkında detaylı bilgi",
+    "en": "Elevator 4 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 4",
+    "de": "Über Aufzug 4",
+    "es": "Información detallada sobre el ascensor 4",
+    "ru": "Подробная информация о лифте 4"
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.078Z",
+  "date": "2025-06-13T22:54:35.078Z"
+}

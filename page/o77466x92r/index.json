@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Savurma Makinesı",
+    "en": "Winding Machine",
+    "ar": "آلة لف",
+    "de": "Wickelmaschine",
+    "es": "Máquina de bobinado",
+    "ru": "Качающаяся машина"
+  },
+  "status": "play",
+  "category": "",
+  "id": "o77466x92r",
+  "url": "savurma-makinesi",
+  "path": "savurmamakinesi",
+  "index": 6,
+  "img": "sjyaw.jpg",
+  "keyword": {
+    "tr": "savurma makinesi, winding machine, bobinado",
+    "en": "winding machine, savurma makinesi, winding machine",
+    "ar": "آلة لف, ماكينة لف, ماكينة لف",
+    "de": "Wickelmaschine, Wickelmaschine, Wickelmaschine",
+    "es": "máquina de bobinado, máquina de bobinado, máquina de bobinado",
+    "ru": "Savurma Machine, Vinding Machine, Bobinado"
+  },
+  "description": {
+    "tr": "Savurma Makinesı hakkında detaylı bilgi",
+    "en": "Winding Machine hakkında detaylı bilgi",
+    "ar": "آلة لف hakkında التفاصيل",
+    "de": "Wickelmaschine über",
+    "es": "Información detallada sobre la máquina de bobinado",
+    "ru": "Подробная информация о уловной машине"
+  },
+  "text": {
+    "tr": "<h2>Savurma Makinesı</h2><p>Savurma makinesi, kullanılabilir en yeni teknolojilerde oluşturulmuş bir cihaptır. İşte bu cihazın özellikleri:</p><ul><li>Düşük enerji tüketimi</li><li>Yüksek üretim hızı</li><li>Hızlı sürme</li><li>Kolay bakım</li></ul><p>Bu cihaz, her türlü savurma işlemini kolaylaştırır. Ürünün tamamının savurma süresini arttırır ve çalışma süresini kısaltır. Bu cihaz, her türlü savurma işlemini kolaylaştırır. Ürünün tamamının savurma süresini arttırır ve çalışma süresini kısaltır.</p>",
+    "en": "<h2>Winding Machine</h2><p>The winding machine is a state-of-the-art product. Here are its features:</p><ul><li>Low energy consumption</li><li>High production speed</li><li>Fast speed</li><li>Easy maintenance</li></ul><p>This machine simplifies all winding processes. It increases the winding time of the entire product and shortens the working time. This machine simplifies all winding processes. It increases the winding time of the entire product and shortens the working time.</p>",
+    "ar": "<h2>آلة لف</h2><p>آلة اللف هي منتج تكنولوجي جديد. هنا خصائصها:</p><ul><li>استهلاك بajo de energía</li><li>VELOCIDAD DE PRODUCCIÓN alta</li><li>VELOCIDAD DEL MOVIMIENTO rápido</li><li>MANTENIMIENTO FACIL</li></ul><p>Este dispositivo simplifica todos los procesos de enrosques. Aumenta el tiempo de enrosque total del producto y reduce el tiempo de trabajo. Este dispositivo simplifica todos los procesos de enrosques. Aumenta el tiempo de enrosque total del producto y reduce el tiempo de trabajo.</p>",
+    "de": "<h2>Wickelmaschine</h2><p>Die Wickelmaschine ist ein modernes Produkt. Hier sind ihre Funktionen:</p><ul><li>Niedriger Energieverbrauch</li><li>Hohe Produktionsgeschwindigkeit</li><li>Schnelle Geschwindigkeit</li><li>Einfacher Wartungsaufwand</li></ul><p>Dieses Gerät vereinfacht alle Wickelprozesse. Es erhöht die gesamte Wickeldauer des Produkts und verkürzt die Arbeitszeit. Dieses Gerät vereinfacht alle Wickelprozesse. Es erhöht die gesamte Wickeldauer des Produkts und verkürzt die Arbeitszeit.</p>",
+    "es": "<h2>Máquina de bobinado</h2><p>La máquina de bobinado es un producto de última generación. Aquí están sus características:</p><ul><li>Bajo consumo energético</li><li>Alta velocidad de producción</li><li>Velocidad de movimiento rápida</li><li>Mantenimiento fácil</li></ul><p>Este dispositivo simplifica todos los procesos de bobinado. Aumenta el tiempo de bobinado total del producto y reduce el tiempo de trabajo. Este dispositivo simplifica todos los procesos de bobinado. Aumenta el tiempo de bobinado total del producto y reduce el tiempo de trabajo.</p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "100 CM",
+    "weight": "240 CM",
+    "length": "170 KG",
+    "power": "2,2 KW",
+    "capacity": "200 (KG/H)"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.008Z",
+  "date": "2025-06-13T22:54:35.008Z"
+}

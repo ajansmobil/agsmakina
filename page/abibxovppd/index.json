@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 3",
+    "en": "Elevator 3",
+    "ar": "مصعد 3",
+    "de": "Aufzug 3",
+    "es": "Ascensor 3",
+    "ru": "Лифт 3"
+  },
+  "status": "play",
+  "category": "",
+  "id": "abibxovppd",
+  "url": "elevator-3",
+  "path": "elevator3",
+  "index": 10,
+  "img": "zsyjy.jpg",
+  "keyword": {
+    "tr": "elevator 3, elevator, elevator 3",
+    "en": "elevator 3, elevator, elevator 3",
+    "ar": "مصعد 3, مصعد, مصعد 3",
+    "de": "aufzug 3, aufzug, aufzug 3",
+    "es": "ascensor 3, ascensor, ascensor 3",
+    "ru": "Лифт 3, лифт, лифт 3"
+  },
+  "description": {
+    "tr": "Elevator 3 hakkında detaylı bilgi",
+    "en": "Elevator 3 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 3",
+    "de": "Über Aufzug 3",
+    "es": "Información detallada sobre el ascensor 3",
+    "ru": "Подробная информация о лифте 3"
+  },
+  "text": {
+    "tr": "<h2>Elevatör 3</h2>Elevatör 3, bir üretim alanında veya bir şube için kullanılan bir aygıttır. Üretim alanında veya bir şubede çalışır ve malzemeleri taşımak için kullanılır. Elevatör 3, taşınacak malzemeleri için bir kapı ve çıkış kapısına sahiptir. Elevator 3, dağıtımı kolaylaştıran bir aygıttır ve işletmelerin yaşamını kolaylaştırır. Ürün Hakkında bilgide yaz.",
+    "en": "<h2>Elevator 3</h2>Elevator 3 is a device used in a production area or a branch. It works in a production area or a branch and is used to transport materials. Elevator 3 has a door and an exit door for the materials to be transported. Elevator 3 is a device that makes distribution easy and improves the livelihood of businesses. Provide detailed and explanatory information in the Product About section.",
+    "ar": "<h2>مصعد 3</h2>مصعد 3 هو جهاز يستخدم في منطقة الإنتاج أو فرع من الشركة. يعمل في منطقة الإنتاج أو فرع الشركة ويستخدم لنقل المواد. يحتوي مصعد 3 على بوابة وبوابة خروج للمواد التي سيتم نقلها. يكون مصعد 3 جهازًا يتميز بسهولة التوزيع ويساعد في مساعدة أعمال الشركة. يرجى ملئ القسم المعلومات حول المنتج بالتفاصيل والوصف.",
+    "de": "<h2>Aufzug 3</h2>Aufzug 3 ist ein Gerät, das in einer Produktionsstätte oder einem Filialgeschäft verwendet wird. Es arbeitet in einer Produktionsstätte oder einem Filialgeschäft und wird verwendet, um Materialien zu transportieren. Aufzug 3 hat eine Tür und eine Ausgabetür für die zu transportierenden Materialien. Aufzug 3 ist ein Gerät, das die Verteilung vereinfacht und die Lebensbedingungen der Betriebe verbessert. Bitte geben Sie den Abschnitt Über das Produkt ausführlich und erläutern Sie die Informationen.",
+    "es": "<h2>Ascensor 3</h2>Ascensor 3 es un dispositivo utilizado en una área de producción o sucursal. Trabaja en una área de producción o sucursal y se utiliza para transportar materiales. El ascensor 3 tiene una puerta y una puerta de salida para los materiales que se transportarán. El ascensor 3 es un dispositivo que hace que la distribución sea más sencilla y mejora las condiciones de vida de las empresas. Por favor, rellene la sección \"Acerca del Producto\" con información detallada y explicativa.",
+    "ru": ""
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.061Z",
+  "date": "2025-06-13T22:54:35.061Z"
+}

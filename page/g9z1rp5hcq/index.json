@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Hafif Tane Ayıklama Makinası",
+    "en": "Light Grain Sorting Machine",
+    "ar": "ماكينة فرز الحبوب الخفيفة",
+    "de": "Sortiermaschine für leichtes Getreide",
+    "es": "Máquina clasificadora de granos ligeros",
+    "ru": "Слегка сортировочная машина"
+  },
+  "status": "play",
+  "category": "Sorting Equipment",
+  "id": "g9z1rp5hcq",
+  "url": "light-grain-sorting-machine",
+  "path": "hafiftaneayiklamamakinasi",
+  "index": 3,
+  "img": "cmo9v.jpg",
+  "keyword": {
+    "tr": "hafif tane ayıklama makinası, ayıklama makinesi, kalibrasyon eleği, endüstriyel makineler, gıda işleme",
+    "en": "light grain sorting machine, sorting machine, calibration sieve, industrial machines, food processing",
+    "ar": "ماكينة فرز الحبوب الخفيفة, ماكينة فرز, منخل معايرة, الآلات الصناعية, معالجة الطعام",
+    "de": "Sortiermaschine für leichtes Getreide, Sortiermaschine, Kalibriersieb, Industriemaschinen, Lebensmittelverarbeitung",
+    "es": "máquina clasificadora de granos ligeros, máquina clasificadora, tamiz de calibración, máquinas industriales, procesamiento de alimentos",
+    "ru": "Светлостная машина с сортировкой света, сортировочная машина, калибровочное сито, промышленные машины, пищевая переработка"
+  },
+  "description": {
+    "tr": "Hafif Tane Ayıklama Makinası, endüstriyel gıda işleme ve tahıl üretimi için idealdir.",
+    "en": "Light Grain Sorting Machine is ideal for industrial food processing and grain production.",
+    "ar": "ماكينة فرز الحبوب الخفيفة مثالية لمعالجة الطعام الصناعية وإنتاج الحبوب.",
+    "de": "Die Sortiermaschine für leichtes Getreide ist ideal für die industrielle Lebensmittelverarbeitung und Getreideproduktion.",
+    "es": "La máquina clasificadora de granos ligeros es ideal para el procesamiento industrial de alimentos y la producción de granos.",
+    "ru": "Светлосная машина света идеально подходит для промышленной пищевой промышленности и производства зерновых."
+  },
+  "text": {
+    "tr": "<h2>Hafif Tane Ayıklama Makinası</h2><p>Hafif Tane Ayıklama Makinası, tahıl işleme sürecinde yüksek verimlilik ve kalite sunar. Bu makine, tahılların homojen ve mükemmel bir şekilde ayıklanmasını sağlar. Dayanıklı malzemelerden üretilmiş olup, uzun ömürlüdür ve yoğun kullanıma uygundur. 7.5 KW gücündeki motoru ile yüksek kapasitede çalışabilir. Kullanımı kolay olup, temizliği basittir ve işletme maliyetlerini düşürür. Hafif tane ayıklama makinesi, tahıl işleme tesisleri, gıda işleme fabrikaları ve büyük ölçekli üretim tesisleri için mükemmel bir tercihtir.</p>",
+    "en": "<h2>Light Grain Sorting Machine</h2><p>The Light Grain Sorting Machine offers high efficiency and quality in grain processing. This machine ensures the homogeneous and perfect sorting of grains. Made from durable materials, it is long-lasting and suitable for intensive use. With a 7.5 KW motor, it can operate at high capacity. It is easy to use, simple to clean, and reduces operating costs. The light grain sorting machine is an excellent choice for grain processing plants, food processing factories, and large-scale production facilities.</p>",
+    "ar": "<h2>ماكينة فرز الحبوب الخفيفة</h2><p>تقدم ماكينة فرز الحبوب الخفيفة كفاءة عالية وجودة في معالجة الحبوب. تضمن هذه الماكينة فرز الحبوب بشكل متجانس ومثالي. مصنوعة من مواد متينة، فهي طويلة الأمد ومناسبة للاستخدام المكثف. مع محرك بقوة 7.5 كيلو واط، يمكنها العمل بطاقة عالية. إنها سهلة الاستخدام والتنظيف، وتقلل من تكاليف التشغيل. تعتبر ماكينة فرز الحبوب الخفيفة خيارًا ممتازًا لمصانع معالجة الحبوب ومصانع معالجة الأغذية ومرافق الإنتاج الكبيرة.</p>",
+    "de": "<h2>Sortiermaschine für leichtes Getreide</h2><p>Die Sortiermaschine für leichtes Getreide bietet hohe Effizienz und Qualität bei der Getreideverarbeitung. Diese Maschine sorgt für die gleichmäßige und perfekte Sortierung von Getreide. Hergestellt aus langlebigen Materialien, ist sie langlebig und für den intensiven Einsatz geeignet. Mit einem 7.5 KW Motor kann sie mit hoher Kapazität arbeiten. Sie ist einfach zu bedienen, leicht zu reinigen und senkt die Betriebskosten. Die Sortiermaschine für leichtes Getreide ist eine ausgezeichnete Wahl für Getreideverarbeitungsanlagen, Lebensmittelverarbeitungsfabriken und groß angelegte Produktionsanlagen.</p>",
+    "es": "<h2>Máquina clasificadora de granos ligeros</h2><p>La máquina clasificadora de granos ligeros ofrece alta eficiencia y calidad en el procesamiento de granos. Esta máquina asegura la clasificación homogénea y perfecta de los granos. Fabricada con materiales duraderos, es de larga duración y adecuada para un uso intensivo. Con un motor de 7.5 KW, puede operar a alta capacidad. Es fácil de usar, simple de limpiar y reduce los costos operativos. La máquina clasificadora de granos ligeros es una excelente opción para plantas de procesamiento de granos, fábricas de procesamiento de alimentos e instalaciones de producción a gran escala.</p>",
+    "ru": ""
+  },
+  "desc": {
+    "height": "1650 CM",
+    "weight": "2815 KG",
+    "length": "1340 CM",
+    "power": "7.5 KW",
+    "capacity": "1000 KG/H"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:34.967Z",
+  "date": "2025-06-13T22:54:34.967Z"
+}

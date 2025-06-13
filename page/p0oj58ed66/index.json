@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 6",
+    "en": "Elevator 6",
+    "ar": "مصعد 6",
+    "de": "Aufzug 6",
+    "es": "Ascensor 6",
+    "ru": "Лифт 6"
+  },
+  "status": "play",
+  "category": "",
+  "id": "p0oj58ed66",
+  "url": "elevator-6",
+  "path": "elevator6",
+  "index": 13,
+  "img": "nv0rd.jpg",
+  "keyword": {
+    "tr": "elevator 6, elevator, elevator6",
+    "en": "elevator 6, elevator, elevator6",
+    "ar": "مصعد 6, مصعد, مصعد6",
+    "de": "aufzug 6, aufzug, aufzug6",
+    "es": "ascensor 6, ascensor, ascensor6",
+    "ru": "Лифт 6, лифт, лифт6"
+  },
+  "description": {
+    "tr": "Elevator 6 hakkında detaylı bilgi",
+    "en": "Elevator 6 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 6",
+    "de": "Über Aufzug 6",
+    "es": "Información detallada sobre el ascensor 6",
+    "ru": "Подробная информация о лифте 6"
+  },
+  "text": {
+    "tr": "Elevator 6 hakkında detaylı bilgi",
+    "en": "Elevator 6 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 6",
+    "de": "Über Aufzug 6",
+    "es": "Información detallada sobre el ascensor 6",
+    "ru": "Подробная информация о лифте 6"
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.105Z",
+  "date": "2025-06-13T22:54:35.105Z"
+}

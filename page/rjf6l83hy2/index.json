@@ -1,0 +1,59 @@
+{
+  "name": {
+    "tr": "Elevatör 7",
+    "en": "Elevator 7",
+    "ar": "مصعد 7",
+    "de": "Aufzug 7",
+    "es": "Ascensor 7",
+    "ru": "Лифт 7"
+  },
+  "status": "play",
+  "category": "",
+  "id": "rjf6l83hy2",
+  "url": "elevator-7",
+  "path": "elevator7",
+  "index": 14,
+  "img": "desas.jpg",
+  "keyword": {
+    "tr": "elevator 7, elevator7",
+    "en": "elevator 7, elevator7",
+    "ar": "مصعد 7, مصعد7",
+    "de": "aufzug 7, aufzug7",
+    "es": "ascensor 7, ascensor7",
+    "ru": "Лифт 7, лифт7"
+  },
+  "description": {
+    "tr": "Elevator 7 hakkında detaylı bilgi",
+    "en": "Elevator 7 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 7",
+    "de": "Über Aufzug 7",
+    "es": "Información detallada sobre el ascensor 7",
+    "ru": "Подробная информация о лифте 7"
+  },
+  "text": {
+    "tr": "Elevator 7 hakkında detaylı bilgi",
+    "en": "Elevator 7 hakkında detaylı bilgi",
+    "ar": "التفاصيل عن مصعد 7",
+    "de": "Über Aufzug 7",
+    "es": "Información detallada sobre el ascensor 7",
+    "ru": "Подробная информация о лифте 7"
+  },
+  "desc": {
+    "height": "",
+    "weight": "",
+    "length": "",
+    "power": "",
+    "capacity": ""
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "es": "",
+    "ru": ""
+  },
+  "icon": "home",
+  "update": "2025-06-13T22:54:35.116Z",
+  "date": "2025-06-13T22:54:35.116Z"
+}

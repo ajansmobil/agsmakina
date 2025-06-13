@@ -1,0 +1,57 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша качественная политика",
+    "es": "Nuestra política de calidad"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalitepolitikamiz",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2><p style=\" font-size: 16px;\">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p>",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "kalite politikası, müşteri memnuniyeti, sürekli iyileştirme, kalite standartları, profesyonel hizmet",
+    "en": "quality policy, customer satisfaction, continuous improvement, quality standards, professional service",
+    "ar": "سياسة الجودة، رضا العملاء، التحسين المستمر، معايير الجودة، خدمة احترافية",
+    "de": "Qualitätspolitik, Kundenzufriedenheit, kontinuierliche Verbesserung, Qualitätsstandards, professioneller Service",
+    "ru": "политика качества, удовлетворенность клиентов, постоянное улучшение, стандарты качества, профессиональное обслуживание",
+    "es": "política de calidad, satisfacción del cliente, mejora continua, estándares de calidad, servicio profesional"
+  },
+  "description": {
+    "tr": "Müşteri memnuniyetini en üst seviyede tutmak ve sürekli iyileştirme sağlamak için kalite politikamızı titizlikle uyguluyoruz. En yüksek kalite standartlarını garanti ediyoruz.",
+    "en": "We meticulously implement our quality policy to maintain customer satisfaction at the highest level and ensure continuous improvement. We guarantee the highest quality standards.",
+    "ar": "ننفذ سياسة الجودة لدينا بدقة للحفاظ على رضا العملاء بأعلى مستوى وضمان التحسين المستمر. نضمن أعلى معايير الجودة.",
+    "de": "Wir setzen unsere Qualitätspolitik sorgfältig um, um die Kundenzufriedenheit auf höchstem Niveau zu halten und kontinuierliche Verbesserung sicherzustellen. Wir garantieren die höchsten Qualitätsstandards.",
+    "ru": "Мы тщательно реализуем нашу политику качества, чтобы поддерживать удовлетворенность клиентов на самом высоком уровне и обеспечивать постоянное улучшение. Мы гарантируем высочайшие стандарты качества.",
+    "es": "Implementamos meticulosamente nuestra política de calidad para mantener la satisfacción del cliente en el nivel más alto y asegurar la mejora continua. Garantizamos los más altos estándares de calidad."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "index": 4,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "1.jpg",
+  "update": "2025-06-13T22:54:34.847Z",
+  "date": "2025-06-13T22:54:34.847Z"
+}

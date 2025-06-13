@@ -1,0 +1,57 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية",
+    "de": "Persönliche Daten",
+    "ru": "Персональные данные",
+    "es": "Datos personales"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisiselveriler",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kişisel Veriler</h2>\n    <p style=\"font-size: 16px;\">\n        Kişisel verileriniz, yalnızca yasal gereklilikleri karşılamak, taleplerinizi yerine getirmek ve size daha iyi hizmet sunmak amacıyla toplanmaktadır. Kişisel verilerinizin güvenliği bizim için önceliklidir ve bu verilerin korunması için 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) başta olmak üzere, ilgili tüm mevzuat çerçevesinde gerekli teknik ve idari tedbirleri almaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan kişisel veriler, yalnızca yetkili kişiler tarafından erişilebilir olup, izniniz dışında üçüncü taraflarla paylaşılmamaktadır. Kişisel verilerinizin hangi amaçlarla işlendiğini, nasıl saklandığını, kimlerle paylaşıldığını öğrenme hakkına sahipsiniz. Ayrıca, verilerinize erişim talep edebilir, düzeltilmesini, silinmesini veya anonim hale getirilmesini isteyebilirsiniz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizle ilgili herhangi bir sorunuz veya talebiniz olduğunda, Gizlilik Politikamızda belirtilen iletişim kanallarımız üzerinden bizimle iletişime geçebilirsiniz. Verilerinizin güvenliği ve mahremiyeti bizim için büyük önem taşımaktadır.\n    </p>",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "kişisel veriler, KVKK, veri koruma, veri güvenliği, kişisel bilgi güvenliği",
+    "en": "personal data, data protection law, data protection, data security, personal information security",
+    "ar": "البيانات الشخصية، قانون حماية البيانات، حماية البيانات، أمن البيانات، أمن المعلومات الشخصية",
+    "de": "personenbezogene Daten, Datenschutzgesetz, Datenschutz, Datensicherheit, Sicherheit personenbezogener Informationen",
+    "ru": "персональные данные, закон о защите данных, защита данных, безопасность данных, безопасность персональной информации",
+    "es": "datos personales, ley de protección de datos, protección de datos, seguridad de datos, seguridad de la información personal"
+  },
+  "description": {
+    "tr": "Kişisel verilerinizin güvenliği için KVKK kapsamında gerekli tüm önlemleri alıyoruz. Verileriniz yalnızca yetkili kişiler tarafından erişilebilir ve üçüncü taraflarla paylaşılmaz.",
+    "en": "We take all necessary measures under the data protection law to ensure the security of your personal data. Your data is only accessible to authorized personnel and is not shared with third parties.",
+    "ar": "نتخذ جميع التدابير اللازمة بموجب قانون حماية البيانات لضمان أمن بياناتك الشخصية. يمكن الوصول إلى بياناتك فقط من قبل الموظفين المصرح لهم ولا يتم مشاركتها مع أطراف ثالثة.",
+    "de": "Wir ergreifen alle notwendigen Maßnahmen gemäß dem Datenschutzgesetz, um die Sicherheit Ihrer persönlichen Daten zu gewährleisten. Ihre Daten sind nur für autorisiertes Personal zugänglich und werden nicht an Dritte weitergegeben.",
+    "ru": "Мы принимаем все необходимые меры в соответствии с законом о защите данных для обеспечения безопасности ваших персональных данных. Ваши данные доступны только уполномоченному персоналу и не передаются третьим лицам.",
+    "es": "Tomamos todas las medidas necesarias bajo la ley de protección de datos para garantizar la seguridad de sus datos personales. Sus datos solo son accesibles para el personal autorizado y no se comparten con terceros."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": "",
+    "de": "",
+    "ru": "",
+    "es": ""
+  },
+  "index": 6,
+  "desc": {},
+  "icon": "home",
+  "bgimg": "1.jpg",
+  "update": "2025-06-13T22:54:34.876Z",
+  "date": "2025-06-13T22:54:34.876Z"
+}
