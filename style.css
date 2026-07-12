@@ -202,12 +202,12 @@
     align-items: center;
     background-color: #ffffff;
     border-radius: 5px;
-    overflow: hidden; /* Taşma durumunda kesme */
+    overflow: hidden; 
   }
   .dqf9abodyitemimg img {
     width: 100%;
     height: 100%;
-    object-fit: contain; /* Resmi sığdır, taşma yapmasın */
+    object-fit: contain; 
     border-radius: 5px;
   }
   .dqf9abodyitemtitle {

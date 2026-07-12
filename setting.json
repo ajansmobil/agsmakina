@@ -1,0 +1,28 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Ags Makina"
+  },
+  "keyword": {
+    "tr": "Ags Makina"
+  },
+  "category": "",
+  "name": "Ags Makina",
+  "domain": "agsmakina.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": true,
+    "ru": true,
+    "es": true,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png"
+}
