@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
   <title>Vision & Mission</title>
-  <meta name="description" content="Wir arbeiten mit umweltfreundlichen Praktiken für eine nachhaltige Zukunft. Wir leisten positive Beiträge zu Gesellschaft und Umwelt durch Energieeffizienz und effektive Ressourcennutzung." />
-  <meta name="keywords" content="umweltfreundliche Praktiken, nachhaltige Zukunft, Energieeffizienz, Umweltbewusstsein, technologische Innovationen" />
+  <meta name="description" content="Ags Makina" />
+  <meta name="keywords" content="Ags Makina" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://agsmakina.com/de/vizyonmisyon/" />
 
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Vision & Mission" />
-  <meta property="og:description" content="Wir arbeiten mit umweltfreundlichen Praktiken für eine nachhaltige Zukunft. Wir leisten positive Beiträge zu Gesellschaft und Umwelt durch Energieeffizienz und effektive Ressourcennutzung." />
+  <meta property="og:description" content="Ags Makina" />
   <meta property="og:image" content="https://agsmakina.com/img/icon.png" />
   <meta property="og:url" content="https://agsmakina.com/de/vizyonmisyon/" />
   <meta property="og:site_name" content="Ags Makina" />
@@ -21,25 +21,22 @@
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Vision & Mission" />
-  <meta name="twitter:description" content="Wir arbeiten mit umweltfreundlichen Praktiken für eine nachhaltige Zukunft. Wir leisten positive Beiträge zu Gesellschaft und Umwelt durch Energieeffizienz und effektive Ressourcennutzung." />
+  <meta name="twitter:description" content="Ags Makina" />
   <meta name="twitter:image" content="https://agsmakina.com/img/icon.png" />
 
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
-  <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=xn19s" />
-  <link rel="stylesheet" href="/src/mx-ui.css?v=xn19s" />
-  <link rel="preload" href="/src/cookie.css?v=xn19s" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=xn19s" />
-    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
-  </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=xn19s" type="image/png" />
+  <link rel="stylesheet" href="/src/rubik.css?v=s7otc" />
+  <link rel="stylesheet" href="/src/css.css?v=s7otc" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=s7otc" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=s7otc" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=s7otc" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=s7otc" />
+  <link rel="shortcut icon" href="/img/icon.png?v=s7otc" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -64,10 +61,27 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=xn19s">
+<link rel="stylesheet" href="style.css?v=s7otc">
 </head>
 
 <body>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
   <div id="header"><div class="h0000">
   <div class="h0000title">
     <div class="h0000titlebody">
@@ -81,7 +95,7 @@
   <div class="h0000body">
     <a href="/de/">
       <img
-        src="/img/logo.png?v=gyje6"
+        src="/img/logo.png?v=urecd"
         alt="Ags Makina Logo"
         class="h0000bodylogo"
         loading="lazy"
@@ -253,7 +267,15 @@
   }
 </script>
 </div>
-  <div id="content"></div>
+  <div id="content"><div class="b0000-title f36">
+  <h1>Vision & Mission</h1>
+</div>
+<div class="b0000">
+  <div class="b0000-menu"><a  href="/de/hakkimizda/" >Über uns</a><a class="active" href="/de/vizyonmisyon/" >Vision & Mission</a><a  href="/de/misyon/" >Mission</a><a  href="/de/vizyon/" >Vision</a><a  href="/de/kalitepolitikamiz/" >Unsere Qualitätspolitik</a><a  href="/de/gizlilikpolitikasi/" >Datenschutzrichtlinie</a><a  href="/de/kisiselveriler/" >Persönliche Daten</a><a  href="/de/kullanicihaklari/" >Benutzerrechte</a><a  href="/de/yasaluyari/" >Rechtswarnung</a></div>
+  <div class="b0000-body"></div>
+</div>
+
+</div>
   <div id="footer"><a
   href="https://api.whatsapp.com/send/?phone=905435320409&text=&app_absent=0"
   target="_blank"
@@ -318,16 +340,16 @@
     <ul class="menu">
       <li class="menu__item"><a class="menu__link" href="/de/">Startseite</a></li><li class="menu__item"><a class="menu__link" href="/de/kurumsal/">Institutionell</a></li><li class="menu__item"><a class="menu__link" href="/de/urunlerimiz/">Unsere Produkte</a></li><li class="menu__item"><a class="menu__link" href="/de/iletisim/">Kontakt</a></li>
     </ul>
-    <p>Ags Makina 2025 cognite. &copy;</p>
+    <p>Ags Makina 2026 copyright. &copy;</p>
   </footer>
   </div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=xn19s"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=xn19s"></script>
-  <script defer src="/src/cookie.js?v=xn19s"></script>
+  <script defer src="/src/mx-ui.js?v=s7otc"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=s7otc"></script>
+  <script defer src="/src/cookie.js?v=s7otc"></script>
 
   <script>
     setTimeout(function() {

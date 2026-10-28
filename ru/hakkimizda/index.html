@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
   <title>О нас</title>
-  <meta name="description" content="Мы предоставляем надежные и профессиональные услуги в области переработки арахиса и производства машин с более чем 15-летним опытом работы в отрасли." />
-  <meta name="keywords" content="AGS Agro Food and Machinery, переработка арахиса, производство машин, промышленные решения" />
+  <meta name="description" content="Ags Makina" />
+  <meta name="keywords" content="Ags Makina" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://agsmakina.com/ru/hakkimizda/" />
 
   <meta property="og:type" content="article" />
   <meta property="og:title" content="О нас" />
-  <meta property="og:description" content="Мы предоставляем надежные и профессиональные услуги в области переработки арахиса и производства машин с более чем 15-летним опытом работы в отрасли." />
+  <meta property="og:description" content="Ags Makina" />
   <meta property="og:image" content="https://agsmakina.com/img/icon.png" />
   <meta property="og:url" content="https://agsmakina.com/ru/hakkimizda/" />
   <meta property="og:site_name" content="Ags Makina" />
@@ -21,25 +21,22 @@
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="О нас" />
-  <meta name="twitter:description" content="Мы предоставляем надежные и профессиональные услуги в области переработки арахиса и производства машин с более чем 15-летним опытом работы в отрасли." />
+  <meta name="twitter:description" content="Ags Makina" />
   <meta name="twitter:image" content="https://agsmakina.com/img/icon.png" />
 
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
 
-  <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=r6log" />
-  <link rel="stylesheet" href="/src/mx-ui.css?v=r6log" />
-  <link rel="preload" href="/src/cookie.css?v=r6log" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=r6log" />
-    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
-  </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=r6log" type="image/png" />
+  <link rel="stylesheet" href="/src/rubik.css?v=zvj5z" />
+  <link rel="stylesheet" href="/src/css.css?v=zvj5z" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=zvj5z" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=zvj5z" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=zvj5z" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=zvj5z" />
+  <link rel="shortcut icon" href="/img/icon.png?v=zvj5z" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -64,10 +61,27 @@
   
 <link rel="manifest" href="/manifest.json">
 <meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=r6log">
+<link rel="stylesheet" href="style.css?v=zvj5z">
 </head>
 
 <body>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
   <div id="header"><div class="h0000">
   <div class="h0000title">
     <div class="h0000titlebody">
@@ -81,7 +95,7 @@
   <div class="h0000body">
     <a href="/ru/">
       <img
-        src="/img/logo.png?v=qbgcs"
+        src="/img/logo.png?v=vk82d"
         alt="Ags Makina Logo"
         class="h0000bodylogo"
         loading="lazy"
@@ -253,7 +267,15 @@
   }
 </script>
 </div>
-  <div id="content"></div>
+  <div id="content"><div class="b0000-title f36">
+  <h1>О нас</h1>
+</div>
+<div class="b0000">
+  <div class="b0000-menu"><a class="active" href="/ru/hakkimizda/" >О нас</a><a  href="/ru/vizyonmisyon/" >Видение и миссия</a><a  href="/ru/misyon/" >Миссия</a><a  href="/ru/vizyon/" >Зрение</a><a  href="/ru/kalitepolitikamiz/" >Наша качественная политика</a><a  href="/ru/gizlilikpolitikasi/" >политика конфиденциальности</a><a  href="/ru/kisiselveriler/" >Персональные данные</a><a  href="/ru/kullanicihaklari/" >Права пользователя</a><a  href="/ru/yasaluyari/" >Юридическое предупреждение</a></div>
+  <div class="b0000-body"></div>
+</div>
+
+</div>
   <div id="footer"><a
   href="https://api.whatsapp.com/send/?phone=905435320409&text=&app_absent=0"
   target="_blank"
@@ -318,16 +340,16 @@
     <ul class="menu">
       <li class="menu__item"><a class="menu__link" href="/ru/">Домашняя страница</a></li><li class="menu__item"><a class="menu__link" href="/ru/kurumsal/">Институциональный</a></li><li class="menu__item"><a class="menu__link" href="/ru/urunlerimiz/">Наши продукты</a></li><li class="menu__item"><a class="menu__link" href="/ru/iletisim/">Контакт</a></li>
     </ul>
-    <p>Ags Makina 2025 cognite. &copy;</p>
+    <p>Ags Makina 2026 copyright. &copy;</p>
   </footer>
   </div>
 
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=r6log"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=r6log"></script>
-  <script defer src="/src/cookie.js?v=r6log"></script>
+  <script defer src="/src/mx-ui.js?v=zvj5z"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=zvj5z"></script>
+  <script defer src="/src/cookie.js?v=zvj5z"></script>
 
   <script>
     setTimeout(function() {
