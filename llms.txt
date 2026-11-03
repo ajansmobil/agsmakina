@@ -1,0 +1,44 @@
+# Ags Makina
+
+> Ags Makina
+
+Web: https://agsmakina.com/tr/ · Diller: tr, en, ar, de, ru, es (varsayilan: tr)
+
+## Sayfalar
+- [Ags Makina](https://agsmakina.com/tr/): Ags Makina
+- [Kurumsal](https://agsmakina.com/tr/kurumsal/)
+- [Ürünlerimiz](https://agsmakina.com/tr/urunlerimiz/)
+- [İletişim](https://agsmakina.com/tr/iletisim/)
+- [Hakkımızda](https://agsmakina.com/tr/hakkimizda/)
+- [Vizyon & Misyon](https://agsmakina.com/tr/vizyonmisyon/)
+- [Misyon](https://agsmakina.com/tr/misyon/)
+- [Vizyon](https://agsmakina.com/tr/vizyon/)
+- [Kalite Politikamız](https://agsmakina.com/tr/kalitepolitikamiz/)
+- [Gizlilik Politikası](https://agsmakina.com/tr/gizlilikpolitikasi/)
+- [Kişisel Veriler](https://agsmakina.com/tr/kisiselveriler/)
+- [Kullanıcı Hakları](https://agsmakina.com/tr/kullanicihaklari/)
+- [Yasal Uyarı](https://agsmakina.com/tr/yasaluyari/)
+- [Çerez Politikası](https://agsmakina.com/tr/cerez-politikasi/): Bu politika, Ags Makina tarafından işletilen agsmakina.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…
+- [Teknik Destek](https://agsmakina.com/tr/teknikdestek/)
+- [Kurulum Hizmetleri](https://agsmakina.com/tr/kurulumhizmetleri/)
+
+## Urunler
+- [4 Katlı Temizleme Eleği](https://agsmakina.com/tr/4katlitemizlemeelegi/)
+- [Döner Kavurma Makinesi](https://agsmakina.com/tr/donerkavurmamakinesi/)
+- [Fıstık Kırma Makinesi](https://agsmakina.com/tr/fistikkirmamakinesi/)
+- [Hafif Tane Ayıklama Makinası](https://agsmakina.com/tr/hafiftaneayiklamamakinasi/)
+- [İç Fıstık Kalibrasyon Eleği](https://agsmakina.com/tr/icfistikkalibrasyonelegi/)
+- [Paletli Kavurma Fırını](https://agsmakina.com/tr/paletlikavurmafirini/)
+- [Savurma Makinesı](https://agsmakina.com/tr/savurmamakinesi/)
+- [Taş Ayırma Makinası](https://agsmakina.com/tr/tasayirmamakinasi/)
+- [Elevatör 1](https://agsmakina.com/tr/elevator1/)
+- [Elevatör 2](https://agsmakina.com/tr/elevator2/)
+- [Elevatör 3](https://agsmakina.com/tr/elevator3/)
+- [Elevatör 4](https://agsmakina.com/tr/elevator4/)
+- [Elevatör 5](https://agsmakina.com/tr/elevator5/)
+- [Elevatör 6](https://agsmakina.com/tr/elevator6/)
+- [Elevatör 7](https://agsmakina.com/tr/elevator7/)
+
+## Diger
+- [sitemap.xml](https://agsmakina.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://agsmakina.com/llms-full.txt): sayfa govdeleri duz metin

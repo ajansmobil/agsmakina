@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://agsmakina.com/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/" />
@@ -10,7 +11,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -23,7 +24,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -36,7 +37,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -49,7 +50,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -62,7 +63,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -75,7 +76,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -88,7 +89,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -101,7 +102,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurumsal/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -114,7 +115,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurumsal/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -127,7 +128,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurumsal/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -140,7 +141,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurumsal/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -153,7 +154,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurumsal/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -166,7 +167,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurumsal/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -179,7 +180,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/urunlerimiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -192,7 +193,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/urunlerimiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -205,7 +206,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/urunlerimiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -218,7 +219,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/urunlerimiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -231,7 +232,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/urunlerimiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -244,7 +245,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/urunlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/urunlerimiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -257,7 +258,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/iletisim/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/iletisim/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -270,7 +271,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/iletisim/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/iletisim/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -283,7 +284,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/iletisim/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/iletisim/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -296,7 +297,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/iletisim/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/iletisim/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -309,7 +310,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/iletisim/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/iletisim/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -322,7 +323,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/iletisim/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/iletisim/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -335,7 +336,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hakkimizda/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -348,7 +349,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hakkimizda/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -361,7 +362,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hakkimizda/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -374,7 +375,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hakkimizda/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -387,7 +388,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hakkimizda/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -400,7 +401,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hakkimizda/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -413,7 +414,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyonmisyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -426,7 +427,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyonmisyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -439,7 +440,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyonmisyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -452,7 +453,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyonmisyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -465,7 +466,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyonmisyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -478,7 +479,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyonmisyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyonmisyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -491,7 +492,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/misyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/misyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -504,7 +505,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/misyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/misyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -517,7 +518,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/misyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/misyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -530,7 +531,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/misyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/misyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -543,7 +544,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/misyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/misyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -556,7 +557,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/misyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/misyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -569,7 +570,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -582,7 +583,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -595,7 +596,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -608,7 +609,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -621,7 +622,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -634,7 +635,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/vizyon/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/vizyon/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -647,7 +648,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kalitepolitikamiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -660,7 +661,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kalitepolitikamiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -673,7 +674,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kalitepolitikamiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -686,7 +687,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kalitepolitikamiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -699,7 +700,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kalitepolitikamiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -712,7 +713,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kalitepolitikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kalitepolitikamiz/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -725,7 +726,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/gizlilikpolitikasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -738,7 +739,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/gizlilikpolitikasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -751,7 +752,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/gizlilikpolitikasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -764,7 +765,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/gizlilikpolitikasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -777,7 +778,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/gizlilikpolitikasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -790,7 +791,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/gizlilikpolitikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/gizlilikpolitikasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -803,7 +804,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kisiselveriler/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -816,7 +817,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kisiselveriler/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -829,7 +830,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kisiselveriler/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -842,7 +843,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kisiselveriler/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -855,7 +856,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kisiselveriler/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -868,7 +869,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kisiselveriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kisiselveriler/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -881,7 +882,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kullanicihaklari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -894,7 +895,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kullanicihaklari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -907,7 +908,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kullanicihaklari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -920,7 +921,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kullanicihaklari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -933,7 +934,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kullanicihaklari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -946,7 +947,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kullanicihaklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kullanicihaklari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -959,7 +960,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/yasaluyari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -972,7 +973,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/yasaluyari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -985,7 +986,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/yasaluyari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -998,7 +999,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/yasaluyari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1011,7 +1012,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/yasaluyari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1024,7 +1025,85 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/yasaluyari/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://agsmakina.com/tr/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agsmakina.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://agsmakina.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://agsmakina.com/de/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://agsmakina.com/en/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agsmakina.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://agsmakina.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://agsmakina.com/de/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://agsmakina.com/ar/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agsmakina.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://agsmakina.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://agsmakina.com/de/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://agsmakina.com/de/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agsmakina.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://agsmakina.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://agsmakina.com/de/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://agsmakina.com/ru/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agsmakina.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://agsmakina.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://agsmakina.com/de/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://agsmakina.com/es/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agsmakina.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://agsmakina.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://agsmakina.com/de/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1037,7 +1116,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/4katlitemizlemeelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g0dbhk18mz/x9dfr.jpg</image:loc>
+            <image:title>4 Katlı Temizleme Eleği</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1050,7 +1133,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/4katlitemizlemeelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g0dbhk18mz/x9dfr.jpg</image:loc>
+            <image:title>4-Piece Cleaning Sieve</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1063,7 +1150,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/4katlitemizlemeelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g0dbhk18mz/x9dfr.jpg</image:loc>
+            <image:title>منخل تحميص 4 قطعة</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1076,7 +1167,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/4katlitemizlemeelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g0dbhk18mz/x9dfr.jpg</image:loc>
+            <image:title>Vierer-Sieb für Reinigung</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1089,7 +1184,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/4katlitemizlemeelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g0dbhk18mz/x9dfr.jpg</image:loc>
+            <image:title>4 -Storey Cleaning Element</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1102,7 +1201,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/4katlitemizlemeelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/4katlitemizlemeelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g0dbhk18mz/x9dfr.jpg</image:loc>
+            <image:title>Máscara de clasificación de 4 partes</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1115,7 +1218,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/donerkavurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/c29hzvm3te/o46cc.jpg</image:loc>
+            <image:title>Döner Kavurma Makinesi</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1128,7 +1235,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/donerkavurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/c29hzvm3te/o46cc.jpg</image:loc>
+            <image:title>Doner Roasting Machine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1141,7 +1252,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/donerkavurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/c29hzvm3te/o46cc.jpg</image:loc>
+            <image:title>ماكينة تحميص الدونر</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1154,7 +1269,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/donerkavurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/c29hzvm3te/o46cc.jpg</image:loc>
+            <image:title>Döner-Bratmaschine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1167,7 +1286,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/donerkavurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/c29hzvm3te/o46cc.jpg</image:loc>
+            <image:title>Машина для жарки донера</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1180,7 +1303,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/donerkavurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/donerkavurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/c29hzvm3te/o46cc.jpg</image:loc>
+            <image:title>Máquina para asar doners</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1193,7 +1320,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/fistikkirmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/h1s8csxbk8/jjm56.jpg</image:loc>
+            <image:title>Fıstık Kırma Makinesi</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1206,7 +1337,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/fistikkirmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/h1s8csxbk8/jjm56.jpg</image:loc>
+            <image:title>Peanut Crushing Machine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1219,7 +1354,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/fistikkirmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/h1s8csxbk8/jjm56.jpg</image:loc>
+            <image:title>آلة طحن الفول السوداني</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1232,7 +1371,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/fistikkirmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/h1s8csxbk8/jjm56.jpg</image:loc>
+            <image:title>Erdnuss-Zerkleinerungsmaschine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1245,7 +1388,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/fistikkirmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/h1s8csxbk8/jjm56.jpg</image:loc>
+            <image:title>Фисташковая машина</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1258,7 +1405,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/fistikkirmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/fistikkirmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/h1s8csxbk8/jjm56.jpg</image:loc>
+            <image:title>Máquina trituradora de maní</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1271,7 +1422,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hafiftaneayiklamamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g9z1rp5hcq/cmo9v.jpg</image:loc>
+            <image:title>Hafif Tane Ayıklama Makinası</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1284,7 +1439,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hafiftaneayiklamamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g9z1rp5hcq/cmo9v.jpg</image:loc>
+            <image:title>Light Grain Sorting Machine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1297,7 +1456,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hafiftaneayiklamamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g9z1rp5hcq/cmo9v.jpg</image:loc>
+            <image:title>ماكينة فرز الحبوب الخفيفة</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1310,7 +1473,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hafiftaneayiklamamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g9z1rp5hcq/cmo9v.jpg</image:loc>
+            <image:title>Sortiermaschine für leichtes Getreide</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1323,7 +1490,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hafiftaneayiklamamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g9z1rp5hcq/cmo9v.jpg</image:loc>
+            <image:title>Слегка сортировочная машина</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1336,7 +1507,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/hafiftaneayiklamamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/hafiftaneayiklamamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/g9z1rp5hcq/cmo9v.jpg</image:loc>
+            <image:title>Máquina clasificadora de granos ligeros</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1349,7 +1524,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/icfistikkalibrasyonelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ouyknqov2f/w4j5q.jpg</image:loc>
+            <image:title>İç Fıstık Kalibrasyon Eleği</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1362,7 +1541,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/icfistikkalibrasyonelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ouyknqov2f/w4j5q.jpg</image:loc>
+            <image:title>Pistachio Calibration Sieve</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1375,7 +1558,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/icfistikkalibrasyonelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ouyknqov2f/w4j5q.jpg</image:loc>
+            <image:title>منخل معايرة الفستق</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1388,7 +1575,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/icfistikkalibrasyonelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ouyknqov2f/w4j5q.jpg</image:loc>
+            <image:title>Pistazien-Kalibriersieb</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1401,7 +1592,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/icfistikkalibrasyonelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ouyknqov2f/w4j5q.jpg</image:loc>
+            <image:title>Внутреннее калибровочное сито с арахисом</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1414,7 +1609,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/icfistikkalibrasyonelegi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/icfistikkalibrasyonelegi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ouyknqov2f/w4j5q.jpg</image:loc>
+            <image:title>Tamiz de calibración de pistacho</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1427,7 +1626,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/paletlikavurmafirini/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kpyewtvsc8/szpwf.jpg</image:loc>
+            <image:title>Paletli Kavurma Fırını</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1440,7 +1643,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/paletlikavurmafirini/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kpyewtvsc8/szpwf.jpg</image:loc>
+            <image:title>Pallet Roasting Oven</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1453,7 +1660,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/paletlikavurmafirini/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kpyewtvsc8/szpwf.jpg</image:loc>
+            <image:title>فرن تحميص البليت</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1466,7 +1677,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/paletlikavurmafirini/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kpyewtvsc8/szpwf.jpg</image:loc>
+            <image:title>Paletten-Bratofen</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1479,7 +1694,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/paletlikavurmafirini/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kpyewtvsc8/szpwf.jpg</image:loc>
+            <image:title>Палитра жаркая духовка</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1492,7 +1711,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/paletlikavurmafirini/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/paletlikavurmafirini/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kpyewtvsc8/szpwf.jpg</image:loc>
+            <image:title>Horno de asado de paletas</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1505,7 +1728,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/savurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/o77466x92r/sjyaw.jpg</image:loc>
+            <image:title>Savurma Makinesı</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1518,7 +1745,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/savurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/o77466x92r/sjyaw.jpg</image:loc>
+            <image:title>Winding Machine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1531,7 +1762,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/savurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/o77466x92r/sjyaw.jpg</image:loc>
+            <image:title>آلة لف</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1544,7 +1779,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/savurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/o77466x92r/sjyaw.jpg</image:loc>
+            <image:title>Wickelmaschine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1557,7 +1796,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/savurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/o77466x92r/sjyaw.jpg</image:loc>
+            <image:title>Качающаяся машина</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1570,7 +1813,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/savurmamakinesi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/savurmamakinesi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/o77466x92r/sjyaw.jpg</image:loc>
+            <image:title>Máquina de bobinado</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1583,7 +1830,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/tasayirmamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ketmzfa09e/st2tk.jpg</image:loc>
+            <image:title>Taş Ayırma Makinası</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1596,7 +1847,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/tasayirmamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ketmzfa09e/st2tk.jpg</image:loc>
+            <image:title>Stone Separating Machine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1609,7 +1864,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/tasayirmamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ketmzfa09e/st2tk.jpg</image:loc>
+            <image:title>آلة فصل الحجر</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1622,7 +1881,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/tasayirmamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ketmzfa09e/st2tk.jpg</image:loc>
+            <image:title>Steintrennmaschine</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1635,7 +1898,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/tasayirmamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ketmzfa09e/st2tk.jpg</image:loc>
+            <image:title>Каменная отделка</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1648,7 +1915,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/tasayirmamakinasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/tasayirmamakinasi/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ketmzfa09e/st2tk.jpg</image:loc>
+            <image:title>Máquina separadora de piedra</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1661,7 +1932,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator1/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator1/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/al4iwmdtey/caayx.jpg</image:loc>
+            <image:title>Elevatör 1</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1674,7 +1949,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator1/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator1/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/al4iwmdtey/caayx.jpg</image:loc>
+            <image:title>Elevator 1</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1687,7 +1966,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator1/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator1/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/al4iwmdtey/caayx.jpg</image:loc>
+            <image:title>مصعد 1</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1700,7 +1983,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator1/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator1/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/al4iwmdtey/caayx.jpg</image:loc>
+            <image:title>Aufzug 1</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1713,7 +2000,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator1/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator1/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/al4iwmdtey/caayx.jpg</image:loc>
+            <image:title>Лифт 1</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1726,7 +2017,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator1/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator1/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/al4iwmdtey/caayx.jpg</image:loc>
+            <image:title>Ascensor 1</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1739,7 +2034,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator2/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator2/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kmnvuyqxp0/q6in3.jpg</image:loc>
+            <image:title>Elevatör 2</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1752,7 +2051,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator2/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator2/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kmnvuyqxp0/q6in3.jpg</image:loc>
+            <image:title>Elevator 2</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1765,7 +2068,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator2/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator2/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kmnvuyqxp0/q6in3.jpg</image:loc>
+            <image:title>مصعد 2</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1778,7 +2085,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator2/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator2/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kmnvuyqxp0/q6in3.jpg</image:loc>
+            <image:title>Aufzug 2</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1791,7 +2102,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator2/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator2/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kmnvuyqxp0/q6in3.jpg</image:loc>
+            <image:title>Лифт 2</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1804,7 +2119,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator2/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator2/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator2/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/kmnvuyqxp0/q6in3.jpg</image:loc>
+            <image:title>Ascensor 2</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1817,7 +2136,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator3/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator3/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/abibxovppd/zsyjy.jpg</image:loc>
+            <image:title>Elevatör 3</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1830,7 +2153,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator3/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator3/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/abibxovppd/zsyjy.jpg</image:loc>
+            <image:title>Elevator 3</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1843,7 +2170,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator3/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator3/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/abibxovppd/zsyjy.jpg</image:loc>
+            <image:title>مصعد 3</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1856,7 +2187,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator3/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator3/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/abibxovppd/zsyjy.jpg</image:loc>
+            <image:title>Aufzug 3</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1869,7 +2204,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator3/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator3/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/abibxovppd/zsyjy.jpg</image:loc>
+            <image:title>Лифт 3</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1882,7 +2221,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator3/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator3/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator3/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/abibxovppd/zsyjy.jpg</image:loc>
+            <image:title>Ascensor 3</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1895,7 +2238,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator4/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator4/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ymsjlmnjje/ftxvs.jpg</image:loc>
+            <image:title>Elevatör 4</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1908,7 +2255,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator4/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator4/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ymsjlmnjje/ftxvs.jpg</image:loc>
+            <image:title>Elevator 4</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1921,7 +2272,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator4/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator4/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ymsjlmnjje/ftxvs.jpg</image:loc>
+            <image:title>مصعد 4</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1934,7 +2289,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator4/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator4/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ymsjlmnjje/ftxvs.jpg</image:loc>
+            <image:title>Aufzug 4</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1947,7 +2306,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator4/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator4/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ymsjlmnjje/ftxvs.jpg</image:loc>
+            <image:title>Лифт 4</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1960,7 +2323,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator4/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator4/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator4/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/ymsjlmnjje/ftxvs.jpg</image:loc>
+            <image:title>Ascensor 4</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1973,7 +2340,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator5/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator5/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/bhhu4xxqwu/wxycg.jpg</image:loc>
+            <image:title>Elevatör 5</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1986,7 +2357,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator5/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator5/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/bhhu4xxqwu/wxycg.jpg</image:loc>
+            <image:title>Elevator 5</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1999,7 +2374,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator5/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator5/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/bhhu4xxqwu/wxycg.jpg</image:loc>
+            <image:title>مصعد 5</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2012,7 +2391,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator5/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator5/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/bhhu4xxqwu/wxycg.jpg</image:loc>
+            <image:title>Aufzug 5</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2025,7 +2408,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator5/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator5/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/bhhu4xxqwu/wxycg.jpg</image:loc>
+            <image:title>Лифт 5</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2038,7 +2425,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator5/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator5/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator5/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/bhhu4xxqwu/wxycg.jpg</image:loc>
+            <image:title>Ascensor 5</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2051,7 +2442,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator6/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator6/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/p0oj58ed66/nv0rd.jpg</image:loc>
+            <image:title>Elevatör 6</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2064,7 +2459,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator6/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator6/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/p0oj58ed66/nv0rd.jpg</image:loc>
+            <image:title>Elevator 6</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2077,7 +2476,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator6/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator6/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/p0oj58ed66/nv0rd.jpg</image:loc>
+            <image:title>مصعد 6</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2090,7 +2493,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator6/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator6/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/p0oj58ed66/nv0rd.jpg</image:loc>
+            <image:title>Aufzug 6</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2103,7 +2510,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator6/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator6/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/p0oj58ed66/nv0rd.jpg</image:loc>
+            <image:title>Лифт 6</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2116,7 +2527,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator6/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator6/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator6/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/p0oj58ed66/nv0rd.jpg</image:loc>
+            <image:title>Ascensor 6</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2129,7 +2544,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator7/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator7/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/rjf6l83hy2/desas.jpg</image:loc>
+            <image:title>Elevatör 7</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2142,7 +2561,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator7/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator7/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/rjf6l83hy2/desas.jpg</image:loc>
+            <image:title>Elevator 7</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2155,7 +2578,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator7/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator7/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/rjf6l83hy2/desas.jpg</image:loc>
+            <image:title>مصعد 7</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2168,7 +2595,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator7/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator7/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/rjf6l83hy2/desas.jpg</image:loc>
+            <image:title>Aufzug 7</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2181,7 +2612,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator7/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator7/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/rjf6l83hy2/desas.jpg</image:loc>
+            <image:title>Лифт 7</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2194,7 +2629,11 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/elevator7/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/elevator7/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/elevator7/" />
-        <lastmod>2026-10-23</lastmod>
+        <image:image>
+            <image:loc>https://agsmakina.com/page/rjf6l83hy2/desas.jpg</image:loc>
+            <image:title>Ascensor 7</image:title>
+        </image:image>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2207,7 +2646,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/teknikdestek/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2220,7 +2659,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/teknikdestek/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2233,7 +2672,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/teknikdestek/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2246,7 +2685,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/teknikdestek/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2259,7 +2698,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/teknikdestek/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2272,7 +2711,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/teknikdestek/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/teknikdestek/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2285,7 +2724,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurulumhizmetleri/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2298,7 +2737,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurulumhizmetleri/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2311,7 +2750,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurulumhizmetleri/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2324,7 +2763,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurulumhizmetleri/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2337,7 +2776,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurulumhizmetleri/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -2350,7 +2789,7 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://agsmakina.com/ru/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="es" href="https://agsmakina.com/es/kurulumhizmetleri/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://agsmakina.com/tr/kurulumhizmetleri/" />
-        <lastmod>2026-10-23</lastmod>
+        <lastmod>2026-09-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
